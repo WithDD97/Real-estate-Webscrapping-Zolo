@@ -1,0 +1,1757 @@
+,Province,City,Street,Neighbourhood,Price,Bed,Bath,Size,room
+0,ON,Toronto,216-1350 Kingston Road,Birchcliffe-Cliffside,1149000.0,2,2,900-999,4
+1,ON,Toronto,403-1486 Bathurst Street,Humewood-Cedarvale,629990.0,1+1,1,600-699,3
+2,ON,Toronto,99 Woody Vine Way,Bayview Village,800000.0,3+1,3,1000-1199,7
+3,ON,Toronto,PH12-118 Merchants' Wharf,Waterfront Communities C8,6450000.0,3+1,5,4000-4249,9
+4,ON,Toronto,TH 101-70 Annie Craig Drive,Mimico,1199000.0,2+1,3,1200-1399,6
+5,ON,Toronto,1108-110 Charles Street E,Church-Yonge Corridor,888000.0,2,2,800-899,4
+6,ON,Toronto,1806-290 Adelaide Street W,Waterfront Communities C1,688778.0,1,1,600-699,2
+7,ON,Toronto,611-77 Harbour Square,Waterfront Communities C1,775000.0,1,1,700-799,2
+8,ON,Toronto,48-331 Trudelle Street,Eglinton East,749000.0,3+1,2,1200-1399,6
+9,ON,Toronto,PH10-152 St Patrick Street,Kensington-Chinatown,1495000.0,2,2,1400-1599,4
+10,ON,Toronto,508-39 Jarvis Street,Moss Park,650000.0,1,1,700-799,2
+11,ON,Toronto,1807-100 Harbour Street,Waterfront Communities C1,659000.0,1,1,0-499,2
+12,ON,Toronto,1409-438 Richmond Street W,Waterfront Communities C1,999000.0,2,2,900-999,4
+13,ON,Toronto,404-76 Shuter Street,Church-Yonge Corridor,599000.0,1+1,1,700-799,3
+14,ON,Toronto,503-115 Blue Jays Way,Waterfront Communities C1,599900.0,1,1,0-499,2
+15,ON,Toronto,601-115 Richmond Street E,Church-Yonge Corridor,649900.0,1,1,700-799,2
+16,ON,Toronto,807-1 Concorde Place,Banbury-Don Mills,749000.0,1+1,2,1400-1599,4
+17,ON,Toronto,1409-438 Richmond Street W,Waterfront Communities C1,999000.0,2,2,900-999,4
+18,ON,Toronto,1409-438 Richmond Street W,Waterfront Communities C1,999000.0,2,2,900-999,4
+19,ON,Toronto,97-100 Parrotta Drive,Humberlea-Pelmo Park W5,688888.0,2,2,1000-1199,4
+20,ON,Toronto,1004-88 Scott Street,Church-Yonge Corridor,950000.0,1+1,1,600-699,3
+21,ON,Toronto,1307-20 Joe Shuster Way,Niagara,499900.0,1,1,0-499,2
+22,ON,Toronto,204-60 Bathurst Street,Niagara,650000.0,1,1,600-699,2
+23,ON,Toronto,323-218 King Street E,Moss Park,624900.0,1+1,1,600-699,3
+24,ON,Toronto,504-21 Markbrook Lane,Mount Olive-Silverstone-Jamestown,599000.0,2,2,1000-1199,4
+25,ON,Toronto,1606-525 Adelaide Street W,Waterfront Communities C1,999900.0,3,2,1000-1199,5
+26,ON,Toronto,2416-55 Harbour Square,Waterfront Communities C1,899900.0,1+1,2,1000-1199,4
+27,ON,Toronto,323-30 Nelson Street,Waterfront Communities C1,999900.0,2+1,2,1200-1399,5
+28,ON,Toronto,2701-50 Wellesley Street E,Church-Yonge Corridor,699900.0,1,1,0-499,2
+29,ON,Toronto,UPH04-19 Avondale Avenue,Willowdale East,465000.0,–,1,0-499,1
+30,ON,Toronto,2312-330 Richmond Street,Waterfront Communities C1,999000.0,2,2,700-799,4
+31,ON,Toronto,1503-5500 Yonge Street,Willowdale West,788800.0,2,1,700-799,3
+32,ON,Toronto,216-50 George Butchart Drive,Downsview-Roding-CFB,615000.0,1+1,2,500-599,4
+33,ON,Toronto,822-85 Wood Street,Church-Yonge Corridor,929900.0,2+1,2,700-799,5
+34,ON,Toronto,4004-70 Annie Craig Boulevard W,Mimico,2089000.0,2,3,1000-1199,5
+35,ON,Toronto,107-2995 Keele Street,Downsview-Roding-CFB,625000.0,1+1,2,500-599,4
+36,ON,Toronto,1109-30 Meadowglen Place,Woburn,599000.0,1+1,2,600-699,4
+37,ON,Toronto,308-150 Leeward Glenway Way,Flemingdon Park,699900.0,4,2,1000-1199,6
+38,ON,Toronto,811-50 Bruyeres Mews,Waterfront Communities C1,799900.0,2,2,800-899,4
+39,ON,Toronto,709-2015 Sheppard Avenue E,Henry Farm,610000.0,1+1,1,600-699,3
+40,ON,Toronto,405-5 Shady Golf Way,Flemingdon Park,479000.0,3,1,1000-1199,4
+41,ON,Toronto,1208-4645 Jane Street,Black Creek,199900.0,2,1,900-999,3
+42,ON,Toronto,118-50 George Butchart Drive,Downsview-Roding-CFB,609990.0,1+1,1,600-699,3
+43,ON,Toronto,1907-50 Ann O'reilly Road,Henry Farm,699000.0,1,1,500-599,2
+44,ON,Toronto,1603-70 Distillery Lane,Waterfront Communities C8,899900.0,2,2,800-899,4
+45,ON,Toronto,1107-75 Wynford Heights Crescent,Banbury-Don Mills,899000.0,2+1,2,1400-1599,5
+46,ON,Toronto,55 Edward Horton Crescent,Islington-City Centre West,1099000.0,3,3,1600-1799,6
+47,ON,Toronto,93 Mcgill Street,Church-Yonge Corridor,988000.0,2,2,800-899,4
+48,ON,Toronto,2607-228 Bonis Avenue,Tam O'Shanter-Sullivan,529900.0,1,2,1000-1199,3
+49,ON,Toronto,731-525 Wilson Avenue,Clanton Park,599888.0,1,1,500-599,2
+50,ON,Toronto,W1208-565 Wilson Avenue,Clanton Park,979789.0,2,2,1000-1199,4
+51,ON,Toronto,1505-5 Concorde Place,Banbury-Don Mills,949999.0,2+1,2,1400-1599,5
+52,ON,Toronto,1003-11 Bogert Avenue,Lansing-Westgate,799000.0,2+1,2,900-999,5
+53,ON,Toronto,1711-25 Capreol Court,Waterfront Communities C1,549900.0,1,1,501-1000,2
+54,ON,Toronto,2801-14 York Street,Waterfront Communities C1,999000.0,3,2,900-999,5
+55,ON,Toronto,4503-15 Lower Jarvis Street,Waterfront Communities C8,2499000.0,2+1,2,1500-2000,5
+56,ON,Toronto,905-115 Antibes Drive,Westminster-Branson,599000.0,2,2,1200-1399,4
+57,ON,Toronto,8D-1 Chedington Place,Bridle Path-Sunnybrook-York Mills,3980000.0,2,4,2750-2999,6
+58,ON,Toronto,1304-1486 Bathurst Street,Forest Hill South,629900.0,1+1,1,600-699,3
+59,ON,Toronto,733-165 Legion Road N,Mimico,599999.0,1+1,1,600-699,3
+60,ON,Toronto,318-80 Harrison Garden Boulevard,Willowdale East,929000.0,2,2,900-999,4
+61,ON,Toronto,208-110 Hepbourne Street,Dufferin Grove,1599000.0,2,3,1600-1799,5
+62,ON,Toronto,726-169 Fort York Boulevard,Niagara,649900.0,2,1,700-799,3
+63,ON,Toronto,#1701-75 Queens Wharf Road,Waterfront Communities C1,1099000.0,3,2,1000-1199,5
+64,ON,Toronto,515-676 Sheppard Avenue E,Bayview Village,638888.0,1+1,2,700-799,4
+65,ON,Toronto,PH1806E-576 Front Street W,Waterfront Communities C1,999000.0,3,2,900-999,5
+66,ON,Toronto,THB-1 St Thomas Street,Bay Street Corridor,8895000.0,3,5,5000+,8
+67,ON,Toronto,2506-2212 Lake Shore Boulevard W,Mimico,798000.0,2,2,700-799,4
+68,ON,Toronto,1302-240 Scarlett Road,Rockcliffe-Smythe,649000.0,2,1,1000-1199,3
+69,ON,Toronto,1503-61 Town Centre Court,Bendale,738800.0,2,2,900-999,4
+70,ON,Toronto,18 Fundy Bay Boulevard,Steeles,899000.0,3+1,3,1200-1399,7
+71,ON,Toronto,19 Lower Village Gate,Forest Hill South,2299000.0,2,2,1500-2000,4
+72,ON,Toronto,3106-300 Front Street W,Waterfront Communities C1,899000.0,1+1,1,600-699,3
+73,ON,Toronto,901-30 Nelson Street,Waterfront Communities C1,699000.0,1+1,1,600-699,3
+74,ON,Toronto,2902-199 Richmond Street W,Waterfront Communities C1,1249000.0,2+1,2,900-999,5
+75,ON,Toronto,2303-33 Bay Street,Waterfront Communities C1,1174900.0,2+1,2,900-999,5
+76,ON,Toronto,6303-10 York Street,Waterfront Communities C1,1999900.0,2,2,1400-1599,4
+77,ON,Toronto,1501-2230 Lake Shore Boulevard W,Mimico,699000.0,1+1,1,700-799,3
+78,ON,Toronto,1716-88 Park Lawn Road,Mimico,888000.0,2+1,2,1000-1199,5
+79,ON,Toronto,3-21 Foundry Avenue,Rouge E11,899999.0,3+1,2,1200-1399,6
+80,ON,Toronto,516-60 Berwick Avenue,Yonge-Eglinton,699000.0,1+1,1,600-699,3
+81,ON,Toronto,306-38 Cameron Street,Kensington-Chinatown,619900.0,1,1,500-599,2
+82,ON,Toronto,1609-628 Fleet Street,Niagara,719000.0,1,1,700-799,2
+83,ON,Toronto,LPH7-10 Park Lawn Road,Mimico,899900.0,2,2,800-899,4
+84,ON,Toronto,1501-18 Hollywood Avenue,Willowdale East,799000.0,2+1,2,1400-1599,5
+85,ON,Toronto,301-199 Richmond Street W,Waterfront Communities C1,699000.0,1+1,2,700-799,4
+86,ON,Toronto,504-8 Sultan Street,Bay Street Corridor,1739000.0,2,2,1400-1599,4
+87,ON,Toronto,1504-35 Brian Peck Crescent,Leaside,848000.0,2+1,2,900-999,5
+88,ON,Toronto,1506-33 Lombard Street,Church-Yonge Corridor,1049900.0,2,2,800-899,4
+89,ON,Toronto,211-57 Finch Avenue W,Willowdale West,999000.0,3+1,3,1200-1399,7
+90,ON,Toronto,LPH7-10 Park Lawn Road,Mimico,899900.0,2,2,800-899,4
+91,ON,Toronto,202-2015 Sheppard Avenue E,Henry Farm,499000.0,1,1,500-599,2
+92,ON,Toronto,1029-15 Northtown Way,Willowdale East,629900.0,1+1,2,600-699,4
+93,ON,Toronto,727-5 Everson Drive,Willowdale East,849900.0,2+1,2,900-999,5
+94,ON,Toronto,206-100 Harrison Garden Boulevard,Willowdale East,599000.0,1+1,2,700-799,4
+95,ON,Toronto,5702-88 Scott Street,Church-Yonge Corridor,6288000.0,3,5,4500-4749,8
+96,ON,Toronto,503-88 Colgate Avenue,South Riverdale,579900.0,1,1,500-599,2
+97,ON,Toronto,704-21 Widmer Street,Waterfront Communities C1,749000.0,1+1,1,600-699,3
+98,ON,Toronto,901-25 Oxley Street,Waterfront Communities C1,878000.0,1+1,1,800-899,3
+99,ON,Toronto,95 Maple Branch Path,Kingsview Village-The Westway,825000.0,3,3,1400-1599,6
+100,ON,Toronto,2309-340 Dixon Road,Kingsview Village-The Westway,379900.0,2,1,900-999,3
+101,ON,Toronto,323-2261 Lake Shore Boulevard,Mimico,699000.0,1,2,800-899,3
+102,ON,Toronto,407-20 Gothic Avenue,High Park North,894900.0,2,1,600-699,3
+103,ON,Toronto,3001-18 Yonge Street,Waterfront Communities C1,649900.0,1+1,2,700-799,4
+104,ON,Toronto,703-39 Sherbourne Street,Moss Park,849900.0,2,2,900-999,4
+105,ON,Toronto,1901-3 Navy Wharf Court,Waterfront Communities C1,899900.0,2+1,2,900-999,5
+106,ON,Toronto,1502-131 Torresdale Avenue,Westminster-Branson,799900.0,2+1,2,1600-1799,5
+107,ON,Toronto,1415-38 Joe Shuster Way,Niagara,549900.0,1,1,500-599,2
+108,ON,Toronto,2011-38 Iannuzzi Street,Niagara,599900.0,1+1,1,500-599,3
+109,ON,Toronto,1812-2627 Mccowan Road,Agincourt North,499900.0,1+1,1,600-699,3
+110,ON,Toronto,402-263 Wellington Street W,Waterfront Communities C1,649900.0,1+1,1,800-899,3
+111,ON,Toronto,PH1308-565 Wilson Avenue,Clanton Park,1099000.0,2+1,3,2250-2499,6
+112,ON,Toronto,1205-11 Charlotte Street,Waterfront Communities C1,599000.0,1,1,0-499,2
+113,ON,Toronto,101-80 Charles Street E,Church-Yonge Corridor,650000.0,1,2,700-799,3
+114,ON,Toronto,710-36 Blue Jays Way,Waterfront Communities C1,892000.0,1+1,2,900-999,4
+115,ON,Toronto,412-2662 Bloor Street W,Kingsway South,1978000.0,2+1,3,1500-2000,6
+116,ON,Toronto,205-5101 Dundas Street W,Islington-City Centre West,689900.0,2,2,900-999,4
+117,ON,Toronto,712-21 Markbrook Lane,Mount Olive-Silverstone-Jamestown,599000.0,2+1,2,1000-1199,5
+118,ON,Toronto,913-761 Bay Street,Bay Street Corridor,699000.0,1,1,600-699,2
+119,ON,Toronto,328-380 Macpherson Avenue,Casa Loma,499000.0,1,1,600-699,2
+120,ON,Toronto,1213-111 Bathurst Street,Waterfront Communities C1,569000.0,1,1,500-599,2
+121,ON,Toronto,1517W-27 Bathurst Street,Waterfront Communities C1,579000.0,1,1,500-599,2
+122,ON,Toronto,415-2550 Bathurst Street,Forest Hill North,469900.0,1,1,700-799,2
+123,ON,Toronto,228-955 Queen Street W,Trinity-Bellwoods,599900.0,1,1,500-599,2
+124,ON,Toronto,2503-65 Bremner Boulevard,Waterfront Communities C1,549900.0,–,1,0-499,1
+125,ON,Toronto,13-150 Long Branch Avenue,Long Branch,1099900.0,2,3,1200-1399,5
+126,ON,Toronto,526-80 Harrison Garden Boulevard,Willowdale East,888000.0,2+1,2,1000-1199,5
+127,ON,Toronto,2215-15 Fort York Boulevard,Waterfront Communities C1,649000.0,1,1,0-499,2
+128,ON,Toronto,503-12 Rean Drive,Bayview Village,795000.0,2,2,1000-1199,4
+129,ON,Toronto,3207-15 Grenville Street,Bay Street Corridor,649000.0,1,1,0-499,2
+130,ON,Toronto,422-35 Hayden Street,Church-Yonge Corridor,649000.0,1,1,600-699,2
+131,ON,Toronto,2006-820 Burnhamthorpe Road,Markland Wood,645000.0,2+1,2,1200-1399,5
+132,ON,Toronto,803-90 Trinity Street,Moss Park,595000.0,1,1,500-599,2
+133,ON,Toronto,2507-85 Queens Wharf Road,Waterfront Communities C1,699000.0,1,1,600-699,2
+134,ON,Toronto,2711-121 Mcmahon Drive,Bayview Village,599000.0,1+1,1,600-699,3
+135,ON,Toronto,1003-68 Merton Street,Mount Pleasant West,1499000.0,2+1,3,1200-1399,6
+136,ON,Toronto,2022-25 Greenview Avenue,Newtonbrook West,699999.0,1+1,1,600-699,3
+137,ON,Toronto,517-10 Park Lawn Road,Mimico,550000.0,1,1,500-599,2
+138,ON,Toronto,802-11 Thorncliffe Park Drive,Thorncliffe Park,469000.0,1+1,1,700-799,3
+139,ON,Toronto,425-80 Front Street E,Church-Yonge Corridor,1175000.0,2,2,1400-1599,4
+140,ON,Toronto,608-880 Grandview Way,Willowdale East,848000.0,2,2,900-999,4
+141,ON,Toronto,608-880 Grandview Way,Willowdale East,848000.0,2,2,900-999,4
+142,ON,Toronto,201-650 King Street W,Waterfront Communities C1,635000.0,1,1,0-499,2
+143,ON,Toronto,802-1 Balmoral Avenue,Yonge-St. Clair,2895000.0,2+1,2,1500-2000,5
+144,ON,Toronto,214-399 Adelaide Street W,Waterfront Communities C1,749000.0,1+1,1,700-799,3
+145,ON,Toronto,1119-75 East Liberty Street,Niagara,779000.0,2,2,700-799,4
+146,ON,Toronto,509-1 Four Winds Drive,York University Heights,599000.0,3,2,1200-1399,5
+147,ON,Toronto,1608-1360 Yorkmills Road,Parkwoods-Donalda,529800.0,2,1,800-899,3
+148,ON,Toronto,2711-5 Mariner Terrace,Waterfront Communities C1,699000.0,1+1,1,700-799,3
+149,ON,Toronto,909-375 King Street W,Waterfront Communities C1,1175000.0,2,3,1000-1199,5
+150,ON,Toronto,1002-2015 Sheppard Avenue E,Henry Farm,648000.0,1,1,500-599,2
+151,ON,Toronto,729-10 Laidlaw Street S,South Parkdale,750000.0,2+1,2,1000-1199,5
+152,ON,Toronto,802-39 Sherbourne Street,Waterfront Communities C8,549900.0,1,1,500-599,2
+153,ON,Toronto,103-45 Dovercourt Road,Trinity-Bellwoods,1189000.0,2,2,1200-1399,4
+154,ON,Toronto,502-10 Delisle Avenue,Yonge-St. Clair,1175000.0,2,2,1000-1199,4
+155,ON,Toronto,1-42 Boston Avenue,South Riverdale,699900.0,1,1,600-699,2
+156,ON,Toronto,PH80-1 Greystone Walk Drive,Kennedy Park,599900.0,2+1,2,1000-1199,5
+157,ON,Toronto,708-576 Front Street W,Waterfront Communities C1,639000.0,1+1,1,500-599,3
+158,ON,Toronto,703-1 Balmoral Avenue,Yonge-St. Clair,789000.0,1+1,1,700-799,3
+159,ON,Toronto,6A-36 Hazelton Avenue,Annex,7495000.0,2,3,3000-3249,5
+160,ON,Toronto,401-2464 Weston Road,Weston,410000.0,1,1,500-599,2
+161,ON,Toronto,1104-5 Valhalla Inn Road,Islington-City Centre West,699000.0,2,2,800-899,4
+162,ON,Toronto,634-600 Fleet Street,Niagara,489888.0,–,1,0-499,1
+163,ON,Toronto,401-2639 Dundas Street W,Junction Area,1264800.0,2,2,900-999,4
+164,ON,Toronto,1502-435 Richmond Street W,Kensington-Chinatown,489999.0,–,1,0-499,1
+165,ON,Toronto,310-2 Clairtrell Road,Willowdale East,749000.0,2+1,2,900-999,5
+166,ON,Toronto,428-111 St Clair Avenue W,Yonge-St. Clair,799000.0,1+1,1,600-699,3
+167,ON,Toronto,46 Edgar Woods Road,Hillcrest Village,788888.0,3+1,3,1400-1599,7
+168,ON,Toronto,321-55 Ann O'reilly Road,Henry Farm,599000.0,1+1,1,600-699,3
+169,ON,Toronto,3907-9 Bogert Avenue,Lansing-Westgate,899000.0,2+1,2,900-999,5
+170,ON,Toronto,1814-633 Bay Street,Bay Street Corridor,768800.0,2,2,1000-1199,4
+171,ON,Toronto,1706-5508 Yonge Street,Willowdale West,599900.0,1,1,500-599,2
+172,ON,Toronto,1821-633 Bay Street,Bay Street Corridor,599000.0,1+1,1,800-899,3
+173,ON,Toronto,GPH5-100 Harrison Garden Boulevard,Willowdale East,849990.0,1+1,1,700-799,3
+174,ON,Toronto,501-1990 Bloor Street W,High Park North,699900.0,1+1,1,600-699,3
+175,ON,Toronto,408-2 Anndale Drive,Willowdale East,888000.0,2+1,2,900-999,5
+176,ON,Toronto,406-5 St Joseph Street,Bay Street Corridor,499000.0,–,1,0-499,1
+177,ON,Toronto,2502-5180 Yonge Street,Willowdale West,549000.0,1+1,1,500-599,3
+178,ON,Toronto,301-1555 Finch Avenue E,Don Valley Village,699000.0,2+1,2,1000-1199,5
+179,ON,Toronto,2208-2191 Yonge Street,Mount Pleasant West,1088000.0,2,2,1000-1199,4
+180,ON,Toronto,802-3 Pemberton Avenue,Newtonbrook East,812000.0,2+1,2,900-999,5
+181,ON,Toronto,2207-12 York Street,Waterfront Communities C1,888000.0,2+1,2,700-799,5
+182,ON,Toronto,2206-35 Bales Avenue,Willowdale East,649000.0,2,1,800-899,3
+183,ON,Toronto,307-29 Queens Quay E,Waterfront Communities C1,1525000.0,2+1,3,1200-1399,6
+184,ON,Toronto,811-101 Peter Street,Waterfront Communities C1,658000.0,1,1,500-599,2
+185,ON,Toronto,2203-61 Town Centre Court,Bendale,699900.0,2,2,900-999,4
+186,ON,Toronto,4105-20 Shore Breeze Drive,Mimico,699900.0,1+1,1,500-599,3
+187,ON,Toronto,109-1183 Dufferin Street,Dovercourt-Wallace Emerson-Junction,749900.0,1,1,800-899,2
+188,ON,Toronto,804-59 East Liberty Street,Niagara,799900.0,1+1,2,800-899,4
+189,ON,Toronto,710-20 Minowan Miikan Lane,Little Portugal,699900.0,2,2,700-799,4
+190,ON,Toronto,1603-38 Iannuzzi Street,Niagara,519900.0,–,1,0-499,1
+191,ON,Toronto,24-25 Gosford Boulevard,Black Creek,710000.0,3+1,2,1200-1399,6
+192,ON,Toronto,LPH3-2 Clairtrell Road,Willowdale East,1099900.0,2+1,2,1200-1399,5
+193,ON,Toronto,610-150 Alton Towers Circle,Milliken,868000.0,2,2,1000-1199,4
+194,ON,Toronto,1804-15 Greenview Avenue,Newtonbrook West,799000.0,2,2,800-899,4
+195,ON,Toronto,1611-30 Greenfield Avenue,Willowdale East,999000.0,2+1,3,1600-1799,6
+196,ON,Toronto,2207-115 Mcmahon Drive,Bayview Village,499000.0,1,1,0-499,2
+197,ON,Toronto,2506-120 Homewood Avenue,North St. James Town,499999.0,1,1,500-599,2
+198,ON,Toronto,3506-290 Adelaide Street W,Waterfront Communities C1,699900.0,1,1,500-599,2
+199,ON,Toronto,603-117 Mcmahon Drive,Bayview Village,699999.0,2,2,800-899,4
+200,ON,Toronto,1502-80 Cumberland Street,Annex,1288000.0,2,3,1000-1199,5
+201,ON,Toronto,1116-1 De Boers Drive,York University Heights,599900.0,1,1,600-699,2
+202,ON,Toronto,717-35 Ormskirk Avenue,High Park-Swansea,897000.0,2+1,2,1000-1199,5
+203,ON,Toronto,81-29 Fundy Bay Boulevard,Steeles,799000.0,3+1,4,1200-1399,8
+204,ON,Toronto,105-330 Mccowan Road E,Eglinton East,649900.0,2+1,2,900-999,5
+205,ON,Toronto,409-9 Four Winds Drive,York University Heights,599777.0,3,2,1200-1399,5
+206,ON,Toronto,2701-633 Bay Street,Bay Street Corridor,829000.0,2,2,900-999,4
+207,ON,Toronto,401-2460 Eglinton Avenue E,Eglinton East,599000.0,2+1,2,900-999,5
+208,ON,Toronto,908-18 Harrison Garden Boulevard,Willowdale East,699000.0,2,2,700-799,4
+209,ON,Toronto,607-15 Windermere Avenue,High Park-Swansea,585000.0,2,2,700-799,4
+210,ON,Toronto,123-2 Old Mill Drive,High Park-Swansea,849999.0,1+1,2,800-899,4
+211,ON,Toronto,1306-70 Distillery Lane,Waterfront Communities C8,999000.0,2,2,800-899,4
+212,ON,Toronto,809-5460 Yonge Street,Willowdale West,829900.0,2+1,2,1200-1399,5
+213,ON,Toronto,203-318 King Street E,Moss Park,949900.0,1+1,2,900-999,4
+214,ON,Toronto,3807-120 Homewood Avenue,North St. James Town,799000.0,2,2,800-899,4
+215,ON,Toronto,2004-50 Ordnance Street,Niagara,499000.0,1,1,500-599,2
+216,ON,Toronto,3501-9 Bogert Avenue,Lansing-Westgate,688000.0,1+1,2,600-699,4
+217,ON,Toronto,530-27 Rean Drive,Bayview Village,599000.0,1,1,500-599,2
+218,ON,Toronto,303-284 Bloor Street W,Annex,639888.0,1+1,1,600-699,3
+219,ON,Toronto,P.H.1-1055 Bay Street,Bay Street Corridor,499000.0,2+1,1,900-999,4
+220,ON,Toronto,927-111 St. Clair Avenue W,Yonge-St. Clair,799900.0,1+1,2,900-999,4
+221,ON,Toronto,910-38 Forest Manor Road,Henry Farm,866900.0,2,2,700-799,4
+222,ON,Toronto,2105-50 Lynn Williams Street,Niagara,589900.0,1,1,500-599,2
+223,ON,Toronto,2701-390 Cherry Street,Waterfront Communities C8,999900.0,2,2,900-999,4
+224,ON,Toronto,608-125 Village Green Square,Agincourt South-Malvern West,649999.0,2,2,700-799,4
+225,ON,Toronto,2203-61 Town Centre Court,Bendale,699900.0,2,2,900-999,4
+226,ON,Toronto,2404-10 Eva Road,Etobicoke West Mall,977000.0,2,2,1000-1199,4
+227,ON,Toronto,304-115 Denison Avenue,Kensington-Chinatown,1415000.0,3,2,1000-1199,5
+228,ON,Toronto,410-115 Denison Avenue,Kensington-Chinatown,1050000.0,1+1,1,800-899,3
+229,ON,Toronto,315-115 Denison Avenue,Kensington-Chinatown,1125000.0,2,2,800-899,4
+230,ON,Toronto,1008-190 Borough Drive,Bendale,699900.0,2,2,1000-1199,4
+231,ON,Toronto,1008-10 Eva Road,Etobicoke West Mall,997000.0,2,2,1000-1199,4
+232,ON,Toronto,412-901 Queen Street W,Trinity-Bellwoods,799000.0,1+1,1,700-799,3
+233,ON,Toronto,GPH22-259 The Kingsway,Edenbridge-Humber Valley,2990000.0,2,3,2000-2249,5
+234,ON,Toronto,2110-17 Bathurst Street,Waterfront Communities C1,999000.0,2,1,700-799,3
+235,ON,Toronto,909-60 Shuter Street,Church-Yonge Corridor,599000.0,1,1,500-599,2
+236,ON,Toronto,615-17 Bathurst Street,Waterfront Communities C1,1230000.0,3,2,900-999,5
+237,ON,Toronto,508-125 Village Green Square,Agincourt South-Malvern West,649000.0,2,2,700-799,4
+238,ON,Toronto,822-4645 Jane Street,Black Creek,179900.0,1,1,700-799,2
+239,ON,Toronto,2108-30 Roehampton Avenue,Mount Pleasant West,1190000.0,2,2,900-999,4
+240,ON,Toronto,1902-101 Charles Street E,Church-Yonge Corridor,1069900.0,1+1,1,700-799,3
+241,ON,Toronto,308-665 Kennedy Road,Kennedy Park,499999.0,3,2,1200-1399,5
+242,ON,Toronto,202-225 Bamburgh Circle,Steeles,598000.0,2+1,2,1000-1199,5
+243,ON,Toronto,901-420 Mill Road,Eringate-Centennial-West Deane,649900.0,3,2,1200-1399,5
+244,ON,Toronto,406-18 Holmes Avenue,Willowdale East,549000.0,1,1,500-599,2
+245,ON,Toronto,2005-275 Yorkland Road,Henry Farm,725900.0,1+1,1,600-699,3
+246,ON,Toronto,904-410 Queens Quay W,Waterfront Communities C1,689000.0,1+1,1,700-799,3
+247,ON,Toronto,612-8 Rean Drive,Bayview Village,799000.0,2+1,2,900-999,5
+248,ON,Toronto,3006-15 Queens Quay E,Waterfront Communities C1,1590000.0,3,2,1200-1399,5
+249,ON,Toronto,1506-1360 York Mills Road,Parkwoods-Donalda,500000.0,2,1,800-899,3
+250,ON,Toronto,PH6-3050 Ellesmere Road,Morningside,569999.0,2+1,2,1200-1399,5
+251,ON,Toronto,203-109 Wolseley Street,Trinity-Bellwoods,499900.0,1,1,600-699,2
+252,ON,Toronto,34 King Henrys Boulevard,Tam O'Shanter-Sullivan,799900.0,4+1,4,1400-1599,9
+253,ON,Toronto,912-25 Oxley Street,Waterfront Communities C1,558000.0,1,1,500-599,2
+254,ON,Toronto,4-13 Eaton Park Lane,L'Amoreaux,788000.0,2,3,1000-1199,5
+255,ON,Toronto,1807-87 Peter Street,Waterfront Communities C1,638888.0,1+1,1,500-599,3
+256,ON,Toronto,2507-85 Queens Wharf Road,Waterfront Communities C1,699000.0,1,1,600-699,2
+257,ON,Toronto,210-70 Annie Craig Drive,Mimico,598000.0,1,1,500-599,2
+258,ON,Toronto,201-1717 Avenue Road,Lawrence Park North,1100000.0,1+1,2,1000-1199,4
+259,ON,Toronto,2311-16 Bonnycastle Street,Waterfront Communities C8,738000.0,1,1,600-699,2
+260,ON,Toronto,4808-8 Eglinton Avenue E,Mount Pleasant West,799000.0,2,2,600-699,4
+261,ON,Toronto,1404-95 La Rose Avenue,Humber Heights,619900.0,2,2,1000-1199,4
+262,ON,Toronto,1709-15 Greenview Avenue,Newtonbrook West,855000.0,1+1,1,600-699,3
+263,ON,Toronto,434-437 Roncesvalles Avenue,Roncesvalles,750000.0,1+1,1,700-799,3
+264,ON,Toronto,506-21 Hillcrest Avenue,Willowdale East,799000.0,2,2,900-999,4
+265,ON,Toronto,1511-20 Blue Jays Way,Waterfront Communities C1,525000.0,1,1,500-599,2
+266,ON,Toronto,417-15 Bruyeres Mews,Niagara,599900.0,1+1,1,600-699,3
+267,ON,Toronto,807-225 Sumach Street,Regent Park,699900.0,1,1,600-699,2
+268,ON,Toronto,1001-35 Finch Avenue E,Willowdale East,688888.0,2,2,800-899,4
+269,ON,Toronto,2004-716 The West Mall,Eringate-Centennial-West Deane,645000.0,2+1,1,1200-1399,4
+270,ON,Toronto,1002-20 Soudan Avenue,Mount Pleasant West,675000.0,1,1,0-499,2
+271,ON,Toronto,89 Hedge End Road,Rouge E11,899000.0,3+1,2,1400-1599,6
+272,ON,Toronto,201-36 Park Lawn Rd Road,Mimico,689000.0,1+1,1,700-799,3
+273,ON,Toronto,501-88 Davenport Road,Annex,3495000.0,2+1,3,1500-2000,6
+274,ON,Toronto,516-60 George Butchard Drive,Downsview-Roding-CFB,670000.0,1+1,1,600-699,3
+275,ON,Toronto,303-50 Forest Manor Road,Henry Farm,648888.0,1+1,2,500-599,4
+276,ON,Toronto,1108-1 Market Street,Waterfront Communities C8,949000.0,2+1,2,800-899,5
+277,ON,Toronto,1211-2 Sonic Way,Flemingdon Park,628000.0,1+1,2,600-699,4
+278,ON,Toronto,706-2550 Lawrence Avenue E,Dorset Park,579999.0,2,2,800-899,4
+279,ON,Toronto,2902-25 Capreol Court,Waterfront Communities C1,599000.0,1,1,500-599,2
+280,ON,Toronto,2209-1 Bloor Street E,Church-Yonge Corridor,1068000.0,1+1,2,700-799,4
+281,ON,Toronto,901-62 Forest Manor Road,Henry Farm,699000.0,1+1,1,600-699,3
+282,ON,Toronto,1710-219 Fort York Boulevard,Niagara,689000.0,1+1,1,600-699,3
+283,ON,Toronto,5M-8 Rosebank Drive,Malvern,549000.0,1+1,1,600-699,3
+284,ON,Toronto,706-100 Hayden Street,Church-Yonge Corridor,699900.0,2,2,700-799,4
+285,ON,Toronto,1801-88 Davenport Road,Annex,3339000.0,2+1,2,1500-2000,5
+286,ON,Toronto,56-1359 Neilson Road,Malvern,710000.0,2,2,700-799,4
+287,ON,Toronto,409-2 Sonic Way,Flemingdon Park,499000.0,–,1,0-499,1
+288,ON,Toronto,509-18 Valley Woods Road,Parkwoods-Donalda,549999.0,1+1,1,600-699,3
+289,ON,Toronto,3301-15 Queens Quay E,Waterfront Communities C8,919000.0,1+1,2,700-799,4
+290,ON,Toronto,3506-115 Mcmahon Drive,Bayview Village,589900.0,1,1,500-599,2
+291,ON,Toronto,505-121 Trudelle Street,Eglinton East,599900.0,2,2,900-999,4
+292,ON,Toronto,651-10 Capreol Court E,Waterfront Communities C1,558000.0,1+1,1,600-699,3
+293,ON,Toronto,651-10 Capreol Court E,Waterfront Communities C1,558000.0,1+1,1,600-699,3
+294,ON,Toronto,1010-3 Rowntree Road,Mount Olive-Silverstone-Jamestown,699000.0,2,2,1200-1399,4
+295,ON,Toronto,1137-18 Mondeo Drive,Dorset Park,499000.0,1,1,600-699,2
+296,ON,Toronto,2609-21 Iceboat Terrace,Waterfront Communities C1,699000.0,2,2,800-899,4
+297,ON,Toronto,1705-120 Parliament Street,Moss Park,599000.0,1,1,0-499,2
+298,ON,Toronto,SPH2309-10 Queens Quay W,Waterfront Communities C1,1699000.0,2+1,3,1500-2000,6
+299,ON,Toronto,1808-21 Hillcrest Avenue,Willowdale East,598800.0,1,1,600-699,2
+300,ON,Toronto,708-35 Rolling Mills Road,Waterfront Communities C8,949900.0,2+1,2,800-899,5
+301,ON,Toronto,909-1250 Bridletowne Circle,L'Amoreaux,438000.0,3,2,1000-1199,5
+302,ON,Toronto,135-515 Kingbird Grove Grove,Rouge E11,699999.0,2+1,2,1000-1199,5
+303,ON,Toronto,722-50 George Butchart Drive,Downsview-Roding-CFB,730000.0,2,2,600-699,4
+304,ON,Toronto,805-715 Don Mills Road,Flemingdon Park,439000.0,1+1,1,600-699,3
+305,ON,Toronto,1051-10 Capreol Court,Waterfront Communities C1,559900.0,1+1,1,600-699,3
+306,ON,Toronto,307-38 Forest Manor Drive,Henry Farm,950000.0,3,2,800-899,5
+307,ON,Toronto,803-390 Cherry Street,Waterfront Communities C8,638000.0,1,1,500-599,2
+308,ON,Toronto,318-2095 Lake Shore Boulevard W,Mimico,1795000.0,2,2,1400-1599,4
+309,ON,Toronto,502-4 Spadina Avenue,Waterfront Communities C1,799888.0,2,2,700-799,4
+310,ON,Toronto,201-45 Silverstone Drive,Mount Olive-Silverstone-Jamestown,669900.0,3,2,1400-1599,5
+311,ON,Toronto,1206-21 Markbrook Lane,Mount Olive-Silverstone-Jamestown,549000.0,1+1,1,800-899,3
+312,ON,Toronto,17-1949 Lawrence Avenue W,Weston,549900.0,2,1,900-999,3
+313,ON,Toronto,1424-15 Northtown Way,Willowdale East,599000.0,1+1,2,700-799,4
+314,ON,Toronto,1808-7 King Street E,Church-Yonge Corridor,759000.0,1+1,1,600-699,3
+315,ON,Toronto,141-195 Alexmuir Boulevard,Agincourt North,899000.0,4+2,3,1400-1599,9
+316,ON,Toronto,2-78 Castlebury Crescent,Bayview Woods-Steeles,799000.0,3,3,1200-1399,6
+317,ON,Toronto,811-1 Massey Square,Crescent Town,469900.0,2,1,900-999,3
+318,ON,Toronto,PH18-1030 King Street W,Niagara,629000.0,1,1,0-499,2
+319,ON,Toronto,2713-5 Soudan Avenue,Mount Pleasant West,589000.0,1+1,1,0-499,3
+320,ON,Toronto,1707-30 Gibbs Road,Islington-City Centre West,849000.0,3,2,800-899,5
+321,ON,Toronto,702-38 Stewart Street,Waterfront Communities C1,1099000.0,2,2,1000-1199,4
+322,ON,Toronto,616-7 Bishop Avenue,Newtonbrook East,799000.0,2+2,2,1200-1399,6
+323,ON,Toronto,93-27 Hedge End Road,Rouge E11,899000.0,3,3,1200-1399,6
+324,ON,Toronto,63 Treeland Way,Downsview-Roding-CFB,828000.0,3,3,1400-1599,6
+325,ON,Toronto,5365 Dundas Street W,Islington-City Centre West,729000.0,1+1,1,600-699,3
+326,ON,Toronto,406-511 The West Mall,Etobicoke West Mall,599000.0,3+1,2,1600-1799,6
+327,ON,Toronto,811-1 Massey Square,Crescent Town,469900.0,2,1,900-999,3
+328,ON,Toronto,1703-234 Albion Road,Elms-Old Rexdale,460000.0,3,2,1200-1399,5
+329,ON,Toronto,814-223 St. Clair Avenue W,Casa Loma,599000.0,1,1,500-599,2
+330,ON,Toronto,2202-9 Bogert Avenue,Lansing-Westgate,799990.0,2+1,2,900-999,5
+331,ON,Toronto,PH17-160 Vanderhoof Avenue,Leaside,525000.0,1,1,600-699,2
+332,ON,Toronto,TH 111-60 Homewood Avenue,Cabbagetown-South St. James Town,1099000.0,2,4,1200-1399,6
+333,ON,Toronto,1701-27 Bathurst Street,Waterfront Communities C1,799900.0,2,2,700-799,4
+334,ON,Toronto,1808-4978 Yonge Street,Lansing-Westgate,599000.0,1+1,1,600-699,3
+335,ON,Toronto,1613-761 Bay Street,Bay Street Corridor,719000.0,1,1,600-699,2
+336,ON,Toronto,911-65 Annie Craig Drive W,Mimico,714990.0,1+1,1,500-599,3
+337,ON,Toronto,310-60 George Butchart Drive,Downsview-Roding-CFB,650000.0,1+1,2,600-699,4
+338,ON,Toronto,1302-50 Ann O'reilly Road,Henry Farm,699000.0,2,1,600-699,3
+339,ON,Toronto,5B-36 Hazelton Avenue,Annex,12500000.0,2,3,3750-3999,5
+340,ON,Toronto,3806-101 Peter Street,Waterfront Communities C1,729000.0,2,1,600-699,3
+341,ON,Toronto,TH10-1350 Kingston Road,Birchcliffe-Cliffside,1049900.0,2+1,3,1400-1599,6
+342,ON,Toronto,1910-7 Concorde Place,Banbury-Don Mills,508000.0,1,1,600-699,2
+343,ON,Toronto,PH10-68 Canterbury Place,Willowdale West,599999.0,1+1,2,600-699,4
+344,ON,Toronto,301-458 Richmond Street W,Waterfront Communities C1,633900.0,1,1,500-599,2
+345,ON,Toronto,701-28 Wellesley Street,Church-Yonge Corridor,499900.0,–,1,0-499,1
+346,ON,Toronto,305-23 Sheppard Avenue E,Newtonbrook East,499000.0,1,1,500-599,2
+347,ON,Toronto,2401-16 Bonnycastle Street,Waterfront Communities C8,2500.0,1,1,501-1000,2
+348,ON,Toronto,79-391 Beechgrove Drive,West Hill,599000.0,3,3,1000-1199,6
+349,ON,Toronto,3701-403 Church Street,Church-Yonge Corridor,699900.0,1+1,1,500-599,3
+350,ON,Toronto,902-152 St Patrick Street,Kensington-Chinatown,899900.0,2+1,2,1400-1599,5
+351,ON,Toronto,#505-120 Harrison Garden Boulevard,Willowdale East,598800.0,1+1,1,600-699,3
+352,ON,Toronto,206-225 Village Green Square,Agincourt South-Malvern West,499999.0,1+1,2,600-699,4
+353,ON,Toronto,2070-100 Mornelle Court,Morningside,639000.0,2+1,2,1200-1399,5
+354,ON,Toronto,810-55 Ontario Street,Moss Park,789900.0,1+1,1,600-699,3
+355,ON,Toronto,603-33 Empress Avenue,Willowdale East,799900.0,2,2,1000-1199,4
+356,ON,Toronto,806-38 Iannuzzi Street,Waterfront Communities C1,789900.0,2,2,900-999,4
+357,ON,Toronto,1112-40 Panoroma Court,Mount Olive-Silverstone-Jamestown,599000.0,3,2,1000-1199,5
+358,ON,Toronto,1411-20 Joe Shuster Way,Niagara,599990.0,2,1,600-699,3
+359,ON,Toronto,UPH1-609 Avenue Road,Yonge-St. Clair,2549000.0,3,3,1400-1599,6
+360,ON,Toronto,2509-2000 Islington Avenue,Kingsview Village-The Westway,948000.0,3,2,1500-2000,5
+361,ON,Toronto,202-45 Charles Street E,Church-Yonge Corridor,1299900.0,3,2,1200-1399,5
+362,ON,Toronto,1007-2 Glamorgan Avenue,Dorset Park,715000.0,3,2,1200-1399,5
+363,ON,Toronto,210-11753 Sheppard Avenue E,Rouge E11,569000.0,2+1,2,1200-1399,5
+364,ON,Toronto,#7-6 Mason Road,Scarborough Village,799000.0,4+1,4,2000-2249,9
+365,ON,Toronto,115-18 Concorde Place,Banbury-Don Mills,525000.0,1+1,2,900-999,4
+366,ON,Toronto,402-100 Antibes Drive,Westminster-Branson,599000.0,3,2,1200-1399,5
+367,ON,Toronto,5 Stark Apple Way,Parkwoods-Donalda,699800.0,3,2,1200-1399,5
+368,ON,Toronto,1708-17 Zorra Street,Islington-City Centre West,728800.0,1+1,2,600-699,4
+369,ON,Toronto,302-1275 Markham Road,Woburn,549900.0,3,2,1200-1399,5
+370,ON,Toronto,2104-49 East Liberty Street S,Waterfront Communities C1,699000.0,1+1,1,600-699,3
+371,ON,Toronto,1903-35 Finch Avenue E,Willowdale East,649000.0,1+1,1,700-799,3
+372,ON,Toronto,310-10 Willison Square,Kensington-Chinatown,780000.0,3,2,800-899,5
+373,ON,Toronto,710-10 Willison Square,Kensington-Chinatown,780000.0,3,2,800-899,5
+374,ON,Toronto,308-300 Coxwell Avenue,Greenwood-Coxwell,449000.0,1,1,500-599,2
+375,ON,Toronto,1001-10 Willison Square,Kensington-Chinatown,870000.0,3,2,900-999,5
+376,ON,Toronto,3401-208 Queens Quay W,Waterfront Communities C1,469000.0,–,1,0-499,1
+377,ON,Toronto,705-15 Vicora Linkway Lane,Flemingdon Park,649999.0,3,2,1000-1199,5
+378,ON,Toronto,TH-3-850 Richmond Street W,Trinity-Bellwoods,1888888.0,3,2,1600-1799,5
+379,ON,Toronto,1610-26 Olive Avenue,Willowdale East,599000.0,2,1,700-799,3
+380,ON,Toronto,3505-21 Widmer Street,Waterfront Communities C1,649000.0,1,1,600-699,2
+381,ON,Toronto,710-5 Soudan Avenue,Mount Pleasant West,829900.0,2,2,700-799,4
+382,ON,Toronto,712-360 Ridelle Avenue,Briar Hill-Belgravia,499000.0,1,1,700-799,2
+383,ON,Toronto,1404-251 Jarvis Street,Church-Yonge Corridor,518800.0,–,1,0-499,1
+384,ON,Toronto,201-11753 Sheppard Avenue E,Rouge E11,569500.0,2+1,2,1200-1399,5
+385,ON,Toronto,1711-155 Yorkville Avenue W,Annex,649000.0,1,1,0-499,2
+386,ON,Toronto,1001-50 Power Street,Moss Park,965990.0,2+1,2,800-899,5
+387,ON,Toronto,15-37 Drewry Avenue,Newtonbrook West,777000.0,2,2,900-999,4
+388,ON,Toronto,502-11 Neilson Drive,Markland Wood,599000.0,3,2,1000-1199,5
+389,ON,Toronto,4704-70 Annie Craig Drive,Mimico,2489000.0,2+1,3,1400-1599,6
+390,ON,Toronto,#2810-832 Bay Street,Bay Street Corridor,1498800.0,3+1,2,1200-1399,6
+391,ON,Toronto,715-1005 King Street W,Niagara,439990.0,–,1,0-499,1
+392,ON,Toronto,416-1 Rowntree Road,Mount Olive-Silverstone-Jamestown,589900.0,2,2,1200-1399,4
+393,ON,Toronto,408-200 Sackville Street,Regent Park,725000.0,1+1,2,600-699,4
+394,ON,Toronto,201-355 Bedford Park Avenue,Bedford Park-Nortown,2195000.0,2,3,1400-1599,5
+395,ON,Toronto,S602-455 Front Street E,Waterfront Communities C8,600000.0,1,1,500-599,2
+396,ON,Toronto,603-355 Bedford Park Avenue,Bedford Park-Nortown,3490000.0,2+2,3,2000-2249,7
+397,ON,Toronto,219-60 Southport Street,High Park-Swansea,819900.0,2+1,2,1000-1199,5
+398,ON,Toronto,1801-350 Alton Towers Circle,Milliken,549000.0,2,2,900-999,4
+399,ON,Toronto,1207-1950 Kennedy Road,Dorset Park,550000.0,2,1,900-999,3
+400,ON,Toronto,1608-260 Queens Quay,Waterfront Communities C1,725000.0,1+1,1,800-899,3
+401,ON,Toronto,617-10 Edgecliff Gfwy,Flemingdon Park,599800.0,3,2,1000-1199,5
+402,ON,Toronto,202-6 Jackes Avenue,Rosedale-Moore Park,1895000.0,2,2,1200-1399,4
+403,ON,Toronto,601-10 Tapscott Road,Malvern,499900.0,2,2,900-999,4
+404,ON,Toronto,603-25 Oxley Street,Waterfront Communities C1,499900.0,1,1,0-499,2
+405,ON,Toronto,709-3 Pemberton Avenue,Newtonbrook East,549900.0,1,1,500-599,2
+406,ON,Toronto,920-65 Scadding Avenue,Waterfront Communities C8,849000.0,2,2,1000-1199,4
+407,ON,Toronto,23-1 Eaton Park Lane,L'Amoreaux,799000.0,2+1,3,1200-1399,6
+408,ON,Toronto,514-1 Bloor Street E,Church-Yonge Corridor,2090000.0,2+1,3,1600-1799,6
+409,ON,Toronto,1908-153 Beecroft Road,Lansing-Westgate,549000.0,1,1,500-599,2
+410,ON,Toronto,203-2 Clairtrell Road,Willowdale East,499888.0,1+1,1,600-699,3
+411,ON,Toronto,313-251 Jarvis Street,Church-Yonge Corridor,699900.0,3,1,800-899,4
+412,ON,Toronto,2102-151 Dan Leckie Way,Waterfront Communities C1,799900.0,2,2,700-799,4
+413,ON,Toronto,3509-36 Park Lawn Road,Mimico,699000.0,1+1,1,600-699,3
+414,ON,Toronto,3305-2045 Lake Shore Boulevard W,Mimico,2588000.0,3,3,3250-3499,6
+415,ON,Toronto,# 405-1665 Victoria Park Avenue,Wexford-Maryvale,549900.0,3,2,1000-1199,5
+416,ON,Toronto,2302-21 Hillcrest Avenue,Willowdale East,798000.0,1+1,2,800-899,4
+417,ON,Toronto,703-50 Brian Harrison Way,Bendale,549990.0,1+1,1,600-699,3
+418,ON,Toronto,709-399 Adelaide Street W,Waterfront Communities C1,798000.0,1+1,2,800-899,4
+419,ON,Toronto,UPH 06-2200 Lake Shore Boulevard W,Mimico,599999.0,1,1,500-599,2
+420,ON,Toronto,301-384 Sunnyside Avenue,High Park-Swansea,1199900.0,1,2,1000-1199,3
+421,ON,Toronto,907-255 Bamburgh Circle,Steeles,688888.0,2+1,2,1600-1799,5
+422,ON,Toronto,507-48 St Clair Avenue W,Yonge-St. Clair,1089900.0,2,2,1000-1199,4
+423,ON,Toronto,908-18 Pemberton Avenue,Newtonbrook East,899000.0,3,2,1200-1399,5
+424,ON,Toronto,1018-5 Everson Drive,Willowdale East,698888.0,2+1,2,1200-1399,5
+425,ON,Toronto,216-60 Homewood Avenue,Cabbagetown-South St. James Town,525000.0,1+1,1,700-799,3
+426,ON,Toronto,301-801 Sheppard Avenue W,Clanton Park,549900.0,1,1,600-699,2
+427,ON,Toronto,1-81 Brookmill Boulevard,L'Amoreaux,799000.0,3+1,3,1400-1599,7
+428,ON,Toronto,1811-197 Yonge Street,Church-Yonge Corridor,689999.0,1,1,600-699,2
+429,ON,Toronto,408-11 Soho Street,Kensington-Chinatown,1100000.0,2,2,900-999,4
+430,ON,Toronto,502-6 Parkwood Avenue,Casa Loma,599000.0,1,1,600-699,2
+431,ON,Toronto,202-835 St Clair Avenue W,Wychwood,599000.0,1+1,2,700-799,4
+432,ON,Toronto,901-18 Parkview Avenue,Willowdale East,599000.0,1,1,600-699,2
+433,ON,Toronto,3307-375 King Street W,Waterfront Communities C1,989000.0,2,2,800-899,4
+434,ON,Toronto,303-710 Humberwood Boulevard,West Humber-Clairville,499990.0,1+1,1,600-699,3
+435,ON,Toronto,401-2901 Kipling Avenue,Mount Olive-Silverstone-Jamestown,499000.0,1+1,1,600-699,3
+436,ON,Toronto,1104-18 Yorkville Avenue S,Annex,599999.0,1,1,0-499,2
+437,ON,Toronto,3802-2181 Yonge Street,Mount Pleasant West,2598000.0,2+1,4,2500-2749,7
+438,ON,Toronto,510-225 Sackville Street,Regent Park,749000.0,2,2,700-799,4
+439,ON,Toronto,420-2885 Bayview Avenue,Bayview Village,588000.0,1+1,2,700-799,4
+440,ON,Toronto,4310-25 Telegram Mews,Waterfront Communities C1,1099000.0,2+1,2,1000-1199,5
+441,ON,Toronto,501-18 Harrison Garden Boulevard,Willowdale East,688000.0,1+1,1,600-699,3
+442,ON,Toronto,529-621 Sheppard Avenue E,Bayview Village,749000.0,2,2,700-799,4
+443,ON,Toronto,1710-181 Wynford Drive,Banbury-Don Mills,538888.0,1,1,600-699,2
+444,ON,Toronto,312-10 Kenneth Avenue,Willowdale East,899000.0,2,2,1200-1399,4
+445,ON,Toronto,601-1 Falaise Road,West Hill,499999.0,1+1,1,500-599,3
+446,ON,Toronto,1103-39 Annie Craig Drive,Mimico,629900.0,1+1,1,500-599,3
+447,ON,Toronto,321-2799 Kingston Road,Cliffcrest,549900.0,1+1,1,500-599,3
+448,ON,Toronto,4307-5 St Joseph Street,Bay Street Corridor,998000.0,2,2,700-799,4
+449,ON,Toronto,1606-2015 Sheppard Avenue E,Henry Farm,649990.0,2,1,800-899,3
+450,ON,Toronto,1518-135 Village Green Square,Agincourt South-Malvern West,619000.0,2,2,800-899,4
+451,ON,Toronto,2902-8 Eglinton Avenue E,Mount Pleasant West,886000.0,2+1,2,700-799,5
+452,ON,Toronto,2304-18 Harrison Garden Boulevard,Willowdale East,749900.0,2,2,700-799,4
+453,ON,Toronto,1803-81 Navy Wharf Court,Waterfront Communities C1,1038800.0,2+1,2,1000-1199,5
+454,ON,Toronto,725-19 Singer Court,Bayview Village,578000.0,1,1,500-599,2
+455,ON,Toronto,3021-19 Western Battery Road,Niagara,735000.0,1+1,2,600-699,4
+456,ON,Toronto,403-200 Sackville Street,Regent Park,749000.0,2,2,800-899,4
+457,ON,Toronto,256-151 Dan Leckie Way,Waterfront Communities C1,849000.0,2+1,2,900-999,5
+458,ON,Toronto,1902-26 Olive Avenue,Willowdale East,699000.0,2,2,800-899,4
+459,ON,Toronto,1307-955 Bay Street,Bay Street Corridor,990000.0,2,2,700-799,4
+460,ON,Toronto,610-4208 Dundas Street W,Edenbridge-Humber Valley,699900.0,1+1,2,600-699,4
+461,ON,Toronto,70-721 Lawrence Avenue W,Yorkdale-Glen Park,799900.0,2,2,900-999,4
+462,ON,Toronto,1706-80 Western Battery Road,Niagara,749900.0,2,2,800-899,4
+463,ON,Toronto,1020-295 Adelaide Street W,Waterfront Communities C1,1199999.0,2,2,1000-1199,4
+464,ON,Toronto,410-18 Lower Village Gate,Forest Hill South,1990000.0,2,2,1400-1599,4
+465,ON,Toronto,603-21 Dale Avenue,Rosedale-Moore Park,778000.0,2,1,1000-1199,3
+466,ON,Toronto,3102-4968 Yonge Street,Lansing-Westgate,750888.0,2,2,800-899,4
+467,ON,Toronto,310-150 Leeward Glenway Drive,Flemingdon Park,699800.0,4,2,1000-1199,6
+468,ON,Toronto,101-1530 Weston Road,Mount Dennis,498000.0,2,2,700-799,4
+469,ON,Toronto,1905-28 Linden Street,North St. James Town,799000.0,2,2,800-899,4
+470,ON,Toronto,#507-120 Harrison Garden Boulevard,Willowdale East,599900.0,1+1,1,600-699,3
+471,ON,Toronto,507-35 Empress Avenue,Willowdale East,699000.0,2,2,1000-1199,4
+472,ON,Toronto,1509-110 Charles Street E,Church-Yonge Corridor,599000.0,1,1,500-599,2
+473,ON,Toronto,1509-110 Charles Street E,Church-Yonge Corridor,599000.0,1,1,500-599,2
+474,ON,Toronto,#1406-208 Queens Quay Avenue W,Waterfront Communities C1,649990.0,1,1,600-699,2
+475,ON,Toronto,1604-197 Yonge Street,Church-Yonge Corridor,738800.0,1,1,500-599,2
+476,ON,Toronto,612-169 Fort York Boulevard,Waterfront Communities C1,469000.0,–,1,0-499,1
+477,ON,Toronto,607-5 Northtown Way,Willowdale East,599000.0,1,1,600-699,2
+478,ON,Toronto,319-251 Manitoba Street S,Mimico,763000.0,1+1,2,700-799,4
+479,ON,Toronto,2310-150 East Liberty Street,Niagara,699900.0,1+1,2,600-699,4
+480,ON,Toronto,1502-55 Ann O'reilly Road,Henry Farm,779000.0,2+1,2,700-799,5
+481,ON,Toronto,214-480 Mclevin Avenue,Malvern,599900.0,2,2,1200-1399,4
+482,ON,Toronto,208-60 Montclair Avenue,Forest Hill South,499990.0,1,1,600-699,2
+483,ON,Toronto,1003-65 St Mary Street,Bay Street Corridor,998800.0,1+1,1,600-699,3
+484,ON,Toronto,1008-1 Yorkville Avenue,Annex,969000.0,1+1,2,600-699,4
+485,ON,Toronto,619-20 Bruyeres Mews,Waterfront Communities C1,599900.0,1+1,1,600-699,3
+486,ON,Toronto,1611-35 Hollywood Avenue,Willowdale East,799000.0,2,2,700-799,4
+487,ON,Toronto,3306-65 Bremner Boulevard,Waterfront Communities C1,549000.0,1,1,500-599,2
+488,ON,Toronto,1003-816 Lansdowne Avenue,Dovercourt-Wallace Emerson-Junction,769900.0,3,2,900-999,5
+489,ON,Toronto,218-323 Richmond Street E,Moss Park,464888.0,–,1,500-599,1
+490,ON,Toronto,324-50 George Butchard Drive,Downsview-Roding-CFB,725000.0,2,2,700-799,4
+491,ON,Toronto,1711-25 The Esplanade,Waterfront Communities C8,499000.0,1,1,600-699,2
+492,ON,Toronto,1907-18 Holmes Avenue,Willowdale East,599999.0,1+1,1,600-699,3
+493,ON,Toronto,108-23 Bastion Street,Waterfront Communities C1,799900.0,2,1,700-799,3
+494,ON,Toronto,349-525 Wilson Avenue,Clanton Park,599000.0,1,1,500-599,2
+495,ON,Toronto,607-37 Grosvenor Street,Bay Street Corridor,950000.0,2+1,2,800-899,5
+496,ON,Toronto,119-50 George Butchart Drive,Downsview-Roding-CFB,730000.0,2,2,700-799,4
+497,ON,Toronto,#503-383 Ellis Park Road,High Park-Swansea,1079000.0,1+1,1,800-899,3
+498,ON,Toronto,702-50 George Buchart Drive,Downsview-Roding-CFB,699990.0,2,2,600-699,4
+499,ON,Toronto,1406-225 Sumach Street,Regent Park,639000.0,1+1,1,600-699,3
+500,ON,Toronto,607-377 Madison Avenue,Casa Loma,788000.0,2,2,800-899,4
+501,ON,Toronto,2916-155 Yorkville Avenue,Annex,598000.0,1,1,0-499,2
+502,ON,Toronto,507-50 George Butchard Drive,Downsview-Roding-CFB,750000.0,2,2,700-799,4
+503,ON,Toronto,1612-1 De Boers Drive,York University Heights,975000.0,2+1,2,1000-1199,5
+504,ON,Toronto,9J-6 Rosebank Drive,Malvern,598000.0,2,2,800-899,4
+505,ON,Toronto,611-121 Ling Road,West Hill,499900.0,1+1,2,900-999,4
+506,ON,Toronto,2206-65 Harbour Square,Waterfront Communities C1,1198000.0,2,2,1400-1599,4
+507,ON,Toronto,210-100 Wingarden Court,Malvern,549000.0,3,2,1400-1599,5
+508,ON,Toronto,# 1101-220 Victoria Street,Church-Yonge Corridor,649000.0,1+1,2,800-899,4
+509,ON,Toronto,2006-36 Lee Centre Drive,Woburn,650000.0,2,1,600-699,3
+510,ON,Toronto,212-326 Carlaw Avenue,South Riverdale,769000.0,1,1,1000-1199,2
+511,ON,Toronto,702-7 Grenville Street,Bay Street Corridor,998000.0,2,2,800-899,4
+512,ON,Toronto,7010-88 Harbour Street,Waterfront Communities C1,1888000.0,2,2,1000-1199,4
+513,ON,Toronto,2505-50 Ordnance Street,Waterfront Communities C1,789990.0,1,1,500-599,2
+514,ON,Toronto,2714-105 The Queensway Avenue,High Park-Swansea,699000.0,1+1,1,700-799,3
+515,ON,Toronto,401-608 Richmond Street,Waterfront Communities C1,779000.0,1+1,1,600-699,3
+516,ON,Toronto,2606-50 Town Centre Court,Bendale,449000.0,1,1,0-499,2
+517,ON,Toronto,1612-10 Queens Quay W,Waterfront Communities C1,588800.0,1+1,1,0-499,3
+518,ON,Toronto,615-27 Bathurst Street,Waterfront Communities C1,699000.0,2,2,700-799,4
+519,ON,Toronto,W1208-565 Wilson Avenue,Clanton Park,979789.0,2,2,1000-1199,4
+520,ON,Toronto,2707-30 Grand Trunk Crescent,Waterfront Communities C1,599000.0,1+1,1,500-599,3
+521,ON,Toronto,701-18 Beverley Street,Kensington-Chinatown,799000.0,2,1,800-899,3
+522,ON,Toronto,2307-55 Bremner Boulevard,Waterfront Communities C1,828800.0,2,2,800-899,4
+523,ON,Toronto,2802-403 Church Street,Church-Yonge Corridor,1120000.0,2,2,800-899,4
+524,ON,Toronto,2709-87 Peter Street,Waterfront Communities C1,469000.0,–,1,0-499,1
+525,ON,Toronto,2705-1 Palace Pier Court,Mimico,1299000.0,2,2,1200-1399,4
+526,ON,Toronto,308-1560 Brimley Road,Bendale,876000.0,2,2,700-799,4
+527,ON,Toronto,1507-5 Massey Square,Crescent Town,399900.0,1,1,800-899,2
+528,ON,Toronto,901-1166 Bay Street,Bay Street Corridor,2975000.0,2,2,2000-2249,4
+529,ON,Toronto,2503-20 Bruyeres Mews,Waterfront Communities C1,899900.0,2+1,2,900-999,5
+530,ON,Toronto,328-21 Iceboat Terrace,Waterfront Communities C1,499999.0,1+1,1,500-599,3
+531,ON,Toronto,1607-2045 Lake Shore Boulevard W,Mimico,995000.0,2,2,1400-1599,4
+532,ON,Toronto,105-25 Sunrise Avenue,Victoria Village,649999.0,2,2,1000-1199,4
+533,ON,Toronto,383 Bloor Street E,Rosedale-Moore Park,900000.0,2,2,700-799,4
+534,ON,Toronto,3903-70 Annie Craig Drive W,Mimico,739999.0,1+1,2,600-699,4
+535,ON,Toronto,1803-170 Avenue Road,Annex,779000.0,1+1,1,600-699,3
+536,ON,Toronto,401-1166 Bay Street,Bay Street Corridor,2595000.0,2,2,2000-2249,4
+537,ON,Toronto,4710-75 Queens Wharf Road,Waterfront Communities C1,649000.0,1,1,500-599,2
+538,ON,Toronto,1109-21 Widmer Street,Waterfront Communities C8,778000.0,1,1,600-699,2
+539,ON,Toronto,1720-20 Edward Street,Bay Street Corridor,565000.0,–,1,0-499,1
+540,ON,Toronto,413-70 Annie Craig Drive W,Mimico,848888.0,2,2,700-799,4
+541,ON,Toronto,340-3 Everson Drive,Willowdale East,699888.0,2,2,1000-1199,4
+542,ON,Toronto,1005-61 St Clair Avenue W,Yonge-St. Clair,1775000.0,2,2,1600-1799,4
+543,ON,Toronto,126-40 Carnation Avenue W,Long Branch,799000.0,2,3,1200-1399,5
+544,ON,Toronto,3102-50 Ordnance Street,Niagara,825000.0,1+1,1,600-699,3
+545,ON,Toronto,807-15 Baseball Place,South Riverdale,799000.0,2,2,800-899,4
+546,ON,Toronto,109-28 Rosebank Drive,Malvern,699000.0,3,3,1400-1599,6
+547,ON,Toronto,#1503-28 Rosebank Drive,Malvern,699000.0,3+1,3,1400-1599,7
+548,ON,Toronto,316-181 Village Green Square,Agincourt South-Malvern West,549000.0,1+1,1,600-699,3
+549,ON,Toronto,30-6061 Kingston Road,Highland Creek,749000.0,3,3,1200-1399,6
+550,ON,Toronto,2011-4968 Yonge Street,Lansing-Westgate,550000.0,1,1,500-599,2
+551,ON,Toronto,311-8 Mercer Street,Waterfront Communities C1,749000.0,1+1,2,700-799,4
+552,ON,Toronto,1902-215 Fort York Boulevard,Waterfront Communities C1,799000.0,2+1,2,800-899,5
+553,ON,Toronto,102-15 Foundry Avenue,Dovercourt-Wallace Emerson-Junction,799900.0,2+1,2,800-899,5
+554,ON,Toronto,102-271 Ridley Boulevard,Bedford Park-Nortown,574000.0,1,1,900-999,2
+555,ON,Toronto,1506-87 Peter Street,Waterfront Communities C1,598000.0,–,1,0-499,1
+556,ON,Toronto,503-1815 Yonge Street,Mount Pleasant West,899900.0,1+1,2,800-899,4
+557,ON,Toronto,314-110 Marine Parade Drive,Mimico,599000.0,1+1,1,600-699,3
+558,ON,Toronto,PH 608-68 Broadview Avenue,South Riverdale,1399000.0,1,2,1000-1199,3
+559,ON,Toronto,6201-14 York Street,Waterfront Communities C1,589000.0,–,1,0-499,1
+560,ON,Toronto,#1-3100 Bayview Avenue,Willowdale East,1388000.0,4,4,2500-2749,8
+561,ON,Toronto,317-825 Church Street,Rosedale-Moore Park,699999.0,1+1,1,600-699,3
+562,ON,Toronto,519-4064 Lawrence Avenue E,West Hill,399900.0,3,2,1000-1199,5
+563,ON,Toronto,810-18 Graydon Hall Drive,Parkwoods-Donalda,549900.0,1+1,1,600-699,3
+564,ON,Toronto,4608-88 Harbour Street,Waterfront Communities C1,688000.0,1,1,500-599,2
+565,ON,Toronto,N413-120 Bayview Avenue,Waterfront Communities C8,699999.0,1+1,2,600-699,4
+566,ON,Toronto,2304-330 Dixon Road,Kingsview Village-The Westway,519000.0,3,2,1000-1199,5
+567,ON,Toronto,129 Mill Road,Markland Wood,1299000.0,3+1,4,2000-2249,8
+568,ON,Toronto,127-10 Guildwood Parkway,Guildwood,999900.0,2,2,1600-1799,4
+569,ON,Toronto,516-29 Queens Quay E,Waterfront Communities C1,1668000.0,2+1,3,1200-1399,6
+570,ON,Toronto,1101-88 Harbour Street,Waterfront Communities C1,599000.0,1,1,500-599,2
+571,ON,Toronto,PH2-120 Lombard Street,Church-Yonge Corridor,799900.0,2,2,900-999,4
+572,ON,Toronto,501-160 Vanderhoof Avenue,Thorncliffe Park,599000.0,1+1,1,600-699,3
+573,ON,Toronto,414-52 Forest Manor Road,Henry Farm,589999.0,1+1,1,500-599,3
+574,ON,Toronto,2205-33 Sheppard Avenue E,Willowdale East,599900.0,1+1,1,600-699,3
+575,ON,Toronto,332-35 Saranac Boulevard,Englemount-Lawrence,799000.0,3,2,1000-1199,5
+576,ON,Toronto,2614-10 Northtown Way,Willowdale East,628000.0,1+1,1,600-699,3
+577,ON,Toronto,305-530 Indian Grove N,Junction Area,995000.0,2,2,1000-1199,4
+578,ON,Toronto,2904-42 Charles Street,Church-Yonge Corridor,688000.0,1,1,500-599,2
+579,ON,Toronto,707-20 Gladstone Avenue,Little Portugal,695000.0,2,1,600-699,3
+580,ON,Toronto,2408-251 Manitoba Street,Mimico,675000.0,1,1,500-599,2
+581,ON,Toronto,329-2100 Bridletowne Circle,L'Amoreaux,799000.0,3+1,2,1200-1399,6
+582,ON,Toronto,TH 4-10 Morrison Street,Waterfront Communities C1,2450000.0,2+1,3,1600-1799,6
+583,ON,Toronto,1007-5 Soudan Avenue N,Mount Pleasant East,899000.0,2,2,800-899,4
+584,ON,Toronto,96-23 Eldora Avenue,Newtonbrook West,699000.0,1,1,500-599,2
+585,ON,Toronto,102-760 Sheppard Avenue W,Bathurst Manor,698000.0,2,2,900-999,4
+586,ON,Toronto,1212-80 Queens Wharf Road,Waterfront Communities C1,599000.0,1+1,1,500-599,3
+587,ON,Toronto,PH9-55 De Boers Drive E,York University Heights,549888.0,1,1,600-699,2
+588,ON,Toronto,810-1461 Lawrence Avenue,Brookhaven-Amesbury,829900.0,3,3,900-999,6
+589,ON,Toronto,2219A-700 Humberwood Boulevard,West Humber-Clairville,599000.0,2,1,800-899,3
+590,ON,Toronto,2-715 Kingston Road,The Beaches,1099000.0,2,2,1000-1199,4
+591,ON,Toronto,106-3 Rean Drive,Bayview Village,538000.0,1,1,600-699,2
+592,ON,Toronto,3612-121 Mcmahon Drive,Bayview Village,699990.0,1+1,1,600-699,3
+593,ON,Toronto,3205-88 Sheppard Avenue E,Willowdale East,729000.0,1+1,1,600-699,3
+594,ON,Toronto,PH11-77 Mcmurrich Street,Annex,1925000.0,2+1,2,1400-1599,5
+595,ON,Toronto,2704-55 Skymark Drive,Hillcrest Village,699000.0,2+1,2,1400-1599,5
+596,ON,Toronto,3807-161 Roehampton Avenue,Mount Pleasant West,599900.0,1+1,1,500-599,3
+597,ON,Toronto,1610-225 Sumach Street,Regent Park,499000.0,1,1,0-499,2
+598,ON,Toronto,206-10 Martha Eaton Way,Brookhaven-Amesbury,499000.0,2,2,900-999,4
+599,ON,Toronto,1404-15 Torrance Road,Eglinton East,399999.0,1+2,1,800-899,4
+600,ON,Toronto,1716-251 Jarvis Street,Church-Yonge Corridor,729900.0,3,1,700-799,4
+601,ON,Toronto,1006-2150 Lawrence Avenue E,Wexford-Maryvale,499990.0,1+1,1,500-599,3
+602,ON,Toronto,3312-19 Western Battery Road,Niagara,698000.0,2,1,600-699,3
+603,ON,Toronto,507-18 Harrison Garden Boulevard,Willowdale East,569000.0,1,1,500-599,2
+604,ON,Toronto,1224-222 The Esplanade,Waterfront Communities C8,599999.0,1,1,600-699,2
+605,ON,Toronto,84-100 Parrotta Drive,Humberlea-Pelmo Park W5,649900.0,2,2,900-999,4
+606,ON,Toronto,306-993 Queen Street W,Niagara,1299000.0,1+2,2,1200-1399,5
+607,ON,Toronto,627-1 Belsize Drive,Mount Pleasant West,399000.0,–,1,0-499,1
+608,ON,Toronto,4006-159 Dundas Street E,Church-Yonge Corridor,699000.0,1+1,2,600-699,4
+609,ON,Toronto,LPH7-600 Rexdale Boulevard,West Humber-Clairville,599000.0,2,3,1400-1599,5
+610,ON,Toronto,605-5793 Yonge Street,Newtonbrook East,649000.0,2,1,700-799,3
+611,ON,Toronto,5208-28 Freeland Street,Waterfront Communities C8,1050000.0,1+1,1,600-699,3
+612,ON,Toronto,712-245 Davisville Avenue,Mount Pleasant West,799888.0,1+1,1,700-799,3
+613,ON,Toronto,919-20 Blue Jays Way,Waterfront Communities C1,683888.0,1,1,600-699,2
+614,ON,Toronto,312-75 The Donway W,Banbury-Don Mills,598000.0,1+1,2,700-799,4
+615,ON,Toronto,1110-36 Forest Manor Road,Henry Farm,898000.0,2,2,700-799,4
+616,ON,Toronto,808-88 Grangeway Avenue,Woburn,749000.0,2+1,2,1000-1199,5
+617,ON,Toronto,201-732 Sheppard Avenue W,Clanton Park,849900.0,2+1,2,1600-1799,5
+618,ON,Toronto,1004-478 King Street W,Waterfront Communities C1,600000.0,1+1,1,600-699,3
+619,ON,Toronto,PH06-311 Richmond Street,Moss Park,595000.0,1,1,600-699,2
+620,ON,Toronto,112-2100 Bridletowne Circle,L'Amoreaux,805000.0,3,2,1000-1199,5
+621,ON,Toronto,2910-89 Dunfield Avenue,Mount Pleasant West,998000.0,2+1,2,1000-1199,5
+622,ON,Toronto,3003-75 St Nicholas Street,Bay Street Corridor,529000.0,–,1,0-499,1
+623,ON,Toronto,801-1101 Pharmacy Avenue,Wexford-Maryvale,449900.0,2,2,900-999,4
+624,ON,Toronto,3703-25 Telegram Mews,Waterfront Communities C1,639999.0,1+1,1,500-599,3
+625,ON,Toronto,1313-330 Mccowan Road,Eglinton East,549900.0,2+1,2,1000-1199,5
+626,ON,Toronto,316-170 Sudbury Street,Niagara,599000.0,2,2,800-899,4
+627,ON,Toronto,1122-505 Richmond Street W,Waterfront Communities C1,1449900.0,2,2,900-999,4
+628,ON,Toronto,903-980 Yonge Street,Annex,799000.0,1,1,700-799,2
+629,ON,Toronto,207-2015 Sheppard Avenue,Henry Farm,599000.0,1+1,1,600-699,3
+630,ON,Toronto,1018-140 Simcoe Street,Waterfront Communities C1,649000.0,1,1,600-699,2
+631,ON,Toronto,2126-75 Bamburgh Circle,Steeles,639000.0,3+1,2,1200-1399,6
+632,ON,Toronto,312E-30 Fashion Roseway,Willowdale East,750000.0,3,2,1000-1199,5
+633,ON,Toronto,907-3220 Sheppard Avenue,Tam O'Shanter-Sullivan,630000.0,1+1,1,600-699,3
+634,ON,Toronto,40-106 Chester Le Boulevard,L'Amoreaux,975000.0,4+2,4,1400-1599,10
+635,ON,Toronto,915-319 Merton Street,Mount Pleasant West,625000.0,1,1,500-599,2
+636,ON,Toronto,209-1703 Mccowan Road,Agincourt South-Malvern West,649900.0,3,2,1200-1399,5
+637,ON,Toronto,1408-18 Graydon Hall Drive,Parkwoods-Donalda,538000.0,1,1,500-599,2
+638,ON,Toronto,2307-117 Mcmahon Drive,Bayview Village,699000.0,1+1,1,600-699,3
+639,ON,Toronto,416-68 Merton Street,Mount Pleasant West,649000.0,1+1,2,600-699,4
+640,ON,Toronto,6-91 Rameau Drive,Hillcrest Village,888888.0,3,2,1200-1399,5
+641,ON,Toronto,3210-125 Peter Street,Waterfront Communities C1,589900.0,1,1,0-499,2
+642,ON,Toronto,2803-28 Ted Rogers Way,Church-Yonge Corridor,699900.0,1,1,500-599,2
+643,ON,Toronto,1407-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,635000.0,1+1,1,600-699,3
+644,ON,Toronto,1001-452 Richmond Street,Waterfront Communities C1,750000.0,1,1,500-599,2
+645,ON,Toronto,2606-5 Valhalla Inn Road,Islington-City Centre West,599999.0,1+1,1,600-699,3
+646,ON,Toronto,802-715 Don Mills Road,Flemingdon Park,525000.0,2,1,900-999,3
+647,ON,Toronto,3509-88 Blue Jays Way,Waterfront Communities C1,1049000.0,2,2,800-899,4
+648,ON,Toronto,306-40 Oaklands Avenue,Yonge-St. Clair,1395000.0,2,3,1600-1799,5
+649,ON,Toronto,2216-55 Harbour Square,Waterfront Communities C1,899000.0,1,1,1000-1199,2
+650,ON,Toronto,105-195 Merton Street,Mount Pleasant West,699000.0,2,1,800-899,3
+651,ON,Toronto,2703-70 Annie Craig Drive W,Mimico,699999.0,1+1,2,600-699,4
+652,ON,Toronto,1710-1 Bloor Street E,Church-Yonge Corridor,1330000.0,2,2,700-799,4
+653,ON,Toronto,1210-85 East Liberty Street,Niagara,699900.0,1+1,1,600-699,3
+654,ON,Toronto,301-1 Post Road,Bridle Path-Sunnybrook-York Mills,5295000.0,2,4,3500-3749,6
+655,ON,Toronto,705-50 Power Street,Moss Park,739990.0,2,2,500-599,4
+656,ON,Toronto,PH18-585 Bloor Street E,Cabbagetown-South St. James Town,3150000.0,3,4,2250-2499,7
+657,ON,Toronto,503-66 Portland Street,Waterfront Communities C1,688000.0,1+1,1,600-699,3
+658,ON,Toronto,10-150 Carsbrooke Road,Etobicoke West Mall,699000.0,3+1,3,1400-1599,7
+659,ON,Toronto,326-585 Bloor Street E,Cabbagetown-South St. James Town,1925000.0,2,3,1500-2000,5
+660,ON,Toronto,233-366 The East Mall,Islington-City Centre West,599900.0,3,3,1200-1399,6
+661,ON,Toronto,1231-68 Corporate Drive,Woburn,499900.0,1+1,1,600-699,3
+662,ON,Toronto,1102-725 Don Mills Road,Flemingdon Park,505000.0,2,1,800-899,3
+663,ON,Toronto,533-388 Richmond Street W,Waterfront Communities C1,599000.0,1,1,600-699,2
+664,ON,Toronto,909-701 King Street,Niagara,749000.0,2+1,2,1000-1199,5
+665,ON,Toronto,909-105 George Street,Moss Park,549900.0,1+1,1,500-599,3
+666,ON,Toronto,717-23 Glebe Road W,Yonge-Eglinton,860000.0,2,2,600-699,4
+667,ON,Toronto,213-352 Front Street W,Waterfront Communities C1,649900.0,1+1,1,600-699,3
+668,ON,Toronto,7-17 Eaton Park Lane,L'Amoreaux,799000.0,2+1,3,1200-1399,6
+669,ON,Toronto,1901-61 St Clair Avenue W,Yonge-St. Clair,4500000.0,3+1,4,3000-3249,8
+670,ON,Toronto,1810-30 Ordnance Street,Niagara,749900.0,1,1,600-699,2
+671,ON,Toronto,1708-70 Annie Craig Drive W,Mimico,799999.0,1+1,2,600-699,4
+672,ON,Toronto,4001-1 Yorkville Avenue,Annex,779000.0,1+1,2,500-599,4
+673,ON,Toronto,430-139 Merton Street,Mount Pleasant West,924900.0,1+1,2,800-899,4
+674,ON,Toronto,305-1 Scott Street,Waterfront Communities C8,749000.0,1+1,1,700-799,3
+675,ON,Toronto,1310-38 Joe Shuster Way,Niagara,549000.0,1,1,500-599,2
+676,ON,Toronto,734-600 Fleet Street,Niagara,523800.0,–,1,0-499,1
+677,ON,Toronto,1111-36 Blue Jays Way S,Waterfront Communities C1,798800.0,1+1,2,900-999,4
+678,ON,Toronto,2908-33 Helendale Avenue,Yonge-Eglinton,600000.0,1,1,0-499,2
+679,ON,Toronto,109-100 Oriole Parkway,Forest Hill South,650000.0,2,1,800-899,3
+680,ON,Toronto,1611-18 Harrison Garden Boulevard,Willowdale East,599000.0,1,1,500-599,2
+681,ON,Toronto,208-4101 Sheppard Avenue E,Agincourt South-Malvern West,599000.0,4,2,1200-1399,6
+682,ON,Toronto,1809-10 Yonge Street,Waterfront Communities C1,649999.0,1+1,1,500-599,3
+683,ON,Toronto,264-10 Eddystone Avenue,Glenfield-Jane Heights,299900.0,3,2,1200-1399,5
+684,ON,Toronto,2006-68 Abell Street,Little Portugal,689900.0,2,2,600-699,4
+685,ON,Toronto,217-100 Coe Hill Drive,High Park-Swansea,630000.0,2,1,1000-1199,3
+686,ON,Toronto,236-200 Manitoba Street,Mimico,899000.0,2+1,2,1200-1399,5
+687,ON,Toronto,611-2261 Lake Shore Boulevard W,Mimico,859000.0,2+1,2,1000-1199,5
+688,ON,Toronto,N-1004-120 Bayview Avenue,Waterfront Communities C8,798000.0,1+1,1,700-799,3
+689,ON,Toronto,404-15 Grenville Street,Bay Street Corridor,569000.0,–,1,0-499,1
+690,ON,Toronto,1125-251 Manitoba Street E,Mimico,599999.0,1,1,0-499,2
+691,ON,Toronto,725-1091 Kingston Road,Birchcliffe-Cliffside,799000.0,2,2,1000-1199,4
+692,ON,Toronto,2508-290 Adelaide Street W,Waterfront Communities C1,688800.0,1+1,1,500-599,3
+693,ON,Toronto,3311-19 Western Battery Road,Niagara,729000.0,1+1,1,500-599,3
+694,ON,Toronto,1509-11 Wincott Drive,Kingsview Village-The Westway,549000.0,3+1,2,1200-1399,6
+695,ON,Toronto,1605-3233 Eglinton Avenue E,Scarborough Village,599000.0,2+1,2,1000-1199,5
+696,ON,Toronto,408-1700 Avenue Road,Bedford Park-Nortown,3490000.0,3,3,2250-2499,6
+697,ON,Toronto,912-29 Queens Quay E,Waterfront Communities C8,999000.0,1+1,2,700-799,4
+698,ON,Toronto,917-44 St Joseph Street,Bay Street Corridor,649900.0,1+1,1,600-699,3
+699,ON,Toronto,509-270 Wellington Street W,Waterfront Communities C1,699000.0,1+1,1,700-799,3
+700,ON,Toronto,905-50 Ordnance Street,Niagara,679900.0,1,1,600-699,2
+701,ON,Toronto,306-65 East Liberty Street,Niagara,599000.0,1,1,500-599,2
+702,ON,Toronto,4003-197 Yonge Street,Church-Yonge Corridor,699999.0,1,1,500-599,2
+703,ON,Toronto,606-1070 Sheppard Avenue W,York University Heights,599900.0,1+1,1,600-699,3
+704,ON,Toronto,911-77 Harbour Square,Waterfront Communities C1,849999.0,1,1,700-799,2
+705,ON,Toronto,1010-30 Roehampton Avenue,Mount Pleasant West,898000.0,2,2,800-899,4
+706,ON,Toronto,209-20 Trolley Crescent,Moss Park,1259000.0,2,3,1200-1399,5
+707,ON,Toronto,1107-170 Avenue Road,Annex,1175000.0,2,2,800-899,4
+708,ON,Toronto,3907-50 Town Centre Court,Bendale,449000.0,–,1,0-499,1
+709,ON,Toronto,904-8 Mondeo Drive,Dorset Park,525000.0,1,1,600-699,2
+710,ON,Toronto,205-928 Millwood Road,Leaside,785000.0,2,2,1000-1199,4
+711,ON,Toronto,1512-210 Simcoe Street,University,649000.0,1,1,500-599,2
+712,ON,Toronto,191-262 John Garland Boulevard,Mount Olive-Silverstone-Jamestown,598800.0,3+2,2,1200-1399,7
+713,ON,Toronto,PH1-540 College Street,Palmerston-Little Italy,3695000.0,3,3,2250-2499,6
+714,ON,Toronto,807-125 Village Green Square,Agincourt South-Malvern West,585000.0,1+1,1,600-699,3
+715,ON,Toronto,2208-125 Redpath Avenue,Mount Pleasant West,898000.0,2,2,800-899,4
+716,ON,Toronto,3901-21 Widmer Street,Waterfront Communities C1,788000.0,1+1,2,600-699,4
+717,ON,Toronto,514-1131 Steeles Avenue W,Westminster-Branson,579000.0,2+1,2,1000-1199,5
+718,ON,Toronto,1203-955 Bay Street,Bay Street Corridor,688000.0,1+1,1,500-599,3
+719,ON,Toronto,4608-117 Dundas Street E,Church-Yonge Corridor,859000.0,1+1,2,600-699,4
+720,ON,Toronto,1811E-36 Lisgar Street,Little Portugal,529000.0,2,2,500-599,4
+721,ON,Toronto,1112-25 Telegram Mews,Waterfront Communities C1,568000.0,1+1,1,500-599,3
+722,ON,Toronto,1502-1055 Bay Street,Bay Street Corridor,799000.0,2,2,900-999,4
+723,ON,Toronto,228-1173 Dundas Street E,South Riverdale,1698000.0,1+1,2,1400-1599,4
+724,ON,Toronto,4303-20 Lombard Street,Church-Yonge Corridor,2300000.0,2,2,1400-1599,4
+725,ON,Toronto,609-942 Yonge Street,Annex,699900.0,1+1,1,700-799,3
+726,ON,Toronto,1701-426 University Avenue,University,799900.0,1+1,1,700-799,3
+727,ON,Toronto,711-25 Telegram Mews,Waterfront Communities C1,679000.0,1+1,1,500-599,3
+728,ON,Toronto,602-4101 Sheppard Avenue E,Agincourt South-Malvern West,499800.0,3,2,1200-1399,5
+729,ON,Toronto,213-38 Forest Manor Road,Henry Farm,928888.0,2+1,2,800-899,5
+730,ON,Toronto,1122-25 Greenview Avenue,Newtonbrook West,699000.0,1+1,1,600-699,3
+731,ON,Toronto,510-33 Shore Breeze Drive,Mimico,899999.0,2,2,800-899,4
+732,ON,Toronto,902-8 Lee Centre Drive,Woburn,499888.0,1,1,500-599,2
+733,ON,Toronto,209-32 Forest Manor Road,Henry Farm,839000.0,2,2,700-799,4
+734,ON,Toronto,1402-192 Jarvis Street,Church-Yonge Corridor,789900.0,2,2,1200-1399,4
+735,ON,Toronto,318-5 Marine Parade Drive,Mimico,720000.0,1+1,2,600-699,4
+736,ON,Toronto,1115-75 Bamburgh Circle,Steeles,599900.0,2+1,2,1000-1199,5
+737,ON,Toronto,1211-155 Yorkville Avenue,Annex,499900.0,1,1,0-499,2
+738,ON,Toronto,C38-300 Mill Road,Markland Wood,769000.0,3,3,1600-1799,6
+739,ON,Toronto,416-103 The Queensway Avenue,High Park-Swansea,699900.0,2+1,1,700-799,4
+740,ON,Toronto,A36-288 Mill Road,Markland Wood,698000.0,2,2,1200-1399,4
+741,ON,Toronto,303-35 Ormskirk Avenue,High Park-Swansea,789000.0,2+1,1,1000-1199,4
+742,ON,Toronto,912-62 Forest Manor Road,Henry Farm,599000.0,1,1,500-599,2
+743,ON,Toronto,1204-5180 Yonge Street,Willowdale West,599000.0,1,1,500-599,2
+744,ON,Toronto,902-135 George Street,Waterfront Communities C8,799000.0,2+1,2,1400-1599,5
+745,ON,Toronto,112-20 Orchid Place Drive,Malvern,499800.0,1+1,1,600-699,3
+746,ON,Toronto,100 Harrison Garden Boulevard,Willowdale East,49900.0,–,–,0-499,0
+747,ON,Toronto,2010-386 Yonge Street,Bay Street Corridor,999000.0,2+1,2,900-999,5
+748,ON,Toronto,#4212-15 Iceboat Terrace,Waterfront Communities C1,699000.0,1+1,1,600-699,3
+749,ON,Toronto,TH-102-78 Canterbury Place,Willowdale West,799000.0,1+1,2,900-999,4
+750,ON,Toronto,611-188 Eglinton Avenue E,Mount Pleasant West,799900.0,2,2,1000-1199,4
+751,ON,Toronto,5707-8 Eglinton Avenue E,Mount Pleasant West,599900.0,1+1,1,500-599,3
+752,ON,Toronto,55-121 L'amoreaux Drive,L'Amoreaux,799000.0,4+2,3,1200-1399,9
+753,ON,Toronto,1413-2121 Lake Shore Boulevard,Mimico,399000.0,–,1,0-499,1
+754,ON,Toronto,616-29 Queens Quay E,Waterfront Communities C8,1668000.0,2+1,3,1200-1399,6
+755,ON,Toronto,206-1900 Sheppard Avenue E,Pleasant View,599900.0,2+1,2,1200-1399,5
+756,ON,Toronto,1201-155 Legion Road N,Waterfront Communities C1,599000.0,1,1,600-699,2
+757,ON,Toronto,1506-3559 Eglinton Avenue,Mount Dennis,449000.0,2,1,800-899,3
+758,ON,Toronto,905-65 Harbour Square,Waterfront Communities C1,789900.0,1,1,700-799,2
+759,ON,Toronto,31-70 Byng Avenue,Willowdale East,889000.0,2,3,1200-1399,5
+760,ON,Toronto,#148-275 Broadview Avenue,South Riverdale,799000.0,3,1,1000-1199,4
+761,ON,Toronto,1503-215 Wynford Drive,Flemingdon Park,809900.0,2+1,2,1400-1599,5
+762,ON,Toronto,415-369 Sorauren Avenue,Roncesvalles,699000.0,1,1,500-599,2
+763,ON,Toronto,4105-10 Park Lawn Road,Mimico,679000.0,1,1,500-599,2
+764,ON,Toronto,208-38 Forest Manor Road N,Henry Farm,582000.0,1,1,0-499,2
+765,ON,Toronto,702-1 Valhalla Inn Road,Islington-City Centre West,699000.0,2,2,800-899,4
+766,ON,Toronto,1014-320 Richmond Street E,Moss Park,799000.0,2,2,800-899,4
+767,ON,Toronto,1417-38 Joe Shuster Way,Niagara,429000.0,1,1,0-499,2
+768,ON,Toronto,610-30 Old Mill Road,Kingsway South,1249000.0,2,2,1000-1199,4
+769,ON,Toronto,603-251 Manitoba Street,Mimico,669999.0,1,1,600-699,2
+770,ON,Toronto,702-88 Davenport Road,Annex,2699000.0,2,2,1400-1599,4
+771,ON,Toronto,406-222 The Esplanade,Waterfront Communities C8,500000.0,1+1,1,500-599,3
+772,ON,Toronto,3210-32 Forest Manor Road,Henry Farm,725000.0,1+1,2,600-699,4
+773,ON,Toronto,817-60 Tannery Road,Waterfront Communities C8,599900.0,1+1,1,600-699,3
+774,ON,Toronto,408-18 Maitland Terrace,Bay Street Corridor,2065900.0,3,3,1400-1599,6
+775,ON,Toronto,322-22 East Haven Drive,Birchcliffe-Cliffside,659000.0,2,2,700-799,4
+776,ON,Toronto,3805-50 Town Centre Court,Bendale,399900.0,–,1,0-499,1
+777,ON,Toronto,407-18 Maitland Terrace,Church-Yonge Corridor,2063900.0,3,3,1400-1599,6
+778,ON,Toronto,406-18 Maitland Terrace,Bay Street Corridor,2375900.0,3,3,1600-1799,6
+779,ON,Toronto,405-18 Maitland Terrace,Church-Yonge Corridor,2216900.0,3,3,1400-1599,6
+780,ON,Toronto,522-30 Shore Breeze Drive,Mimico,799425.0,2,1,700-799,3
+781,ON,Toronto,1711-381 Front Street W,Waterfront Communities C1,799995.0,2+1,2,900-999,5
+782,ON,Toronto,904-816 Lansdowne Avenue,Dovercourt-Wallace Emerson-Junction,589000.0,1+1,1,600-699,3
+783,ON,Toronto,1209-10 Sunny Glen Way,Flemingdon Park,649500.0,3,2,900-999,5
+784,ON,Toronto,5001-33 Bay Street,Waterfront Communities C1,1049000.0,2,2,900-999,4
+785,ON,Toronto,1207-9 Michael Power Place,Islington-City Centre West,549900.0,1+1,1,600-699,3
+786,ON,Toronto,109-60 George Butchart Drive,Downsview-Roding-CFB,649000.0,1+1,2,600-699,4
+787,ON,Toronto,803-88 Palace Pier Court,Mimico,798000.0,2,2,1000-1199,4
+788,ON,Toronto,1816-5 Massey Square,Crescent Town,485000.0,2,1,900-999,3
+789,ON,Toronto,1006-60 Pavane Linkway Way,Flemingdon Park,599000.0,3,2,1200-1399,5
+790,ON,Toronto,1405-230 King Street E,Moss Park,899000.0,2+1,2,800-899,5
+791,ON,Toronto,1207-160 Flemington Road,Yorkdale-Glen Park,669900.0,2,1,500-599,3
+792,ON,Toronto,208-1030 King Street,Niagara,779000.0,1+1,1,600-699,3
+793,ON,Toronto,906-2267 Lake Shore Boulevard W,Mimico,1150000.0,2,2,1200-1399,4
+794,ON,Toronto,709-5740 Yonge Street,Newtonbrook West,748000.0,2+1,2,900-999,5
+795,ON,Toronto,1016-1185 The Queensway,Islington-City Centre West,698999.0,1+1,1,600-699,3
+796,ON,Toronto,PH 105-4978 Yonge Street,Lansing-Westgate,988800.0,3,3,1400-1599,6
+797,ON,Toronto,303-170 Bayview Avenue,Waterfront Communities C8,749900.0,1+1,1,700-799,3
+798,ON,Toronto,4005-8 The Esplanade,Waterfront Communities C8,1350000.0,2+1,2,1200-1399,5
+799,ON,Toronto,TH109-1830 Bloor Street W,High Park North,1449000.0,3,3,1200-1399,6
+800,ON,Toronto,307-501 Adelaide Street W,Waterfront Communities C1,499000.0,1,1,0-499,2
+801,ON,Toronto,1101-940 Caled0nia Road S,Yorkdale-Glen Park,439000.0,3+1,1,900-999,5
+802,ON,Toronto,509-1300 Islington Avenue,Islington-City Centre West,645000.0,2,2,900-999,4
+803,ON,Toronto,18-57 Finch Avenue W,Willowdale West,990000.0,3+1,3,1400-1599,7
+804,ON,Toronto,401-138 Princess Street,Moss Park,999000.0,2,2,900-999,4
+805,ON,Toronto,2212-8 Eglinton Avenue E,Mount Pleasant East,799000.0,1+1,2,600-699,4
+806,ON,Toronto,4109-20 Shore Breeze Drive,Mimico,999888.0,2,2,700-799,4
+807,ON,Toronto,909-14 York Street,Waterfront Communities C1,669000.0,1+1,1,500-599,3
+808,ON,Toronto,175-760 Lawrence Avenue W,Yorkdale-Glen Park,799000.0,2,3,1200-1399,5
+809,ON,Toronto,1807-980 Broadview Avenue,Broadview North,745000.0,2,2,1000-1199,4
+810,ON,Toronto,1705-22 Wellesley Street E,Church-Yonge Corridor,549000.0,1,1,0-499,2
+811,ON,Toronto,507-318 Richmond Street W,Waterfront Communities C1,599000.0,1+1,1,600-699,3
+812,ON,Toronto,424-775 King Street W,Niagara,638800.0,1+1,1,600-699,3
+813,ON,Toronto,702-318 King Street E,Moss Park,789900.0,1+1,2,700-799,4
+814,ON,Toronto,1516-39 Annie Craig Drive,Mimico,1100000.0,2+1,2,1000-1199,5
+815,ON,Toronto,1109-2119 Lake Shore Boulevard W,Mimico,699000.0,2,2,700-799,4
+816,ON,Toronto,2909-763 Bay Street,Bay Street Corridor,900000.0,2,2,800-899,4
+817,ON,Toronto,1508-88 Scott Street,Church-Yonge Corridor,749900.0,1,1,500-599,2
+818,ON,Toronto,604-50 Forest Manor Road,Henry Farm,649900.0,1+1,2,500-599,4
+819,ON,Toronto,#2-20 Hainford Street,West Hill,699900.0,3,2,1600-1799,5
+820,ON,Toronto,202-160 Fallingbrook Road,Birchcliffe-Cliffside,669000.0,1,1,800-899,2
+821,ON,Toronto,1213-88 Blue Jays Way,Waterfront Communities C1,499900.0,–,1,0-499,1
+822,ON,Toronto,502-88 Charles Street E,Church-Yonge Corridor,529000.0,–,1,0-499,1
+823,ON,Toronto,2412-21 Widmer Street,Waterfront Communities C1,739000.0,1+1,1,600-699,3
+824,ON,Toronto,153-38 Howard Park Avenue,Roncesvalles,899000.0,3+1,2,1000-1199,6
+825,ON,Toronto,119-208 Niagara Street,Niagara,1199000.0,2,2,1200-1399,4
+826,ON,Toronto,L206-150 Homewood Avenue,North St. James Town,699800.0,1+1,2,800-899,4
+827,ON,Toronto,- 647-3 Everson Drive,Willowdale East,599888.0,2+1,1,800-899,4
+828,ON,Toronto,414-99 The Donway W,Banbury-Don Mills,569900.0,1,1,500-599,2
+829,ON,Toronto,205-2045 Lake Shore Boulevard W,Mimico,748000.0,1,1,900-999,2
+830,ON,Toronto,332-6 Drummond Street,Mimico,999000.0,2,2,1200-1399,4
+831,ON,Toronto,727-1200 Don Mills Road,Banbury-Don Mills,855000.0,2,2,1000-1199,4
+832,ON,Toronto,4111-8 The Esplanade,Waterfront Communities C8,899000.0,2,2,800-899,4
+833,ON,Toronto,PH09W-1926 Lake Shore Boulevard W,South Parkdale,1950000.0,2+1,3,1400-1599,6
+834,ON,Toronto,3906-36 Park Lawn Road N,Mimico,699990.0,1+1,1,600-699,3
+835,ON,Toronto,91-30 Fieldway Road,Islington-City Centre West,749000.0,2,2,900-999,4
+836,ON,Toronto,D5-108 Finch Avenue W,Newtonbrook West,888888.0,3+1,3,1600-1799,7
+837,ON,Toronto,1901-224 King Street W,Waterfront Communities C1,699900.0,1+1,1,600-699,3
+838,ON,Toronto,311-319 Merton Street,Mount Pleasant West,799000.0,2,2,700-799,4
+839,ON,Toronto,513-75 East Liberty Street,Niagara,629000.0,1,1,500-599,2
+840,ON,Toronto,85-125 Palmdale Drive,Tam O'Shanter-Sullivan,599900.0,4,2,1400-1599,6
+841,ON,Toronto,1002-375 King Street W,Waterfront Communities C1,1199000.0,2+1,2,1000-1199,5
+842,ON,Toronto,2506-5180 Yonge Street,Willowdale West,799000.0,2,2,700-799,4
+843,ON,Toronto,417-478 King Street W,Waterfront Communities C1,749000.0,2,1,700-799,3
+844,ON,Toronto,2111-197 Yonge Street,Church-Yonge Corridor,829900.0,1+1,1,600-699,3
+845,ON,Toronto,1510-69 Lynn Williams Street,Niagara,649000.0,1,1,600-699,2
+846,ON,Toronto,313-1350 Kingston Road,Birchcliffe-Cliffside,729000.0,2,2,600-699,4
+847,ON,Toronto,213-15 Bruyeres Mews,Niagara,750000.0,1+1,2,700-799,4
+848,ON,Toronto,4215-30 Shore Breeze Drive,Mimico,899000.0,2,2,800-899,4
+849,ON,Toronto,626-4645 Jane Street,Black Creek,285000.0,2+2,1,800-899,5
+850,ON,Toronto,PH2-36 Charlotte Street,Waterfront Communities C1,799900.0,1,1,700-799,2
+851,ON,Toronto,1509W-225 Sumach Street,Regent Park,849000.0,2,2,800-899,4
+852,ON,Toronto,301-1231 Yonge Street,Rosedale-Moore Park,789000.0,1+1,1,800-899,3
+853,ON,Toronto,1607-386 Yonge Street,Bay Street Corridor,999000.0,3,2,1000-1199,5
+854,ON,Toronto,215-188 Doris Avenue,Willowdale East,789000.0,2,2,1000-1199,4
+855,ON,Toronto,1211-1171 Queen Street W,Little Portugal,749000.0,1+1,1,700-799,3
+856,ON,Toronto,709-492 Eglinton Avenue E,Mount Pleasant East,1199000.0,2+1,2,1000-1199,5
+857,ON,Toronto,815-90 Park Lawn Road,Mimico,599000.0,1+1,1,600-699,3
+858,ON,Toronto,2621-181 Village Green Square,Agincourt South-Malvern West,599900.0,2,2,700-799,4
+859,ON,Toronto,1608-3 Pemberton Avenue,Newtonbrook East,680000.0,1+1,1,700-799,3
+860,ON,Toronto,110-5162 Yonge Street,Willowdale West,798000.0,1+1,2,700-799,4
+861,ON,Toronto,2310-21 Carlton Street,Church-Yonge Corridor,749000.0,2,2,800-899,4
+862,ON,Toronto,909-519 Dundas Street W,Kensington-Chinatown,798000.0,2+1,2,1000-1199,5
+863,ON,Toronto,1114-20 Minowan Miikan Lane,Little Portugal,999999.0,2+1,2,1000-1199,5
+864,ON,Toronto,N113-455 Front Street E,Waterfront Communities C8,559000.0,1,1,500-599,2
+865,ON,Toronto,PH11-28 Olive Avenue,Willowdale East,599999.0,1,1,600-699,2
+866,ON,Toronto,3204-33 Bay Street,Waterfront Communities C1,1080000.0,2,2,800-899,4
+867,ON,Toronto,1611-57 St Joseph Street,Bay Street Corridor,999000.0,2,2,800-899,4
+868,ON,Toronto,709-777 Steeles Avenue W,Newtonbrook West,549000.0,1,1,600-699,2
+869,ON,Toronto,1910-19 Grand Trunk Crescent,Waterfront Communities C1,949999.0,2,2,900-999,4
+870,ON,Toronto,504-10 Bellair Street,Annex,649000.0,–,1,0-499,1
+871,ON,Toronto,2210-70 Temperance Street,Bay Street Corridor,599000.0,1,1,0-499,2
+872,ON,Toronto,1907-115 Blue Jays Way,Waterfront Communities C1,725000.0,1+1,1,500-599,3
+873,ON,Toronto,1302-33 University Avenue,Bay Street Corridor,679900.0,1+1,2,800-899,4
+874,ON,Toronto,131 Village Green Way,Henry Farm,849800.0,4,3,1600-1799,7
+875,ON,Toronto,3107-19 Grand Trunk Crescent,Waterfront Communities C1,589900.0,1,1,500-599,2
+876,ON,Toronto,2015-352 Front Street W,Waterfront Communities C1,1200000.0,2+1,3,1000-1199,6
+877,ON,Toronto,508-380 Dixon Road,Kingsview Village-The Westway,475000.0,1,1,700-799,2
+878,ON,Toronto,2003-35 Hayden Street,Church-Yonge Corridor,1598000.0,2+1,2,1200-1399,5
+879,ON,Toronto,219-1 Old Mill Drive,High Park-Swansea,799000.0,1+1,2,800-899,4
+880,ON,Toronto,2819-181 Village Green Square,Agincourt North,499000.0,1,1,0-499,2
+881,ON,Toronto,7B-1 Chedington Place,Bridle Path-Sunnybrook-York Mills,3095500.0,2,3,2000-2249,5
+882,ON,Toronto,504-77 Charles Street W,Bay Street Corridor,2595500.0,1+1,2,1600-1799,4
+883,ON,Toronto,1402-88 Harbour Street,Waterfront Communities C1,629000.0,1,1,0-499,2
+884,ON,Toronto,908-410 Queens Quay W,Waterfront Communities C1,599999.0,1,1,600-699,2
+885,ON,Toronto,902-576 Front Street W,Waterfront Communities C1,788000.0,2,2,600-699,4
+886,ON,Toronto,18-760 Lawrence Avenue W,Yorkdale-Glen Park,839999.0,3,3,1000-1199,6
+887,ON,Toronto,1443-35 Viking Lane,Islington-City Centre West,688888.0,1+1,1,700-799,3
+888,ON,Toronto,520-161 Roehampton Avenue,Mount Pleasant West,650000.0,1+1,1,500-599,3
+889,ON,Toronto,1910-210 Simcoe Street,Kensington-Chinatown,760000.0,1+1,1,700-799,3
+890,ON,Toronto,1617-40 Homewood Avenue,Cabbagetown-South St. James Town,658000.0,2,1,600-699,3
+891,ON,Toronto,3107-8 Mercer Street,Waterfront Communities C1,1189000.0,3,2,900-999,5
+892,ON,Toronto,1805-101 Erskine Avenue,Mount Pleasant West,599900.0,1+1,1,500-599,3
+893,ON,Toronto,435-461 Adelaide Street W,Waterfront Communities C1,699990.0,1,1,600-699,2
+894,ON,Toronto,210-1 Valhalla Inn Road,Islington-City Centre West,499900.0,1,1,600-699,2
+895,ON,Toronto,829-15 James Finlay Way,Downsview-Roding-CFB,625000.0,1+1,2,600-699,4
+896,ON,Toronto,1107-298 Jarvis Street,Church-Yonge Corridor,499000.0,2+1,2,1000-1199,5
+897,ON,Toronto,12-50 Brookmill Boulevard,L'Amoreaux,799000.0,3+1,3,1200-1399,7
+898,ON,Toronto,228 SW-121 Lower Sherbourne Street,Waterfront Communities C8,849000.0,2,2,700-799,4
+899,ON,Toronto,806-38 Avoca Avenue,Rosedale-Moore Park,1099000.0,2,2,1000-1199,4
+900,ON,Toronto,3901-50 Wellesley Street E,Church-Yonge Corridor,699000.0,1,1,0-499,2
+901,ON,Toronto,4004-16 Bonnycastle Street,Waterfront Communities C8,1499000.0,2+1,3,1200-1399,6
+902,ON,Toronto,2705-750 Bay Street,Bay Street Corridor,599000.0,1,1,700-799,2
+903,ON,Toronto,1706-1048 Broadview Avenue,Broadview North,588000.0,1,1,500-599,2
+904,ON,Toronto,TH16-80 Adelaide Street E,Church-Yonge Corridor,999000.0,2,2,1000-1199,4
+905,ON,Toronto,2707-1 Scott Street,Waterfront Communities C8,1220000.0,1,2,900-999,3
+906,ON,Toronto,103-701 Dovercourt Road,Palmerston-Little Italy,1399999.0,2,2,1200-1399,4
+907,ON,Toronto,607-11 Everson Drive,Willowdale East,1288888.0,3,3,2000-2249,6
+908,ON,Toronto,5402-50 Charles Street E,Church-Yonge Corridor,1828880.0,2+1,3,1000-1199,6
+909,ON,Toronto,380-209 Fort York Boulevard,Niagara,999900.0,2+1,2,1000-1199,5
+910,ON,Toronto,401-15 Mcmurrich Street,Annex,995000.0,2,2,1400-1599,4
+911,ON,Toronto,307-10 Capreol Court,Waterfront Communities C1,799000.0,2+1,2,1000-1199,5
+912,ON,Toronto,1411-39 Annie Craig Drive,Mimico,669900.0,1+1,1,600-699,3
+913,ON,Toronto,528-75 Portland Street,Waterfront Communities C1,980000.0,1+1,1,800-899,3
+914,ON,Toronto,528-75 Portland Street,Waterfront Communities C1,980000.0,1+1,1,800-899,3
+915,ON,Toronto,2203-628 Fleet Street,Niagara,1089000.0,2,2,800-899,4
+916,ON,Toronto,209-200 Woodbine Avenue,The Beaches,1199900.0,2+1,2,1000-1199,5
+917,ON,Toronto,510-2 Church Street,Waterfront Communities C8,999000.0,2,2,800-899,4
+918,ON,Toronto,605-28 Avondale Avenue,Willowdale East,799000.0,2+1,2,800-899,5
+919,ON,Toronto,1811-16 Bonnycastle Street,Waterfront Communities C8,750000.0,1,1,600-699,2
+920,ON,Toronto,906-370 Dixon Road,Kingsview Village-The Westway,449000.0,2,1,900-999,3
+921,ON,Toronto,1007-20 Thomas Riley Street,Islington-City Centre West,798800.0,2,2,800-899,4
+922,ON,Toronto,307-70 Rosehill Avenue,Rosedale-Moore Park,3100000.0,2+1,3,2000-2249,6
+923,ON,Toronto,811-2330 Bridletowne Circle,L'Amoreaux,599000.0,2+1,2,1400-1599,5
+924,ON,Toronto,1704-240 Heath Street W,Forest Hill South,1775000.0,2,2,1600-1799,4
+925,ON,Toronto,310-35 Strangford Lane,Clairlea-Birchmount,699999.0,2,2,800-899,4
+926,ON,Toronto,1311-6 Eva Road,Etobicoke West Mall,509000.0,1+1,1,600-699,3
+927,ON,Toronto,1907-215 Fort York Boulevard,Niagara,599000.0,1,1,600-699,2
+928,ON,Toronto,910-11 Michael Power Place,Islington-City Centre West,549900.0,1,1,600-699,2
+929,ON,Toronto,203-235 Medland Street,Junction Area,999000.0,1+1,2,900-999,4
+930,ON,Toronto,401-56 Forest Manor Road,Henry Farm,599900.0,1+1,2,600-699,4
+931,ON,Toronto,309-59 East Liberty Street,Waterfront Communities C1,689000.0,1+1,2,700-799,4
+932,ON,Toronto,1909-15 Iceboat Terrace,Waterfront Communities C1,698000.0,2,2,700-799,4
+933,ON,Toronto,1210-25 Capreol Court,Waterfront Communities C1,688000.0,1+1,1,600-699,3
+934,ON,Toronto,707-1555 Finch Avenue E,Don Valley Village,899000.0,2,3,1600-1799,5
+935,ON,Toronto,1511-80 Queens Wharf Road,Waterfront Communities C1,799900.0,2,2,800-899,4
+936,ON,Toronto,2303-10 York Street,Waterfront Communities C1,1299999.0,2,2,800-899,4
+937,ON,Toronto,707-16 Mcadam Avenue,Yorkdale-Glen Park,658000.0,1+1,1,600-699,3
+938,ON,Toronto,3707-8 Eglinton Avenue E,Mount Pleasant East,679000.0,1,1,500-599,2
+939,ON,Toronto,2703-10 Northtown Way,Willowdale East,699999.0,1+1,1,600-699,3
+940,ON,Toronto,TH 01-105 Mccaul Street,Kensington-Chinatown,929900.0,3+1,3,1400-1599,7
+941,ON,Toronto,304-1 Falaise Road,West Hill,499900.0,1+1,1,500-599,3
+942,ON,Toronto,1105-455 Sentinel Road,York University Heights,579000.0,2,1,900-999,3
+943,ON,Toronto,2401-170 Bayview Avenue,Moss Park,598000.0,1,1,500-599,2
+944,ON,Toronto,PH09-115 Mcmahon Drive,Bayview Village,650000.0,1+1,1,500-599,3
+945,ON,Toronto,1912-390 Dixon Road,Kingsview Village-The Westway,439000.0,2,1,1000-1199,3
+946,ON,Toronto,407-160 Frederick Street,Church-Yonge Corridor,1499900.0,2+1,3,2000-2249,6
+947,ON,Toronto,2505-270 Queens Quay W,Waterfront Communities C1,699900.0,2,1,800-899,3
+948,ON,Toronto,2901-77 Shuter Street,Church-Yonge Corridor,620000.0,1,1,500-599,2
+949,ON,Toronto,2-52 Holmes Avenue,Willowdale East,1248800.0,2,2,1200-1399,4
+950,ON,Toronto,12-270 Timberbank Boulevard,L'Amoreaux,699999.0,3+1,4,1400-1599,8
+951,ON,Toronto,2106-18 Graydon Hall Drive,Parkwoods-Donalda,579000.0,1,1,500-599,2
+952,ON,Toronto,2106-18 Graydon Hall Drive,Parkwoods-Donalda,579000.0,1,1,500-599,2
+953,ON,Toronto,2 Low Meadoway Way,Hillcrest Village,899000.0,3+1,2,1200-1399,6
+954,ON,Toronto,310-10 Torresdale Avenue,Westminster-Branson,659999.0,2,2,1000-1199,4
+955,ON,Toronto,PH05-3088 Kennedy Road,Steeles,400000.0,1,1,600-699,2
+956,ON,Toronto,111-4060 Lawrence Avenue E,West Hill,449900.0,3,3,1600-1799,6
+957,ON,Toronto,508-70 Town Centre Court,Bendale,499900.0,1,1,500-599,2
+958,ON,Toronto,301-800 Spadina Road,Forest Hill South,649000.0,2,1,700-799,3
+959,ON,Toronto,2003 Heintzman Street Street,Junction Area,680000.0,2+1,1,700-799,4
+960,ON,Toronto,1211-78 Tecumseth Street,Niagara,579000.0,1,1,500-599,2
+961,ON,Toronto,606-5740 Yonge Street,Newtonbrook West,699999.0,2,2,700-799,4
+962,ON,Toronto,105-1110 Briar Hill Avenue,Briar Hill-Belgravia,750000.0,2+1,2,800-899,5
+963,ON,Toronto,204-441 Jane Street,Runnymede-Bloor West Village,850000.0,2,2,1000-1199,4
+964,ON,Toronto,408-5235 Finch Avenue E,Agincourt North,549900.0,2+1,1,700-799,4
+965,ON,Toronto,410-32 Forest Manor Road,Henry Farm,688000.0,2,2,600-699,4
+966,ON,Toronto,1601-56 Annie Craig Drive,Mimico,599000.0,1+1,1,500-599,3
+967,ON,Toronto,PH11-297 College Street,Kensington-Chinatown,799000.0,1,1,500-599,2
+968,ON,Toronto,1213-350 Alton Towers Circle,Milliken,499000.0,2+1,2,1000-1199,5
+969,ON,Toronto,TH 17-215 Bonis Avenue,Tam O'Shanter-Sullivan,899000.0,3,2,1400-1599,5
+970,ON,Toronto,84-42 Pinery Trail,Malvern,699900.0,3,2,1000-1199,5
+971,ON,Toronto,503-8 Mondeo Drive,Dorset Park,549000.0,1+1,1,700-799,3
+972,ON,Toronto,1501-135 Marlee Avenue,Briar Hill-Belgravia,699000.0,2+1,2,1000-1199,5
+973,ON,Toronto,410-71 Jonesville Crescent,Victoria Village,439900.0,1+1,1,700-799,3
+974,ON,Toronto,503-297 College Street,Kensington-Chinatown,850000.0,2+1,2,700-799,5
+975,ON,Toronto,3110-60 Brian Harrison Way,Bendale,569900.0,1+1,1,600-699,3
+976,ON,Toronto,1515-400 Adelaide Street E,Moss Park,889000.0,2,2,700-799,4
+977,ON,Toronto,1912-115 Blue Jays Way,Waterfront Communities C1,559900.0,–,1,0-499,1
+978,ON,Toronto,1015-160 Flemington Road,Yorkdale-Glen Park,564900.0,1,1,0-499,2
+979,ON,Toronto,3006-12 York Street,Waterfront Communities C1,669900.0,1+1,1,500-599,3
+980,ON,Toronto,803-33 Bay Street,Waterfront Communities C1,1049000.0,2+1,2,900-999,5
+981,ON,Toronto,1204-33 Shore Breeze Drive,Mimico,689000.0,1,1,600-699,2
+982,ON,Toronto,701-35 Hayden Street,Church-Yonge Corridor,699000.0,1+1,2,700-799,4
+983,ON,Toronto,46-140 Broadview Avenue,South Riverdale,595000.0,1,1,0-499,2
+984,ON,Toronto,1509-2000 Islington Avenue,Kingsview Village-The Westway,688888.0,2+1,2,1500-2000,5
+985,ON,Toronto,2746-25 Viking Lane,Islington-City Centre West,1150000.0,2+1,3,1200-1399,6
+986,ON,Toronto,808-330 Dixon Road,Kingsview Village-The Westway,379900.0,1,1,800-899,2
+987,ON,Toronto,711-840 St. Clair Avenue W,Oakwood-Vaughan,1549900.0,3,2,1000-1199,5
+988,ON,Toronto,2213-251 Jarvis Street,Church-Yonge Corridor,749900.0,2,1,500-599,3
+989,ON,Toronto,6-65 Annie Craig Drive W,Mimico,719990.0,1+1,1,500-599,3
+990,ON,Toronto,424-2995 Keele Street,Downsview-Roding-CFB,599000.0,1+1,1,600-699,3
+991,ON,Toronto,1608-330 Dixon Road,Kingsview Village-The Westway,379900.0,1,1,800-899,2
+992,ON,Toronto,120-21 Earl Street,North St. James Town,638000.0,1+1,2,700-799,4
+993,ON,Toronto,TH1-500 Doris Avenue,Willowdale East,1950000.0,3+1,3,2250-2499,7
+994,ON,Toronto,323-25 Town Centre Court,Bendale,499000.0,1,1,600-699,2
+995,ON,Toronto,308-60 Shuter Street,Church-Yonge Corridor,1188000.0,3,2,900-999,5
+996,ON,Toronto,2206-68 Abell Street,Little Portugal,699000.0,2,2,600-699,4
+997,ON,Toronto,204-30 Anglesey Boulevard,Edenbridge-Humber Valley,975000.0,2,2,1600-1799,4
+998,ON,Toronto,2215-105 The Queensway Avenue,High Park-Swansea,749000.0,1+1,1,700-799,3
+999,ON,Toronto,2909-180 University Avenue,Bay Street Corridor,1888000.0,2,3,1600-1799,5
+1000,ON,Toronto,312-225 Village Green Square,Agincourt South-Malvern West,649000.0,1+1,2,700-799,4
+1001,ON,Toronto,203-9 Greenbriar Road,Bayview Village,799900.0,2+1,3,1400-1599,6
+1002,ON,Toronto,701-225 Sumach Street,Regent Park,629900.0,1,1,500-599,2
+1003,ON,Toronto,315-55 Ontario Street,Moss Park,554900.0,1,1,0-499,2
+1004,ON,Toronto,2302-55 Ontario Street,Moss Park,1570900.0,2+1,2,1000-1199,5
+1005,ON,Toronto,31-850 Huntingwood Drive W,L'Amoreaux,799900.0,3,2,1200-1399,5
+1006,ON,Toronto,116-231 Fort York Boulevard,Niagara,447500.0,–,1,0-499,1
+1007,ON,Toronto,#2905-275 Yorkland Road,Henry Farm,650000.0,1+1,1,600-699,3
+1008,ON,Toronto,1602-25 Cole Street,Regent Park,498888.0,1,1,500-599,2
+1009,ON,Toronto,407-159 Dundas Street E,Church-Yonge Corridor,769900.0,2,2,700-799,4
+1010,ON,Toronto,506-30 Allanhurst Drive,Edenbridge-Humber Valley,439000.0,2,1,1000-1199,3
+1011,ON,Toronto,3010-11 Wellesley Street W,Bay Street Corridor,699900.0,–,1,0-499,1
+1012,ON,Toronto,4506-75 Queens Wharf Road,Waterfront Communities C1,998888.0,3,2,1000-1199,5
+1013,ON,Toronto,2107-3 Rean Drive,Bayview Village,899000.0,2+1,2,1000-1199,5
+1014,ON,Toronto,703-29 Queens Quay E,Waterfront Communities C8,2233000.0,2+1,3,1600-1799,6
+1015,ON,Toronto,1509-3 Marine Parade Drive,Mimico,359000.0,1+1,1,700-799,3
+1016,ON,Toronto,#807-1461 Lawrence Avenue W,Brookhaven-Amesbury,599900.0,2,2,600-699,4
+1017,ON,Toronto,PH3-5 Kenneth Avenue,Willowdale East,799000.0,2+1,2,1400-1599,5
+1018,ON,Toronto,1202-1275 Markham Road,Woburn,589000.0,2+1,2,1200-1399,5
+1019,ON,Toronto,#616-75 Canterbury Place,Willowdale West,949000.0,3,2,800-899,5
+1020,ON,Toronto,2302-21 Iceboat Terrace,Waterfront Communities C1,499000.0,1,1,500-599,2
+1021,ON,Toronto,2504-9 Bogert Avenue,Lansing-Westgate,699000.0,1+1,1,600-699,3
+1022,ON,Toronto,446 SE-60 Princess Street,Waterfront Communities C8,899000.0,2,2,700-799,4
+1023,ON,Toronto,411-70 Alexander Street,Church-Yonge Corridor,579000.0,1,1,600-699,2
+1024,ON,Toronto,512-106 Dovercourt Road,Trinity-Bellwoods,699000.0,1,1,600-699,2
+1025,ON,Toronto,2811-125 Blue Jays Way,Waterfront Communities C1,899000.0,3,2,800-899,5
+1026,ON,Toronto,605-8 Wellesley Street E,Church-Yonge Corridor,799000.0,3,2,1000-1199,5
+1027,ON,Toronto,517-1030 Sheppard Avenue W,Bathurst Manor,749000.0,3,2,1000-1199,5
+1028,ON,Toronto,609-2466 Eglinton Avenue E,Eglinton East,699000.0,2+1,2,1000-1199,5
+1029,ON,Toronto,4-50 Holmes Avenue,Willowdale East,1180000.0,2,2,1000-1199,4
+1030,ON,Toronto,3508-23 Hollywood Avenue,Willowdale East,888000.0,2,2,1000-1199,4
+1031,ON,Toronto,718-38 Dan Leckie Way,Waterfront Communities C1,780000.0,1+1,1,700-799,3
+1032,ON,Toronto,412-55 Lombard Street,Church-Yonge Corridor,898800.0,2,2,900-999,4
+1033,ON,Toronto,1501-83 Borough Drive,Bendale,499000.0,1,1,600-699,2
+1034,ON,Toronto,839-151 Dan Leckie Way,Waterfront Communities C1,888800.0,2,2,800-899,4
+1035,ON,Toronto,414-2995 Keele Street,Downsview-Roding-CFB,624900.0,2,2,700-799,4
+1036,ON,Toronto,614-68 Broadview Avenue,South Riverdale,2249000.0,2+1,2,1600-1799,5
+1037,ON,Toronto,2105-251 Manitoba Street,Mimico,680000.0,1,1,500-599,2
+1038,ON,Toronto,801-101 Charles Street E,Church-Yonge Corridor,1499000.0,2+2,3,1400-1599,7
+1039,ON,Toronto,1216-633 Bay Street,Bay Street Corridor,789900.0,2,2,1000-1199,4
+1040,ON,Toronto,4308-88 Harbour Street,Bay Street Corridor,869900.0,1,1,500-599,2
+1041,ON,Toronto,506-185 Roehampton Avenue,Mount Pleasant West,599000.0,1+1,1,500-599,3
+1042,ON,Toronto,222-812 Lansdowne Avenue,Dovercourt-Wallace Emerson-Junction,565000.0,1,1,500-599,2
+1043,ON,Toronto,1519-120 Varna Drive,Englemount-Lawrence,549000.0,1,1,0-499,2
+1044,ON,Toronto,1-455 Dovercourt Road,Dufferin Grove,1998000.0,3,3,1400-1599,6
+1045,ON,Toronto,#1620-33 Harbour Square,Waterfront Communities C1,1259000.0,2,2,1400-1599,4
+1046,ON,Toronto,1801-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,770000.0,2,2,800-899,4
+1047,ON,Toronto,2003-71 Simcoe Street,Bay Street Corridor,1799999.0,2+1,2,1600-1799,5
+1048,ON,Toronto,PH5-38 Avoca Avenue,Rosedale-Moore Park,2335000.0,2,2,1200-1399,4
+1049,ON,Toronto,314-4673 Jane Street,Black Creek,279900.0,2,1,700-799,3
+1050,ON,Toronto,5508-1 Yorkville Avenue,Annex,1450000.0,3,2,700-799,5
+1051,ON,Toronto,201-2 Queensbury Avenue,Birchcliffe-Cliffside,655000.0,1,2,700-799,3
+1052,ON,Toronto,3005-30 Roehampton Avenue,Mount Pleasant West,898000.0,2,2,700-799,4
+1053,ON,Toronto,1006-25 Oxley Street,Waterfront Communities C1,888000.0,2,2,900-999,4
+1054,ON,Toronto,408-340 Dixon Road,Kingsview Village-The Westway,399900.0,2,1,900-999,3
+1055,ON,Toronto,1715-400 Adelaide Street E,Moss Park,948000.0,2,2,700-799,4
+1056,ON,Toronto,3203-19 Western Battery Road,Niagara,749000.0,1,2,600-699,3
+1057,ON,Toronto,905-10 Tichester Road,Forest Hill South,1800000.0,2+1,2,1400-1599,5
+1058,ON,Toronto,210-38 Forest Manor Road N,Henry Farm,590000.0,1,1,0-499,2
+1059,ON,Toronto,1204-251 Manitoba Street,Mimico,819900.0,2,2,700-799,4
+1060,ON,Toronto,PH05-1135 Royal York Road,Edenbridge-Humber Valley,2780000.0,2,3,2750-2999,5
+1061,ON,Toronto,PH 05-275 Yorkland Road,Henry Farm,599900.0,1+1,1,600-699,3
+1062,ON,Toronto,1407-298 Jarvis Street,Church-Yonge Corridor,779800.0,2+1,2,1000-1199,5
+1063,ON,Toronto,609-438 Richmond Street W,Waterfront Communities C1,849000.0,1+1,2,800-899,4
+1064,ON,Toronto,204-670 Richmond Street,Niagara,1949000.0,2+1,2,1500-2000,5
+1065,ON,Toronto,511-1 Neighbourhood Lane,Stonegate-Queensway,799000.0,2+1,2,800-899,5
+1066,ON,Toronto,1408-5765 Yonge Street,Newtonbrook East,799000.0,2+1,2,1200-1399,5
+1067,ON,Toronto,1818-30 Shore Breeze Drive,Mimico,960000.0,2,2,700-799,4
+1068,ON,Toronto,402-1350 Kingston Road,Birchcliffe-Cliffside,726900.0,1+1,1,700-799,3
+1069,ON,Toronto,21-120 Twenty Fourth Street,Long Branch,860000.0,2,3,1200-1399,5
+1070,ON,Toronto,228-955 Queen Street W,Trinity-Bellwoods,599900.0,1,1,500-599,2
+1071,ON,Toronto,1701-260 Scarlett Road,Rockcliffe-Smythe,750000.0,2,2,1000-1199,4
+1072,ON,Toronto,PH10-61 Town Centre Court,Bendale,859000.0,3,2,1000-1199,5
+1073,ON,Toronto,805-117 Dundas Street E,Church-Yonge Corridor,559000.0,–,1,0-499,1
+1074,ON,Toronto,703-10 Tangreen Court,Newtonbrook West,599900.0,2,2,900-999,4
+1075,ON,Toronto,3-201 High Park Avenue,High Park North,765000.0,2,2,1000-1199,4
+1076,ON,Toronto,LPH2926-135 Lower Sherbourne Street,Waterfront Communities C8,975900.0,2+1,2,700-799,5
+1077,ON,Toronto,2604-88 Corporate Drive,Woburn,748880.0,2+1,2,1200-1399,5
+1078,ON,Toronto,1910-51 East Liberty Street,Niagara,699000.0,1+1,2,600-699,4
+1079,ON,Toronto,2210-155 Yorkville Avenue,Annex,599000.0,1,1,0-499,2
+1080,ON,Toronto,337-4645 Jane Street,Black Creek,273000.0,2,1,800-899,3
+1081,ON,Toronto,1409-215 Fort York Boulevard,Niagara,649999.0,1+1,1,600-699,3
+1082,ON,Toronto,2807-5168 Yonge Street,Willowdale West,698000.0,1+1,1,600-699,3
+1083,ON,Toronto,1162-123 Omni Drive,Bendale,599000.0,2,2,1000-1199,4
+1084,ON,Toronto,120-3740 Don Mills Road,Hillcrest Village,798000.0,4,2,1600-1799,6
+1085,ON,Toronto,1702-5418 Yonge Street,Willowdale West,888000.0,3,2,1200-1399,5
+1086,ON,Toronto,3-2619 Warden Avenue,L'Amoreaux,799000.0,3,3,1600-1799,6
+1087,ON,Toronto,527-36 Stadium Road,Niagara,1230000.0,2,2,1200-1399,4
+1088,ON,Toronto,38 The Esplanade Road,Waterfront Communities C8,1149900.0,1,2,1000-1500,3
+1089,ON,Toronto,513-555 Wilson Avenue,Clanton Park,630000.0,1+1,1,600-699,3
+1090,ON,Toronto,2901-199 Richmond Street,Waterfront Communities C1,1580000.0,2+1,2,1200-1399,5
+1091,ON,Toronto,2005-403 Church Street,Church-Yonge Corridor,1069000.0,2,2,700-799,4
+1092,ON,Toronto,2103-101 Erskine Avenue,Mount Pleasant West,799900.0,1+1,2,600-699,4
+1093,ON,Toronto,505-85 Skymark Drive,Hillcrest Village,1189000.0,2+1,2,1400-1599,5
+1094,ON,Toronto,UNIT 1-21 West Deane Park Drive,Eringate-Centennial-West Deane,999999.0,3+2,3,1600-1799,8
+1095,ON,Toronto,102-65 Spring Garden Avenue,Willowdale East,888000.0,2+2,2,1500-2000,6
+1096,ON,Toronto,#1205-330 Mccowan Road,Eglinton East,650000.0,3+1,2,1200-1399,6
+1097,ON,Toronto,606-6 Jackes Avenue,Rosedale-Moore Park,2795000.0,2+1,2,1400-1599,5
+1098,ON,Toronto,313-75 St Nicholas Street,Bay Street Corridor,695000.0,1,1,500-599,2
+1099,ON,Toronto,404W-480 Queens Quay W,Waterfront Communities C1,1895000.0,2,2,1500-2000,4
+1100,ON,Toronto,202-2 Anndale Drive W,Willowdale East,799000.0,2,2,900-999,4
+1101,ON,Toronto,201-900 Yonge Street,Annex,1475000.0,2+1,2,1400-1599,5
+1102,ON,Toronto,301-701 Dovercourt Road,Palmerston-Little Italy,1698000.0,2+1,2,1200-1399,5
+1103,ON,Toronto,608-35 Church Street,Church-Yonge Corridor,899000.0,1+1,2,1200-1399,4
+1104,ON,Toronto,1517-155 Yorkville Avenue,Annex,788000.0,1+1,1,600-699,3
+1105,ON,Toronto,20-304 Torresdale Avenue,Westminster-Branson,863000.0,3+1,4,2000-2249,8
+1106,ON,Toronto,4-260 Finch Avenue E,Newtonbrook East,999000.0,2,2,800-899,4
+1107,ON,Toronto,136-284 St Helens Avenue,Dufferin Grove,399000.0,–,1,0-499,1
+1108,ON,Toronto,705-78 Warren Road,Casa Loma,519000.0,1,1,600-699,2
+1109,ON,Toronto,4111-117 Dundas Street E,Church-Yonge Corridor,1159000.0,2,2,700-799,4
+1110,ON,Toronto,2513-470 Front Street W,Waterfront Communities C1,1880000.0,3,3,1200-1399,6
+1111,ON,Toronto,701-300 Front Street W,Waterfront Communities C1,699000.0,1,1,600-699,2
+1112,ON,Toronto,314-280 Howland Avenue,Annex,1675000.0,2+1,3,1200-1399,6
+1113,ON,Toronto,5104-70 Temperance Street,Bay Street Corridor,559000.0,–,1,0-499,1
+1114,ON,Toronto,1107-1910 Lake Shore Boulevard W,High Park-Swansea,989000.0,2,2,900-999,4
+1115,ON,Toronto,1208-150 Alton Towers Circle,Milliken,688000.0,2+1,2,1000-1199,5
+1116,ON,Toronto,306-1331 Queen Street E,South Riverdale,588000.0,1,1,500-599,2
+1117,ON,Toronto,2105-161 Roehampton Avenue,Mount Pleasant West,599000.0,1,1,500-599,2
+1118,ON,Toronto,1409-1 Yorkville Avenue,Annex,898000.0,1+1,1,500-599,3
+1119,ON,Toronto,1811-5162 Yonge Street,Willowdale West,789000.0,1,1,500-599,2
+1120,ON,Toronto,1603E-36 Lisgar Street,Little Portugal,598988.0,1+1,1,600-699,3
+1121,ON,Toronto,606-90 Stadium Road,Niagara,699800.0,2,2,800-899,4
+1122,ON,Toronto,518-80 Front Street,Church-Yonge Corridor,1849000.0,2,2,1500-2000,4
+1123,ON,Toronto,909-101 Peter Street,Waterfront Communities C1,449000.0,–,1,0-499,1
+1124,ON,Toronto,601-16 Harrison Garden Boulevard,Willowdale East,699900.0,1+1,1,600-699,3
+1125,ON,Toronto,203-70 Montclair Avenue W,Forest Hill South,1800000.0,3+1,2,1600-1799,6
+1126,ON,Toronto,1008-2212 Lakeshore Boulevard W,Mimico,799999.0,2+1,2,700-799,5
+1127,ON,Toronto,18-284 Brock Avenue,Dufferin Grove,1100000.0,2+1,2,1200-1399,5
+1128,ON,Toronto,1612-18 Parkview Avenue,Willowdale East,699000.0,2,2,800-899,4
+1129,ON,Toronto,205-452 Scarborough Golf Clu Road,Woburn,424900.0,1+1,1,700-799,3
+1130,ON,Toronto,908-133 Torresdale Avenue,Westminster-Branson,699900.0,2+1,1,1000-1199,4
+1131,ON,Toronto,1611-352 Front Street W,Waterfront Communities C1,675000.0,1,1,600-699,2
+1132,ON,Toronto,3406-5180 Yonge Street,Willowdale West,1399000.0,2+1,3,1200-1399,6
+1133,ON,Toronto,511-80 Mill Street,Waterfront Communities C8,699999.0,1+1,1,600-699,3
+1134,ON,Toronto,1211-225 Sumach Street,Regent Park,880000.0,2,2,700-799,4
+1135,ON,Toronto,421-38 The Esplanade Street,Waterfront Communities C8,1149900.0,1+1,2,1000-1199,4
+1136,ON,Toronto,2002-131 Torresdale Avenue,Westminster-Branson,699000.0,2+1,2,1400-1599,5
+1137,ON,Toronto,503-3621 Lakeshore Boulevard W,Long Branch,379000.0,2,1,800-899,3
+1138,ON,Toronto,827-15 James Finlay Way,Downsview-Roding-CFB,729900.0,2,2,800-899,4
+1139,ON,Toronto,1804-50 Town Centre Court,Bendale,599000.0,1+1,1,600-699,3
+1140,ON,Toronto,407-840 St. Clair Avenue W,Oakwood-Vaughan,999900.0,2+1,2,800-899,5
+1141,ON,Toronto,PH06-1926 Lake Shore Boulevard W,South Parkdale,2500000.0,2+1,3,1400-1599,6
+1142,ON,Toronto,1107-28 Wellesley Street E,Church-Yonge Corridor,799000.0,2,2,700-799,4
+1143,ON,Toronto,1807-60 Colborne Street,Church-Yonge Corridor,809950.0,1,1,600-699,2
+1144,ON,Toronto,209-280 Howland Avenue,Annex,1765000.0,2+1,3,1200-1399,6
+1145,ON,Toronto,703-501 Adelaide Street,Waterfront Communities C1,658000.0,1,1,500-599,2
+1146,ON,Toronto,2505-2181 Yonge Street,Mount Pleasant West,1088000.0,2,2,1200-1399,4
+1147,ON,Toronto,1908-181 Bedford Road,Annex,1180000.0,2,2,700-799,4
+1148,ON,Toronto,619-15 Merchants Wharf,Waterfront Communities C8,695000.0,1,1,500-599,2
+1149,ON,Toronto,302-12 York Street,Waterfront Communities C1,829000.0,2,2,700-799,4
+1150,ON,Toronto,523-2799 Kingston Road,Cliffcrest,588000.0,1+1,1,600-699,3
+1151,ON,Toronto,2613-55 Harbour Square,Waterfront Communities C1,1700000.0,2+1,2,1600-1799,5
+1152,ON,Toronto,720-80 Vanauley Street,Kensington-Chinatown,798800.0,1+1,2,700-799,4
+1153,ON,Toronto,30-39 Drewry Avenue,Newtonbrook West,788000.0,1+1,2,800-899,4
+1154,ON,Toronto,404-1 St Johns Road,Junction Area,699000.0,1+1,1,800-899,3
+1155,ON,Toronto,TH 107-70 Annie Craig Drive,Mimico,1480000.0,2+1,3,1400-1599,6
+1156,ON,Toronto,609-1331 Queen Street E,Greenwood-Coxwell,999000.0,2,2,900-999,4
+1157,ON,Toronto,1604-35 Hayden Street,Church-Yonge Corridor,1199998.0,2,2,900-999,4
+1158,ON,Toronto,2612-386 Yonge Street,Bay Street Corridor,699000.0,1+1,1,600-699,3
+1159,ON,Toronto,2304-2010 Islington Avenue,Kingsview Village-The Westway,789900.0,2+1,1,1500-2000,4
+1160,ON,Toronto,1704-3 Marine Parade Drive,Mimico,597500.0,2+1,2,900-999,5
+1161,ON,Toronto,413-430 Mclevin Avenue,Malvern,499888.0,2,1,800-899,3
+1162,ON,Toronto,210-1005 King Street W,Niagara,669900.0,1+1,1,600-699,3
+1163,ON,Toronto,3103-14 York Street,Waterfront Communities C1,1149000.0,3,2,900-999,5
+1164,ON,Toronto,20-1500 Sandhurst Circle,Agincourt North,899000.0,3+1,3,1400-1599,7
+1165,ON,Toronto,20-1500 Sandhurst Circle,Agincourt North,899000.0,3+1,3,1400-1599,7
+1166,ON,Toronto,5508-2221 Yonge Street,Mount Pleasant West,749900.0,1,1,500-599,2
+1167,ON,Toronto,1504-15 Baseball Place,South Riverdale,1099900.0,2+1,2,800-899,5
+1168,ON,Toronto,1102-435 Richmond Street,Waterfront Communities C1,699000.0,1,1,500-599,2
+1169,ON,Toronto,1701-1 Yorkville Avenue,Annex,2275000.0,2,2,1200-1399,4
+1170,ON,Toronto,501-50 George Butchart Drive,Downsview-Roding-CFB,529000.0,1,1,500-599,2
+1171,ON,Toronto,LPH3-298 Jarvis Street,Church-Yonge Corridor,995000.0,2,2,1000-1199,4
+1172,ON,Toronto,1450 SW-121 Lower Sherbourne Street,Waterfront Communities C8,629000.0,1,1,500-599,2
+1173,ON,Toronto,2017-45 Carlton Street,Church-Yonge Corridor,928800.0,2,2,1200-1399,4
+1174,ON,Toronto,160-28 Stadium Road,Niagara,649000.0,1,1,0-499,2
+1175,ON,Toronto,301-400 The East Mall,Islington-City Centre West,799900.0,3,3,1200-1399,6
+1176,ON,Toronto,4303-36 Parklawn Road,Mimico,1175000.0,2,2,1000-1199,4
+1177,ON,Toronto,1001-801 Bay Street,Bay Street Corridor,859000.0,2,2,900-999,4
+1178,ON,Toronto,2301-228 Bonis Avenue,Tam O'Shanter-Sullivan,950000.0,2,2,1400-1599,4
+1179,ON,Toronto,1508-100 Harbour Street,Waterfront Communities C1,499900.0,–,1,0-499,1
+1180,ON,Toronto,318-1028 Mcnicoll Avenue,Steeles,529000.0,1+1,2,700-799,4
+1181,ON,Toronto,308-158 Crescent Road,Rosedale-Moore Park,575000.0,1,1,600-699,2
+1182,ON,Toronto,2803-8 Mercer Street,Waterfront Communities C1,618000.0,–,1,0-499,1
+1183,ON,Toronto,404-1750 Bayview Avenue,Mount Pleasant East,1999000.0,3,3,2250-2499,6
+1184,ON,Toronto,537-4645 Jane Street W,Black Creek,265000.0,2,1,900-999,3
+1185,ON,Toronto,305-133 Hazelton Avenue,Annex,4695000.0,2,3,2000-2249,5
+1186,ON,Toronto,1203-710 Humberwood Boulevard,West Humber-Clairville,549000.0,1+1,1,700-799,3
+1187,ON,Toronto,1309-181 Bedford Road,Annex,1299000.0,2+1,2,800-899,5
+1188,ON,Toronto,1605-70 Town Centre Court,Bendale,599000.0,1,1,500-599,2
+1189,ON,Toronto,1210-105 The Queensway Avenue,High Park-Swansea,875000.0,2,2,800-899,4
+1190,ON,Toronto,307-492 Eglinton Avenue E,Mount Pleasant East,718888.0,1+1,2,600-699,4
+1191,ON,Toronto,2615-275 Village Green Square,Agincourt South-Malvern West,599000.0,1+1,2,600-699,4
+1192,ON,Toronto,4209-1 Bloor Street E,Church-Yonge Corridor,1649000.0,2+1,2,1000-1199,5
+1193,ON,Toronto,9B-256 Jarvis Street,Church-Yonge Corridor,869900.0,2+1,2,1600-1799,5
+1194,ON,Toronto,106-118 Merchants' Wharf,Waterfront Communities C8,2950000.0,2,3,2000-2249,5
+1195,ON,Toronto,604-20 Edward Street,Bay Street Corridor,899888.0,2,2,800-899,4
+1196,ON,Toronto,1115-60 Shuter Street,Church-Yonge Corridor,928000.0,1+1,1,600-699,3
+1197,ON,Toronto,1637-250 Wellington Street W,Waterfront Communities C1,1149900.0,2,3,1200-1399,5
+1198,ON,Toronto,1202-4645 Jane Street,Black Creek,265000.0,3,1,900-999,4
+1199,ON,Toronto,1703-4 Spadina Avenue,Waterfront Communities C1,729900.0,1,1,600-699,2
+1200,ON,Toronto,102-38 Niagara Street,Niagara,1098000.0,1+1,2,1200-1399,4
+1201,ON,Toronto,409-33 Shore Breeze Drive,Mimico,899000.0,2,2,800-899,4
+1202,ON,Toronto,2002-5162 Yonge Street,Willowdale West,949000.0,1+1,1,700-799,3
+1203,ON,Toronto,3809-825 Church Street,Rosedale-Moore Park,1749000.0,2+1,2,1200-1399,5
+1204,ON,Toronto,610-38 Forest Manor Road,Henry Farm,868888.0,2,2,700-799,4
+1205,ON,Toronto,413-783 Bathurst Street,University,707900.0,1,1,600-699,2
+1206,ON,Toronto,3406-5 Soudan Avenue,Mount Pleasant West,1348000.0,2,2,900-999,4
+1207,ON,Toronto,406-5800 Sheppard Avenue E,Malvern,629900.0,1+1,1,700-799,3
+1208,ON,Toronto,610-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,649880.0,1+1,2,600-699,4
+1209,ON,Toronto,418-1177 Yonge Street,Rosedale-Moore Park,1249900.0,2,2,1400-1599,4
+1210,ON,Toronto,2438-33 Harbour Square,Waterfront Communities C1,1475000.0,2+1,2,1400-1599,5
+1211,ON,Toronto,212-385 Osler Street,Weston-Pellam Park,599000.0,1,1,500-599,2
+1212,ON,Toronto,615-10 Old York Mills Road,Bridle Path-Sunnybrook-York Mills,2499000.0,3,3,1500-2000,6
+1213,ON,Toronto,704-80 Cumberland Street,Annex,1599000.0,2,3,1200-1399,5
+1214,ON,Toronto,1911-115 Mcmahon Drive,Bayview Village,1199000.0,3,2,1000-1199,5
+1215,ON,Toronto,LPH2701-33 University Avenue,Bay Street Corridor,2999900.0,2+1,3,3000-3249,6
+1216,ON,Toronto,LPH04-36 Blue Jays Way,Waterfront Communities C1,959900.0,2,2,1000-1199,4
+1217,ON,Toronto,2109-1328 Birchmount Road,Wexford-Maryvale,759000.0,3,2,1000-1199,5
+1218,ON,Toronto,409-1461 Lawrence Avenue W,Brookhaven-Amesbury,719900.0,2,2,700-799,4
+1219,ON,Toronto,1407-110 Bloor Street W,Annex,3200000.0,2+3,3,2500-2749,8
+1220,ON,Toronto,2508-32 Davenport Road,Annex,1219800.0,2,2,800-899,4
+1221,ON,Toronto,703-80 Charles Street E,Church-Yonge Corridor,499800.0,1,1,500-599,2
+1222,ON,Toronto,504-2200 Lake Shore Boulevard W,Mimico,699000.0,2,2,700-799,4
+1223,ON,Toronto,420-120 Parliament Street,Moss Park,738000.0,1+1,2,600-699,4
+1224,ON,Toronto,1109-102 Bloor Street W,Annex,1420000.0,2+1,2,1200-1399,5
+1225,ON,Toronto,911-25 Baseball Place,South Riverdale,599000.0,1+1,1,500-599,3
+1226,ON,Toronto,708-7 Smith Crescent,Stonegate-Queensway,1120000.0,2+1,2,1000-1199,5
+1227,ON,Toronto,1008-5765 Yonge Street,Newtonbrook East,888000.0,2+1,2,1200-1399,5
+1228,ON,Toronto,1703-25 Adra Grado Way,Bayview Village,799000.0,1+1,2,600-699,4
+1229,ON,Toronto,PH 12-761 Bay Street,Bay Street Corridor,1490000.0,2,3,1400-1599,5
+1230,ON,Toronto,4103-386 Yonge Street,Bay Street Corridor,1065000.0,1+1,2,700-799,4
+1231,ON,Toronto,202-185 Roehampton Avenue,Mount Pleasant West,509000.0,–,1,0-499,1
+1232,ON,Toronto,2406-65 Skymark Drive,Hillcrest Village,1199900.0,2,3,1500-2000,5
+1233,ON,Toronto,TH19-113 Mcmahon Drive,Bayview Village,1090000.0,3+1,4,1400-1599,8
+1234,ON,Toronto,227-8855 Sheppard Avenue E,Rouge E11,779900.0,2+1,2,900-999,5
+1235,ON,Toronto,1619-1001 Bay Street,Bay Street Corridor,729800.0,1+1,1,600-699,3
+1236,ON,Toronto,413-185 Roehampton Avenue,Mount Pleasant West,829900.0,2,1,800-899,3
+1237,ON,Toronto,716-4673 Jane Street,Black Creek,286000.0,2,1,800-899,3
+1238,ON,Toronto,1012-215 Fort York Boulevard,Niagara,649999.0,1+1,1,600-699,3
+1239,ON,Toronto,2503-38 Iannuzzi Street,Niagara,559800.0,–,1,0-499,1
+1240,ON,Toronto,310-38 Forest Manor Road,Henry Farm,589888.0,1,1,500-599,2
+1241,ON,Toronto,1707-155 Yorkville Avenue,Annex,798000.0,1+1,1,600-699,3
+1242,ON,Toronto,8C-66 Collier Street,Rosedale-Moore Park,2600000.0,2,2,1500-2000,4
+1243,ON,Toronto,603-275 Yorkland Road,Henry Farm,428000.0,–,1,0-499,1
+1244,ON,Toronto,2910-161 Roehampton Avenue,Mount Pleasant West,1050000.0,2,2,700-799,4
+1245,ON,Toronto,305-2100 Bridletowne Circle,L'Amoreaux,688000.0,2,2,800-899,4
+1246,ON,Toronto,3209-1926 Lake Shore Boulevard W,South Parkdale,1485000.0,2,3,900-999,5
+1247,ON,Toronto,704-135 Maitland Street,Church-Yonge Corridor,675000.0,1,1,600-699,2
+1248,ON,Toronto,3008-89 Skymark Drive,Hillcrest Village,1580000.0,3+1,3,2000-2249,7
+1249,ON,Toronto,612-82 Lombard Street,Church-Yonge Corridor,998000.0,2,2,1400-1599,4
+1250,ON,Toronto,223-95 Prince Arthur Avenue,Annex,859900.0,1,1,800-899,2
+1251,ON,Toronto,414-5 St Joseph Street,Bay Street Corridor,749500.0,1+1,1,600-699,3
+1252,ON,Toronto,112-60 George Butchart Drive,Downsview-Roding-CFB,545000.0,1,1,500-599,2
+1253,ON,Toronto,204-68 Merton Street,Mount Pleasant West,659000.0,1,1,500-599,2
+1254,ON,Toronto,3311-117 Dundas Street E,Church-Yonge Corridor,919000.0,2,2,700-799,4
+1255,ON,Toronto,4311-125 Blue Jays Way,Waterfront Communities C1,1189933.0,3,2,800-899,5
+1256,ON,Toronto,603-80 Front Street E,Church-Yonge Corridor,1250000.0,1+1,2,1200-1399,4
+1257,ON,Toronto,1004-70 Annie Craig Drive,Mimico,899900.0,2+1,2,800-899,5
+1258,ON,Toronto,3511-117 Dundas Street E,Church-Yonge Corridor,999000.0,2,2,700-799,4
+1259,ON,Toronto,TH103-2799 Kingston Road,Cliffcrest,1225000.0,3+1,3,1600-1799,7
+1260,ON,Toronto,202-609 Avenue Road,Yonge-St. Clair,1299900.0,2+1,2,900-999,5
+1261,ON,Toronto,521-36 Blue Jays Way,Waterfront Communities C1,599000.0,1,1,500-599,2
+1262,ON,Toronto,2110-2220 Lakeshore Boulevard W,Mimico,599000.0,1,1,500-599,2
+1263,ON,Toronto,4311-14 York Street,Waterfront Communities C1,669000.0,1+1,1,500-599,3
+1264,ON,Toronto,3610-5 St Joseph Street,Bay Street Corridor,1200000.0,2+1,2,800-899,5
+1265,ON,Toronto,503-18 Kenaston Gardens,Bayview Village,779000.0,2+1,2,1000-1199,5
+1266,ON,Toronto,104-70 Annie Craig Drive,Mimico,1325000.0,2,3,1400-1599,5
+1267,ON,Toronto,2410-1 Palace Pier Court,Mimico,1174900.0,2,2,1200-1399,4
+1268,ON,Toronto,706-1603 Eglinton Avenue W,Oakwood-Vaughan,649000.0,1,1,600-699,2
+1269,ON,Toronto,2612-15 Holmes Avenue,Willowdale East,850000.0,1,2,700-799,3
+1270,ON,Toronto,704-23 Rean Drive,Bayview Village,1388000.0,2+1,3,1200-1399,6
+1271,ON,Toronto,1505-350 Alton Towers Circle,Milliken,888000.0,2+1,2,1200-1399,5
+1272,ON,Toronto,6009-1 Bloor Street E,Church-Yonge Corridor,1799000.0,2,2,1000-1199,4
+1273,ON,Toronto,907-519 Dundas Street W,Kensington-Chinatown,838000.0,2+2,2,1200-1399,6
+1274,ON,Toronto,2204-88 Scott Street,Church-Yonge Corridor,1498800.0,2+1,2,1000-1199,5
+1275,ON,Toronto,213-75 Portland Street,Waterfront Communities C1,939000.0,2,2,1000-1199,4
+1276,ON,Toronto,003-245 Carlaw Avenue,South Riverdale,619000.0,Office960 sqft,Nan,0-0,0
+1277,ON,Toronto,403-349 St Clair Avenue W,Casa Loma,1569000.0,2+1,3,2000-2249,6
+1278,ON,Toronto,4102-183 Wellington Street W,Waterfront Communities C1,2750000.0,2,2,1400-1599,4
+1279,ON,Toronto,431-38 The Esplanade,Waterfront Communities C8,595000.0,–,1,0-499,1
+1280,ON,Toronto,309-181 Bedford Road,Annex,2248000.0,2+1,3,2000-2249,6
+1281,ON,Toronto,508-65 Annie Craig Drive,Mimico,3488000.0,3+1,4,2000-2249,8
+1282,ON,Toronto,413-32 Davenport Road,Annex,998000.0,2+1,2,800-899,5
+1283,ON,Toronto,PH3507-75 St Nicholas Street,Bay Street Corridor,898000.0,1,1,500-599,2
+1284,ON,Toronto,836-830 Lawrence Avenue W,Yorkdale-Glen Park,738000.0,1,1,500-599,2
+1285,ON,Toronto,416-36 Forest Manor Road,Henry Farm,659900.0,1+1,1,600-699,3
+1286,ON,Toronto,1110-381 Front Street,Waterfront Communities C1,1299000.0,2+1,2,1000-1199,5
+1287,ON,Toronto,510-159 Dundas Street E,Church-Yonge Corridor,749000.0,2,1,600-699,3
+1288,ON,Toronto,336-461 Adelaide Street W,Waterfront Communities C1,699990.0,1,1,600-699,2
+1289,ON,Toronto,TH04-15 Beverley Street,Kensington-Chinatown,1349995.0,2+1,3,1200-1399,6
+1290,ON,Toronto,2305-60 Colborne Street,Church-Yonge Corridor,1299000.0,2,2,1000-1199,4
+1291,ON,Toronto,619-38 Iannuzzi Street,Niagara,714900.0,1+1,1,500-599,3
+1292,ON,Toronto,203-1001 Queen Street E,South Riverdale,1056800.0,2,2,800-899,4
+1293,ON,Toronto,20 Cole Street,Regent Park,1465000.0,3,3,1200-1399,6
+1294,ON,Toronto,5204-180 University Avenue,Bay Street Corridor,3068888.0,2+1,3,1500-2000,6
+1295,ON,Toronto,410-437 Roncesvalles Avenue,Roncesvalles,685000.0,1,1,700-799,2
+1296,ON,Toronto,TH106-825 Church Street,Rosedale-Moore Park,1639900.0,2+1,3,1400-1599,6
+1297,ON,Toronto,1903-16 Bonnycastle Street,Waterfront Communities C8,779999.0,1,1,500-599,2
+1298,ON,Toronto,2005-295 Adelaide Street W,Waterfront Communities C1,966000.0,1+1,1,600-699,3
+1299,ON,Toronto,TPH19-80 Harrison Garden Boulevard,Willowdale East,1399000.0,2,2,1400-1599,4
+1300,ON,Toronto,1003-50 Power Street,Moss Park,1267900.0,3,3,1200-1399,6
+1301,ON,Toronto,1016-50 Power Street,Moss Park,982900.0,2,2,700-799,4
+1302,ON,Toronto,2606-183 Wellington Street W,Waterfront Communities C1,3400000.0,2,3,1500-2000,5
+1303,ON,Toronto,1907-50 Power Street,Moss Park,1220900.0,3,2,900-999,5
+1304,ON,Toronto,401-55 Scollard Street,Annex,1780000.0,1,2,1000-1199,3
+1305,ON,Toronto,1907-10 Torresdale Avenue,Westminster-Branson,1488800.0,3,3,2250-2499,6
+1306,ON,Toronto,LPH 06-75 St Nicholas Street,Bay Street Corridor,600000.0,–,1,0-499,1
+1307,ON,Toronto,1107-500 Avenue Road,Yonge-St. Clair,3650000.0,3,4,2750-2999,7
+1308,ON,Toronto,PH5-32 Trolley Crescent,Moss Park,1498000.0,2+1,2,1000-1199,5
+1309,ON,Toronto,PH2701-8 Colborne Street,Waterfront Communities C8,3500000.0,4+2,4,2750-2999,10
+1310,ON,Toronto,1011-120 Varna Drive,Yorkdale-Glen Park,534900.0,1,1,0-499,2
+1311,ON,Toronto,TH04-32 Forest Manor Road,Henry Farm,1659000.0,3+1,3,1600-1799,7
+1312,ON,Toronto,104-1 Glen Park Avenue,Englemount-Lawrence,458000.0,–,1,0-499,1
+1313,ON,Toronto,505-88 Scott Street,Church-Yonge Corridor,1180000.0,1+1,2,1000-1199,4
+1314,ON,Toronto,5C-66 Collier Street,Rosedale-Moore Park,2499000.0,2+1,2,1500-2000,5
+1315,ON,Toronto,3407-390 Cherry Street,Waterfront Communities C8,1199000.0,2,2,900-999,4
+1316,ON,Toronto,405-70 Temperance Street,Bay Street Corridor,499999.0,–,1,0-499,1
+1317,ON,Toronto,307-88 Sheppard Avenue E,Newtonbrook East,728000.0,1+1,1,600-699,3
+1318,ON,Toronto,2008-38 Forest Manor Road,Henry Farm,938000.0,3+1,2,900-999,6
+1319,ON,Toronto,2712-1001 Bay Street,Bay Street Corridor,739900.0,1,1,600-699,2
+1320,ON,Toronto,103-5949 Yonge Street,Newtonbrook East,359900.0,1+1,1,600-699,3
+1321,ON,Toronto,#9-390 Wellesley Street E,Cabbagetown-South St. James Town,1999000.0,2+1,3,1500-2000,6
+1322,ON,Toronto,1125-9 Mabelle Avenue,Islington-City Centre West,599900.0,1+1,1,500-599,3
+1323,ON,Toronto,108-431 Roehampton Avenue,Mount Pleasant East,3199990.0,3,4,2250-2499,7
+1324,ON,Toronto,1509-900 Mount Pleasant Road,Mount Pleasant West,1175000.0,2,2,1000-1199,4
+1325,ON,Toronto,112-431 Roehampton Avenue,Mount Pleasant East,1449990.0,2,2,900-999,4
+1326,ON,Toronto,205-151 Avenue Road,Annex,848000.0,1+1,1,600-699,3
+1327,ON,Toronto,211-2855 Bloor Street W,Stonegate-Queensway,959000.0,1+1,2,900-999,4
+1328,ON,Toronto,TH 7-581 Scarlett Road,Humber Heights,1468000.0,3,4,2250-2499,7
+1329,ON,Toronto,TH106-492 Eglinton Avenue E,Mount Pleasant East,1789000.0,3+2,3,1400-1599,8
+1330,ON,Toronto,1003-1201 Steeles Avenue W,Westminster-Branson,699000.0,2+1,2,1200-1399,5
+1331,ON,Toronto,817-251 Manitoba Street,Mimico,680000.0,1+1,1,500-599,3
+1332,ON,Toronto,322-80 Front Street,Church-Yonge Corridor,1689000.0,2+1,2,1500-2000,5
+1333,ON,Toronto,409-707 Eglinton Avenue W,Forest Hill South,595000.0,1,1,800-899,2
+1334,ON,Toronto,207-35 Hayden Street,Church-Yonge Corridor,610000.0,1,1,0-499,2
+1335,ON,Toronto,PH1903-80 Cumberland Street,Annex,2198000.0,2,3,1400-1599,5
+1336,ON,Toronto,109-95 Bathurst Street,Waterfront Communities C1,1048800.0,2,2,1000-1199,4
+1337,ON,Toronto,902-159 Frederick Street,Moss Park,2238800.0,2+1,3,2500-2749,6
+1338,ON,Toronto,4505-20 Lombard Street,Church-Yonge Corridor,1999999.0,2+1,2,1200-1399,5
+1339,ON,Toronto,7101-1 Bloor Street E,Church-Yonge Corridor,2795000.0,2+1,3,1400-1599,6
+1340,ON,Toronto,235-600 Fleet Street,Niagara,779900.0,2,2,600-699,4
+1341,ON,Toronto,306-633 Bay Street,Bay Street Corridor,650000.0,1,1,600-699,2
+1342,ON,Toronto,610-3800 Yonge Street,Bedford Park-Nortown,1398000.0,2,2,1400-1599,4
+1343,ON,Toronto,203-2 Lynwood Avenue,Casa Loma,2195000.0,2,4,2500-2749,6
+1344,ON,Toronto,909-102 Bloor Street W,Annex,968000.0,1,1,800-899,2
+1345,ON,Toronto,801-30 Hayden Street,Church-Yonge Corridor,669900.0,1,1,600-699,2
+1346,ON,Toronto,206-160 Frederick Street,Moss Park,1629000.0,2+1,2,2000-2249,5
+1347,ON,Toronto,910-3220 Sheppard Avenue W,Tam O'Shanter-Sullivan,769000.0,2,2,800-899,4
+1348,ON,Toronto,904-336 Spadina Road,Casa Loma,1498000.0,2,2,1200-1399,4
+1349,ON,Toronto,# 619-20 Richardson Street Street,Waterfront Communities C8,899990.0,2,2,900-999,4
+1350,ON,Toronto,212-430 Roncesvalles Avenue,Roncesvalles,1499900.0,2+1,2,1000-1199,5
+1351,ON,Toronto,105-430 Roncesvalles Avenue,Roncesvalles,1399900.0,2+1,2,1000-1199,5
+1352,ON,Toronto,PH06-1926 Lake Shore Boulevard W,South Parkdale,2500000.0,2+1,3,1400-1599,6
+1353,ON,Toronto,1002-151 Avenue Road,Annex,2550000.0,2+1,3,1400-1599,6
+1354,ON,Toronto,UPH05-70 Annie Craig Drive,Mimico,959000.0,2,2,700-799,4
+1355,ON,Toronto,500-468 Wellington Street W,Waterfront Communities C1,7800000.0,3,3,5000+,6
+1356,ON,Toronto,3201-2045 Lake Shore Boulevard,Mimico,1900000.0,3+1,3,3250-3499,7
+1357,ON,Toronto,7001-1 Bloor Street E,Church-Yonge Corridor,2998000.0,3,3,1400-1599,6
+1358,ON,Toronto,TH105-2799 Kingston Road,Cliffcrest,1225000.0,2+1,2,1200-1399,5
+1359,ON,Toronto,517-115 Blue Jays Way,Waterfront Communities C1,738000.0,1+1,1,600-699,3
+1360,ON,Toronto,514-20 Shore Breeze Drive,Mimico,989000.0,2,2,700-799,4
+1361,ON,Toronto,441-43 Hanna Avenue,Niagara,2949990.0,3+1,4,2750-2999,8
+1362,ON,Toronto,PH 2906-12 Yonge Street,Waterfront Communities C1,2198000.0,3+1,3,1600-1799,7
+1363,ON,Toronto,518-255 The Donway W,Banbury-Don Mills,889000.0,2+1,2,1400-1599,5
+1364,ON,Toronto,1604-234 Albion Road,Elms-Old Rexdale,555000.0,3,2,1200-1399,5
+1365,ON,Toronto,301-2285 Lake Shore Boulevard W,Mimico,1198000.0,2+1,2,1400-1599,5
+1366,ON,Toronto,502-128 Hazelton Avenue,Annex,6495000.0,3+1,4,3250-3499,8
+1367,ON,Toronto,705-4200 Bathurst Street,Clanton Park,979000.0,2+1,3,1600-1799,6
+1368,ON,Toronto,TH2-127 Queen Street E,Church-Yonge Corridor,1249500.0,2+1,3,1400-1599,6
+1369,ON,Toronto,1702-38 Iannuzzi Street,Niagara,549800.0,–,1,0-499,1
+1370,ON,Toronto,101-120 Donlands Avenue,East York,1089900.0,3,2,1200-1399,5
+1371,ON,Toronto,2506-228 Queens Quay W,Waterfront Communities C1,728000.0,1,1,600-699,2
+1372,ON,Toronto,PH09-1926 Lake Shore Boulevard W,South Parkdale,1800000.0,2+1,3,1400-1599,6
+1373,ON,Toronto,3204-10 Inn On The Park Drive,Banbury-Don Mills,1810000.0,2,3,1400-1599,5
+1374,ON,Toronto,1303-30 Inn On The Park Drive,Banbury-Don Mills,1775000.0,3,3,1600-1799,6
+1375,ON,Toronto,1107-80 John Street,Waterfront Communities C1,975000.0,2,1,900-999,3
+1376,ON,Toronto,529-251 Jarvis Street E,Church-Yonge Corridor,574999.0,1,1,0-499,2
+1377,ON,Toronto,6108-100 Harbour Street,Waterfront Communities C1,629000.0,–,1,0-499,1
+1378,ON,Toronto,2603-2045 Lake Shore Boulevard W,Mimico,1998000.0,3+1,3,3250-3499,7
+1379,ON,Toronto,417-117 Dundas Street E,Church-Yonge Corridor,869000.0,2,2,700-799,4
+1380,ON,Toronto,314-117 Dundas Street E,Church-Yonge Corridor,599000.0,–,1,0-499,1
+1381,ON,Toronto,2206-228 Queens Quay W,Waterfront Communities C1,780000.0,1,1,600-699,2
+1382,ON,Toronto,606-53 York Mills Road,St. Andrew-Windfields,1725000.0,2+1,3,1400-1599,6
+1383,ON,Toronto,413-1638 Bloor Street W,High Park North,988000.0,2+1,2,1000-1199,5
+1384,ON,Toronto,616-36 Forest Manor Road,Henry Farm,678000.0,1+1,1,600-699,3
+1385,ON,Toronto,202-40 Glen Road,Rosedale-Moore Park,649000.0,1,1,700-799,2
+1386,ON,Toronto,#1909-58 Orchard View Boulevard,Yonge-Eglinton,649000.0,1,1,0-499,2
+1387,ON,Toronto,206-15 Stafford Street,Niagara,18025.0,1,1,600-699,2
+1388,ON,Toronto,3607-70 Annie Craig Drive,Mimico,709900.0,1+1,2,600-699,4
+1389,ON,Toronto,30-120 Long Branch Avenue,Long Branch,1179000.0,2,3,1200-1399,5
+1390,ON,Toronto,201-117 Dundas Street E,Church-Yonge Corridor,1049000.0,2,2,900-999,4
+1391,ON,Toronto,205-20 Gladstone Avenue,Little Portugal,699000.0,2,1,700-799,3
+1392,ON,Toronto,18-260 Finch Avenue E,Newtonbrook East,999000.0,2,2,800-899,4
+1393,ON,Toronto,1506-65 Annie Craig Drive,Mimico,799900.0,2,2,700-799,4
+1394,ON,Toronto,805-60 Tannery Road,Waterfront Communities C8,899000.0,2+1,2,700-799,5
+1395,ON,Toronto,913-352 Front Street,Waterfront Communities C1,658000.0,1,1,600-699,2
+1396,ON,Toronto,PH01-1926 Lake Shore Boulevard W,South Parkdale,1900000.0,2+1,3,1400-1599,6
+1397,ON,Toronto,309-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,599999.0,1+1,2,600-699,4
+1398,ON,Toronto,218-80 St Patrick Street,Kensington-Chinatown,799800.0,2,2,1000-1199,4
+1399,ON,Toronto,3702-200 Cumberland Street,Annex,11995000.0,3,4,4250-4499,7
+1400,ON,Toronto,205-36 Forest Manor Road,Henry Farm,837777.0,2,2,700-799,4
+1401,ON,Toronto,119-50 George Butchart Drive,Downsview-Roding-CFB,730000.0,2,2,700-799,4
+1402,ON,Toronto,401-50 George Butchart Drive,Downsview-Roding-CFB,549900.0,1,1,500-599,2
+1403,ON,Toronto,812-50 George Buchart Drive,Downsview-Roding-CFB,720000.0,2,2,600-699,4
+1404,ON,Toronto,1802-2191 Yonge Street,Mount Pleasant West,1124900.0,2+1,2,1000-1199,5
+1405,ON,Toronto,2704-155 Legion Road N,Mimico,1065000.0,2+1,2,1200-1399,5
+1406,ON,Toronto,PH 12-2727 Yonge Street,Lawrence Park South,2895000.0,3,2,2000-2249,5
+1407,ON,Toronto,4303-16 Harbour Street,Waterfront Communities C1,1450000.0,3,2,1200-1399,5
+1408,ON,Toronto,819-50 George Butchart Drive,Downsview-Roding-CFB,768000.0,2,2,700-799,4
+1409,ON,Toronto,205-68 Abell Street,Little Portugal,13825.0,1+1,1,500-599,3
+1410,ON,Toronto,918-60 Tannery Road,Waterfront Communities C8,929000.0,2,2,600-699,4
+1411,ON,Toronto,763 W-135 Lower Sherbourne Street,Waterfront Communities C8,599000.0,1+1,1,500-599,3
+1412,ON,Toronto,703-36 Blue Jays Way,Waterfront Communities C1,999000.0,2,2,1000-1199,4
+1413,ON,Toronto,837-8 Telegram Mews,Waterfront Communities C1,2500000.0,3,3,1600-1799,6
+1414,ON,Toronto,316-60 Shuter Street,Church-Yonge Corridor,1038000.0,1+2,3,900-999,6
+1415,ON,Toronto,4117-70 Temperance Street,Bay Street Corridor,1118000.0,2+1,2,700-799,5
+1416,ON,Toronto,709-21 Carlton Street,Church-Yonge Corridor,799000.0,1+1,1,600-699,3
+1417,ON,Toronto,1510-3220 Sheppard Avenue,Tam O'Shanter-Sullivan,759999.0,2,2,800-899,4
+1418,ON,Toronto,1111-85 Bloor Street E,Church-Yonge Corridor,1099000.0,2,2,1000-1199,4
+1419,ON,Toronto,405-170 Chiltern Hill Road,Humewood-Cedarvale,958000.0,2,2,800-899,4
+1420,ON,Toronto,301-492 Eglinton Avenue E,Mount Pleasant East,925000.0,2+1,2,800-899,5
+1421,ON,Toronto,100A-78 St. Patrick Street,Kensington-Chinatown,929000.0,2,2,1000-1199,4
+1422,ON,Toronto,913-95 Bathurst Street,Waterfront Communities C1,599900.0,1,1,0-499,2
+1423,ON,Toronto,203-458 Richmond Street W,Waterfront Communities C1,599900.0,1,1,500-599,2
+1424,ON,Toronto,705-128 Pears Avenue,Annex,1695000.0,2,2,1200-1399,4
+1425,ON,Toronto,302-128 Pears Avenue,Annex,849000.0,1+1,1,700-799,3
+1426,ON,Toronto,TH1-128 Pears Avenue,Annex,3995000.0,3,3,2750-2999,6
+1427,ON,Toronto,720-68 Abell Street,Little Portugal,13225.0,1,1,500-599,2
+1428,ON,Toronto,902-816 Lansdowne Avenue,Dovercourt-Wallace Emerson-Junction,899000.0,2+1,2,900-999,5
+1429,ON,Toronto,405-18 Harbour Street,Waterfront Communities C1,949000.0,2,2,800-899,4
+1430,ON,Toronto,4-65 Annie Craig Drive,Mimico,735000.0,1+1,2,600-699,4
+1431,ON,Toronto,8-52 Holmes Avenue,Willowdale East,1248800.0,2,2,1200-1399,4
+1432,ON,Toronto,516-1 King Street W,Bay Street Corridor,453000.0,1,1,0-499,2
+1433,ON,Toronto,1602-386 Yonge Street,Bay Street Corridor,1289000.0,2+1,2,1000-1199,5
+1434,ON,Toronto,101 Weston Road,Junction Area,849900.0,3,3,1200-1399,6
+1435,ON,Toronto,15-39 John Perkins Bull Drive,Downsview-Roding-CFB,1049000.0,3,3,1400-1599,6
+1436,ON,Toronto,503-1210 Don Mills Road,Banbury-Don Mills,839900.0,2,2,1000-1199,4
+1437,ON,Toronto,251-53 Mccaul Street,Kensington-Chinatown,1099999.0,3+1,3,1200-1399,7
+1438,ON,Toronto,101-251 Manitoba Street,Mimico,1149000.0,2+1,3,1200-1399,6
+1439,ON,Toronto,608-2995 Keele Street,Downsview-Roding-CFB,624900.0,2,2,700-799,4
+1440,ON,Toronto,1803-180 University Avenue,Bay Street Corridor,1998000.0,2,2,1400-1599,4
+1441,ON,Toronto,703-118 Yorkville Avenue,Annex,14950000.0,3+1,5,5000+,9
+1442,ON,Toronto,1105-30 Ordnance Street,Waterfront Communities C1,749900.0,1,1,500-599,2
+1443,ON,Toronto,PH5-887 Bay Street,Bay Street Corridor,1188800.0,2+1,2,1200-1399,5
+1444,ON,Toronto,2101-71 Simcoe Street,Bay Street Corridor,850000.0,1+1,2,1200-1399,4
+1445,ON,Toronto,9-760 Lawrence Avenue W,Yorkdale-Glen Park,649000.0,1+1,2,900-999,4
+1446,ON,Toronto,1021-155 Dalhousie Street,Church-Yonge Corridor,1499000.0,1+1,2,1600-1799,4
+1447,ON,Toronto,901-60 Tannery Road S,Waterfront Communities C8,929000.0,2,2,800-899,4
+1448,ON,Toronto,602-501 Adelaide Street W,Waterfront Communities C1,1199990.0,2,2,900-999,4
+1449,ON,Toronto,2106-51 East Liberty Street,Niagara,999900.0,2,2,700-799,4
+1450,ON,Toronto,1708-20 Brin Drive,Edenbridge-Humber Valley,869900.0,2,2,800-899,4
+1451,ON,Toronto,4310-21 Widmer Street,Waterfront Communities C1,1995000.0,3+1,2,1400-1599,6
+1452,ON,Toronto,TH102-2800 Keele Street,Downsview-Roding-CFB,950000.0,2+1,3,1200-1399,6
+1453,ON,Toronto,801-111 Elizabeth Street,Bay Street Corridor,759000.0,1+1,1,600-699,3
+1454,ON,Toronto,315-2799 Kingston Road,Scarborough Village,549000.0,2,1,600-699,3
+1455,ON,Toronto,E712-34 Tubman Avenue,Regent Park,690000.0,1+1,1,600-699,3
+1456,ON,Toronto,603-17 Ruddington Drive,Bayview Woods-Steeles,1188000.0,2+1,2,1000-1199,5
+1457,ON,Toronto,201-3 Mcalpine Street,Annex,925000.0,2,1,1000-1199,3
+1458,ON,Toronto,B4-75 Crescent Road,Rosedale-Moore Park,679000.0,2,1,900-999,3
+1459,ON,Toronto,404-32 Forest Manor Road,Henry Farm,629000.0,1,1,500-599,2
+1460,ON,Toronto,1806E-576 Front Street W,Waterfront Communities C1,1269000.0,3,2,900-999,5
+1461,ON,Toronto,802-1 Hickory Tree Road,Weston,599000.0,2,2,1000-1199,4
+1462,ON,Toronto,5801-88 Queen Street E,Church-Yonge Corridor,3370000.0,2+1,3,2000-2249,6
+1463,ON,Toronto,3509-77 Mutual Street,Church-Yonge Corridor,799999.0,2,1,600-699,3
+1464,ON,Toronto,4702-56 Annie Craig Drive,Mimico,1899000.0,2+1,3,1400-1599,6
+1465,ON,Toronto,624-1791 St Clair Avenue W,Weston-Pellam Park,1101000.0,2+1,2,1000-1199,5
+1466,ON,Toronto,1108-1791 St Clair Avenue W,Weston-Pellam Park,1029000.0,2+1,2,900-999,5
+1467,ON,Toronto,105W-500 Queens Quay W,Waterfront Communities C1,1199000.0,Store W/apt/office1400 sqft,Nan,0-0,0
+1468,ON,Toronto,1409-25 Broadway Avenue,Mount Pleasant West,1529000.0,2,3,1200-1399,5
+1469,ON,Toronto,404-1201 Steeles Avenue W,Westminster-Branson,719000.0,2+1,2,1200-1399,5
+1470,ON,Toronto,201-1486 Bathurst Street,Humewood-Cedarvale,748880.0,2,2,700-799,4
+1471,ON,Toronto,101 Walmer Road,Annex,1550000.0,2+1,3,1400-1599,6
+1472,ON,Toronto,510-23 Sheppard Avenue E,Willowdale East,968000.0,2+1,2,900-999,5
+1473,ON,Toronto,623-251 Manitoba Street,Mimico,675000.0,1+1,1,500-599,3
+1474,ON,Toronto,1701-70 Forest Manor Road,Henry Farm,599990.0,1+1,1,600-699,3
+1475,ON,Toronto,622-701 Sheppard Avenue W,Clanton Park,949000.0,2,2,1000-1199,4
+1476,ON,Toronto,1416-50 Power Street,Moss Park,899999.0,2,2,700-799,4
+1477,ON,Toronto,605-60 George Butchart Drive,Downsview-Roding-CFB,709000.0,2,2,700-799,4
+1478,ON,Toronto,1303-458 Richmond Street W,Waterfront Communities C1,899900.0,1+1,1,700-799,3
+1479,ON,Toronto,624-36 Forest Manor Road,Henry Farm,819000.0,2,2,700-799,4
+1480,ON,Toronto,203-70 Annie Craig Drive W,Mimico,799999.0,2,2,700-799,4
+1481,ON,Toronto,103-2 Forest Hill Road,Forest Hill South,3034900.0,2+1,3,1600-1799,6
+1482,ON,Toronto,TH 5-170 Avenue Road,Annex,3495000.0,3,4,2500-2749,7
+1483,ON,Toronto,2405-8 Widmer Street,Waterfront Communities C1,951000.0,2,2,600-699,4
+1484,ON,Toronto,403-128 Hazelton Avenue,Annex,3275000.0,1+1,3,1400-1599,5
+1485,ON,Toronto,415-2 Forest Hill Road,Forest Hill South,3634900.0,2+1,3,1500-2000,6
+1486,ON,Toronto,607-70 Annie Craig Drive,Mimico,899900.0,2+1,2,800-899,5
+1487,ON,Toronto,4-5937 Bathurst Street,Newtonbrook West,980000.0,3,4,1400-1599,7
+1488,ON,Toronto,210-32 Forest Manor Road,Henry Farm,720000.0,1+1,2,600-699,4
+1489,ON,Toronto,901-71 Simcoe Street,Bay Street Corridor,888000.0,1+1,2,1200-1399,4
+1490,ON,Toronto,207-88 Scott Street,Church-Yonge Corridor,1190000.0,1+1,2,1000-1199,4
+1491,ON,Toronto,102-251 Manitoba Street,Mimico,1025000.0,2+1,3,1000-1199,6
+1492,ON,Toronto,1601-117 Dundas Street,Church-Yonge Corridor,1389000.0,3,3,900-999,6
+1493,ON,Toronto,416-39 Annie Craig Drive,Mimico,1250000.0,2,2,800-899,4
+1494,ON,Toronto,414-318 King Street E,Moss Park,525000.0,1,1,0-499,2
+1495,ON,Toronto,818-1888 Bayview Avenue,Bridle Path-Sunnybrook-York Mills,3200000.0,2+1,3,2500-2749,6
+1496,ON,Toronto,922-2799 Kingston Road,Cliffcrest,1200000.0,3,3,1200-1399,6
+1497,ON,Toronto,5508-197 Yonge Street,Church-Yonge Corridor,758800.0,–,1,0-499,1
+1498,ON,Toronto,308-65 Annie Craig Drive,Mimico,849888.0,2,2,700-799,4
+1499,ON,Toronto,411-2 Forest Hill Road,Forest Hill South,1944900.0,1+1,2,900-999,4
+1500,ON,Toronto,411-2 Forest Hill Road,Forest Hill South,1944900.0,1+1,2,900-999,4
+1501,ON,Toronto,4606-70 Annie Craig Drive,Mimico,989000.0,2,2,1000-1199,4
+1502,ON,Toronto,905-38 Iannuzzi Street,Niagara,850000.0,2,1,600-699,3
+1503,ON,Toronto,505-68 Yorkville Avenue,Annex,2685000.0,2+1,3,1500-2000,6
+1504,ON,Toronto,608-60 Shuter Street,Church-Yonge Corridor,888000.0,1+1,2,600-699,4
+1505,ON,Toronto,3501-200 Cumberland Street,Annex,6600000.0,2+1,3,2250-2499,6
+1506,ON,Toronto,511-8 Eglinton Avenue E,Mount Pleasant East,1199000.0,2+1,2,700-799,5
+1507,ON,Toronto,501-20 Avoca Avenue,Rosedale-Moore Park,950000.0,2,2,1000-1199,4
+1508,ON,Toronto,TH22-1 Baxter Street,Rosedale-Moore Park,1498000.0,2+1,2,1400-1599,5
+1509,ON,Toronto,TH 16-1086 Bay Street,Bay Street Corridor,3850000.0,3+1,4,3000-3249,8
+1510,ON,Toronto,801-5 San Romano Way,Black Creek,549000.0,3,2,1000-1199,5
+1511,ON,Toronto,A-108-135 Village Green Square,Agincourt South-Malvern West,29990.0,–,–,0-499,0
+1512,ON,Toronto,4402-20 Lombard Street,Church-Yonge Corridor,2004990.0,2+1,3,1400-1599,6
+1513,ON,Toronto,2607-42 Charles Street,Church-Yonge Corridor,949999.0,2,1,600-699,3
+1514,ON,Toronto,210-1888 Queen Street E,The Beaches,1149990.0,2+1,2,1200-1399,5
+1515,ON,Toronto,421-130 Widdicombe Hill Boulevard,Willowridge-Martingrove-Richview,789000.0,2,2,900-999,4
+1516,ON,Toronto,701-117 Dundas Street E,Church-Yonge Corridor,1350000.0,3,3,900-999,6
+1517,ON,Toronto,401-2787 Eglinton Avenue E,Eglinton East,549000.0,1,1,500-599,2
+1518,ON,Toronto,901-151 Avenue Road,Annex,1528000.0,2,2,900-999,4
+1519,ON,Toronto,608-3621 Lake Shore Boulevard W,Long Branch,335000.0,1,1,500-599,2
+1520,ON,Toronto,PH34-3600 Yonge Street,Bedford Park-Nortown,7850000.0,3+1,4,5000+,8
+1521,ON,Toronto,711&712-36 Blue Jays Way,Waterfront Communities C1,1995000.0,2+1,4,2250-2499,7
+1522,ON,Toronto,212-25 Scrivener Square,Rosedale-Moore Park,1050000.0,2,2,800-899,4
+1523,ON,Toronto,515-1 Bloor Street E,Church-Yonge Corridor,1699000.0,2+1,3,1600-1799,6
+1524,ON,Toronto,409-10 Mendelssohn Street,Clairlea-Birchmount,849900.0,3,2,1000-1199,5
+1525,ON,Toronto,608-20 Shore Breeze Drive,Mimico,1099000.0,2,2,900-999,4
+1526,ON,Toronto,101-40 Panorama Court,Mount Olive-Silverstone-Jamestown,599797.0,3,2,1200-1399,5
+1527,ON,Toronto,4608-1 King Street W,Bay Street Corridor,569000.0,1,1,500-599,2
+1528,ON,Toronto,5111-8 Eglinton Avenue E,Mount Pleasant East,1190000.0,2+1,2,700-799,5
+1529,ON,Toronto,421-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,807880.0,2+1,2,900-999,5
+1530,ON,Toronto,709-55 Ontario Street,Moss Park,1099900.0,2,2,900-999,4
+1531,ON,Toronto,TH07-85 Queens Wharf Road,Waterfront Communities C1,1299000.0,2+1,3,1600-1799,6
+1532,ON,Toronto,321-400 The East Mall Road N,Islington-City Centre West,965000.0,2,2,1200-1399,4
+1533,ON,Toronto,403-97 Lawton Boulevard,Yonge-St. Clair,518000.0,1,1,500-599,2
+1534,ON,Toronto,1405-1461 Lawrence Avenue W,Maple Leaf,664900.0,2,2,700-799,4
+1535,ON,Toronto,111-1183 Dufferin Street,Dovercourt-Wallace Emerson-Junction,1050000.0,2+1,3,900-999,6
+1536,ON,Toronto,1312-77 Harbour Square,Waterfront Communities C1,1119000.0,2,2,1200-1399,4
+1537,ON,Toronto,110-1183 Dufferin Street,Dovercourt-Wallace Emerson-Junction,849990.0,1,1,800-899,2
+1538,ON,Toronto,4001-761 Bay Street,Bay Street Corridor,4280000.0,3+1,4,4250-4499,8
+1539,ON,Toronto,708-1205 Queen Street W,Niagara,1299990.0,2+1,3,1000-1199,6
+1540,ON,Toronto,208-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,781880.0,2,2,800-899,4
+1541,ON,Toronto,6910-100 Harbour Street,Waterfront Communities C1,1690000.0,3,2,1000-1199,5
+1542,ON,Toronto,309-2287 Lake Shore Boulevard W,Mimico,1299900.0,2,3,1600-1799,5
+1543,ON,Toronto,202-75 The Esplanade Way,Waterfront Communities C8,1099000.0,3,2,1000-1199,5
+1544,ON,Toronto,1906-3 Marine Parade Drive,Mimico,390000.0,1+1,1,700-799,3
+1545,ON,Toronto,1913-55 Harbour Square,Waterfront Communities C1,1429000.0,2,2,1600-1799,4
+1546,ON,Toronto,339-4645 Jane Street,Black Creek,289000.0,2,1,800-899,3
+1547,ON,Toronto,217-38 Forest Manor Road,Henry Farm,848888.0,2,2,800-899,4
+1548,ON,Toronto,510-18 William Carson Crescent,St. Andrew-Windfields,1999000.0,2,3,2500-2749,5
+1549,ON,Toronto,129-251 Manitoba Street,Mimico,949900.0,2,2,900-999,4
+1550,ON,Toronto,1010-36 Park Lawn Road,Mimico,899000.0,2,2,900-999,4
+1551,ON,Toronto,25 Lascelles Boulevard,Yonge-St. Clair,3998500.0,3+1,5,2750-2999,9
+1552,ON,Toronto,202-265 Poplar Plains Road,Casa Loma,1395000.0,2,2,1400-1599,4
+1553,ON,Toronto,2803-70 Annie Craig Drive,Mimico,729900.0,1,2,600-699,3
+1554,ON,Toronto,301-1700 Avenue Road,Bedford Park-Nortown,3060000.0,2+1,3,2000-2249,6
+1555,ON,Toronto,4105-88 Blue Jays Way,Waterfront Communities C1,2050000.0,2+1,3,1400-1599,6
+1556,ON,Toronto,2010-10 Navy Wharf Court,Waterfront Communities C1,761500.0,1+1,1,700-799,3
+1557,ON,Toronto,201-670 Richmond Street W,Niagara,1999000.0,3,2,2000-2249,5
+1558,ON,Toronto,4A-1 St Thomas Street,Bay Street Corridor,3580000.0,2,3,2000-2249,5
+1559,ON,Toronto,1411-80 John Street,Waterfront Communities C1,849000.0,1+1,1,600-699,3
+1560,ON,Toronto,312-1700 Avenue Road,Bedford Park-Nortown,2705000.0,3,3,1500-2000,6
+1561,ON,Toronto,TH5-101 Erskine Avenue,Mount Pleasant West,1998000.0,3+1,4,2250-2499,8
+1562,ON,Toronto,2802-12 Yonge Street,Waterfront Communities C1,1250000.0,3+1,2,1000-1199,6
+1563,ON,Toronto,603-449 Walmer Road,Forest Hill South,1398000.0,2,2,1400-1599,4
+1564,ON,Toronto,703-616 Avenue Road,Casa Loma,1495000.0,3,2,1600-1799,5
+1565,ON,Toronto,415-2995 Keele Street,Downsview-Roding-CFB,650000.0,1+1,1,600-699,3
+1566,ON,Toronto,511-6 Jackes Avenue,Rosedale-Moore Park,1488990.0,1+1,2,1000-1199,4
+1567,ON,Toronto,1408-720 Spadina Avenue,University,499000.0,1,1,700-799,2
+1568,ON,Toronto,603-120 Rosedale Valley Road,Rosedale-Moore Park,1150000.0,2,2,1200-1399,4
+1569,ON,Toronto,2205-7 King Street E,Church-Yonge Corridor,1175000.0,2+1,2,1200-1399,5
+1570,ON,Toronto,516-2306 St Clair Avenue W,Junction Area,854990.0,2+1,2,800-899,5
+1571,ON,Toronto,323-2306 St Clair Avenue W,Junction Area,879990.0,2+1,2,800-899,5
+1572,ON,Toronto,320-2306 St Clair Avenue W,Junction Area,842990.0,2+1,2,800-899,5
+1573,ON,Toronto,717-161 Roehampton Avenue,Mount Pleasant West,690000.0,1+1,1,500-599,3
+1574,ON,Toronto,210-57 Brock Avenue,Roncesvalles,835900.0,1+1,1,600-699,3
+1575,ON,Toronto,109-57 Brock Avenue,Roncesvalles,1412900.0,2,3,1000-1199,5
+1576,ON,Toronto,103-57 Brock Avenue,Roncesvalles,1760900.0,3+1,3,1600-1799,7
+1577,ON,Toronto,209-3865 Lakeshore Boulevard W,Long Branch,680000.0,1+1,2,700-799,4
+1578,ON,Toronto,1805-1166 Bay Street,Bay Street Corridor,3200000.0,3,2,2250-2499,5
+1579,ON,Toronto,902-10 Tichester Road,Forest Hill South,1739000.0,2,2,1400-1599,4
+1580,ON,Toronto,705-10 Tichester Road,Forest Hill South,1789000.0,2,2,1400-1599,4
+1581,ON,Toronto,302-1700 Avenue Road,Bedford Park-Nortown,2650000.0,2,3,1500-2000,5
+1582,ON,Toronto,116-400 The East Mall,Islington-City Centre West,499000.0,1,1,500-599,2
+1583,ON,Toronto,2904-101 Charles Street E,Church-Yonge Corridor,1249000.0,2,2,900-999,4
+1584,ON,Toronto,202-120 Donlands Avenue,East York,864900.0,2,1,800-899,3
+1585,ON,Toronto,4710-88 Queen Street E,Church-Yonge Corridor,1389000.0,3,2,700-799,5
+1586,ON,Toronto,5601-88 Queen Street E,Church-Yonge Corridor,1122000.0,1+1,2,600-699,4
+1587,ON,Toronto,E11-260 Finch Avenue,Newtonbrook East,979900.0,2,2,800-899,4
+1588,ON,Toronto,519-77 Shuter Street,Church-Yonge Corridor,969000.0,2+1,2,800-899,5
+1589,ON,Toronto,3803-183 Wellington Street W,Waterfront Communities C1,2298000.0,1,2,1400-1599,3
+1590,ON,Toronto,218-38 Forest Manor Road,Henry Farm,848888.0,2,2,700-799,4
+1591,ON,Toronto,7302-1 Bloor Street E,Church-Yonge Corridor,1958000.0,2+1,2,1000-1199,5
+1592,ON,Toronto,602-1700 Avenue Road,Bedford Park-Nortown,1998000.0,2,2,1200-1399,4
+1593,ON,Toronto,1906-33 Elmhurst Avenue,Lansing-Westgate,899000.0,2+1,2,1600-1799,5
+1594,ON,Toronto,1611-219 Dundas Street E,Moss Park,849000.0,2,1,600-699,3
+1595,ON,Toronto,2603-70 Annie Craig Drive,Mimico,699000.0,1+1,2,600-699,4
+1596,ON,Toronto,402-60 Colborne Street,Church-Yonge Corridor,1250000.0,2,2,900-999,4
+1597,ON,Toronto,210-6 Jackes Avenue,Rosedale-Moore Park,1488990.0,2,2,1000-1199,4
+1598,ON,Toronto,505-6 Jackes Avenue,Rosedale-Moore Park,1187990.0,1+1,2,900-999,4
+1599,ON,Toronto,410-38 Avenue Road,Annex,2995000.0,2+1,3,1500-2000,6
+1600,ON,Toronto,UNIT 3-260 Finch Avenue E,Newtonbrook East,955000.0,2+1,2,800-899,5
+1601,ON,Toronto,406-41 Lakeshore Drive,New Toronto,529000.0,2,1,700-799,3
+1602,ON,Toronto,406-4208 Dundas Street W,Edenbridge-Humber Valley,889900.0,2,2,900-999,4
+1603,ON,Toronto,A02-36 Forest Manor Road,Henry Farm,828800.0,2,2,700-799,4
+1604,ON,Toronto,1208-271 Ridley Boulevard,Bedford Park-Nortown,799000.0,2,2,1200-1399,4
+1605,ON,Toronto,3206-1 Bloor Street,Church-Yonge Corridor,1028000.0,1+1,1,600-699,3
+1606,ON,Toronto,4201-65 St Mary Street,Bay Street Corridor,2350000.0,2+1,2,1400-1599,5
+1607,ON,Toronto,LPH02-736 Spadina Avenue,University,2880000.0,3+1,3,3250-3499,7
+1608,ON,Toronto,2503-75 The Esplanade Street,Waterfront Communities C8,1759000.0,3,2,1200-1399,5
+1609,ON,Toronto,519-38 Forest Manor Road,Henry Farm,837777.0,2,2,800-899,4
+1610,ON,Toronto,1109-909 Bay Street,Bay Street Corridor,1550000.0,3,2,1400-1599,5
+1611,ON,Toronto,1206-38 Iannuzzi Street,Niagara,925000.0,2,2,700-799,4
+1612,ON,Toronto,C102-60 Haslett Avenue,The Beaches,1019000.0,2,2,1400-1599,4
+1613,ON,Toronto,138-251 Manitoba Street,Mimico,769990.0,1+1,2,700-799,4
+1614,ON,Toronto,PH 9C-1 Chedington Place,Bridle Path-Sunnybrook-York Mills,6995000.0,2+1,5,4750-4999,8
+1615,ON,Toronto,1802-175 Cumberland Street,Annex,1349000.0,2,2,1000-1199,4
+1616,ON,Toronto,402-32 Forest Manor Road,Henry Farm,848888.0,2,2,700-799,4
+1617,ON,Toronto,1202-2787 Eglinton Avenue E,Eglinton East,820000.0,3,3,1000-1199,6
+1618,ON,Toronto,210-360 Bloor Street E,Rosedale-Moore Park,1190000.0,2,3,1400-1599,5
+1619,ON,Toronto,321-4208 Dundas Street W,Edenbridge-Humber Valley,579900.0,1+1,1,600-699,3
+1620,ON,Toronto,2104-1001 Bay Street,Bay Street Corridor,1179000.0,2,2,1200-1399,4
+1621,ON,Toronto,130-251 Manitoba Street,Mimico,925000.0,2,2,900-999,4
+1622,ON,Toronto,205-22 Lombard Street,Church-Yonge Corridor,1789990.0,2,2,1200-1399,4
+1623,ON,Toronto,615-3220 Sheppard Avenue,Tam O'Shanter-Sullivan,505000.0,1,1,500-599,2
+1624,ON,Toronto,307-400 The East Mall,Islington-City Centre West,965900.0,2,3,1200-1399,5
+1625,ON,Toronto,PH-1-1 Old Mill Drive,High Park-Swansea,3800000.0,3,4,2000-2249,7
+1626,ON,Toronto,LPH19-2095 Lake Shore Boulevard W,Mimico,4500000.0,3+3,4,4500-4749,10
+1627,ON,Toronto,805-38 Elm Street,Bay Street Corridor,618800.0,1,1,600-699,2
+1628,ON,Toronto,2312-171 East Liberty Street,Niagara,688000.0,1+1,1,0-499,3
+1629,ON,Toronto,319-10 Bloorview Place,Don Valley Village,849900.0,2+1,2,900-999,5
+1630,ON,Toronto,1208-22 Wellesley Street E,Church-Yonge Corridor,888000.0,2+1,2,900-999,5
+1631,ON,Toronto,515-77 Avenue Road,Annex,2495000.0,2+1,3,2250-2499,6
+1632,ON,Toronto,1021-234 Simcoe Street,University,1894900.0,3,2,1000-1199,5
+1633,ON,Toronto,P3-163-2119 Lake Shore Boulevard W,Mimico,59000.0,–,–,0-499,0
+1634,ON,Toronto,909-3 Marine Parade Drive,Mimico,379000.0,1+1,1,700-799,3
+1635,ON,Toronto,1107-75 Wynford Heights Crescent,Banbury-Don Mills,899000.0,2+1,2,1400-1599,5
+1636,ON,Toronto,PH912-82 Lombard Street,Church-Yonge Corridor,2450000.0,3+1,4,2750-2999,8
+1637,ON,Toronto,7616-388 Yonge Street,Bay Street Corridor,1590000.0,2+1,2,1400-1599,5
+1638,ON,Toronto,3405-50 Ordnance Street,Niagara,989900.0,2,2,700-799,4
+1639,ON,Toronto,1408-120 Varna Drive,Yorkdale-Glen Park,549900.0,1+1,1,500-599,3
+1640,ON,Toronto,201-68 Yorkville Avenue,Annex,2299000.0,2,2,1400-1599,4
+1641,ON,Toronto,405-36 Forest Manor Road,Henry Farm,999000.0,2+1,3,800-899,6
+1642,ON,Toronto,PH 8202-1 Bloor Street W,Bay Street Corridor,31620000.0,3+1,5,5000+,9
+1643,ON,Toronto,4502-35 Balmuto Street,Bay Street Corridor,1868000.0,3,3,1600-1799,6
+1644,ON,Toronto,2605-171 East Liberty Street,Niagara,752900.0,1+1,1,600-699,3
+1645,ON,Toronto,PH04-20 Brin Drive,Edenbridge-Humber Valley,2149900.0,2+1,3,1500-2000,6
+1646,ON,Toronto,PH02-20 Brin Drive,Edenbridge-Humber Valley,2099900.0,2+1,3,1500-2000,6
+1647,ON,Toronto,1604-12 York Street,Waterfront Communities C1,1200000.0,3+1,2,1000-1199,6
+1648,ON,Toronto,1807-31 Parliament Street,Waterfront Communities C8,985900.0,2,2,600-699,4
+1649,ON,Toronto,909-942 Yonge Street,Annex,729000.0,1+1,1,700-799,3
+1650,ON,Toronto,#1202-71 Simcoe Street,Bay Street Corridor,1198000.0,2+1,2,1200-1399,5
+1651,ON,Toronto,403-70 Elmsthorpe Avenue,Forest Hill South,1988000.0,3+1,3,2000-2249,7
+1652,ON,Toronto,404-22 Lombard Street,Church-Yonge Corridor,839990.0,1,1,500-599,2
+1653,ON,Toronto,307-36 Forest Manor Road,Henry Farm,649000.0,1+1,2,600-699,4
+1654,ON,Toronto,321-36 Forest Manor Road,Henry Farm,499000.0,1+1,1,500-599,3
+1655,ON,Toronto,917-480 Front Street,Waterfront Communities C1,1420000.0,2+1,2,900-999,5
+1656,ON,Toronto,416-155 Merchants' Wharf,Waterfront Communities C8,2325000.0,2,3,1600-1799,5
+1657,ON,Toronto,813-77 Shuter Street,Church-Yonge Corridor,868000.0,1+1,2,600-699,4
+1658,ON,Toronto,516-50 Power Street,Moss Park,1149990.0,3,2,1000-1199,5
+1659,ON,Toronto,3103-155 Yorkville Avenue,Annex,1228000.0,2,2,700-799,4
+1660,ON,Toronto,PH04-220 George Street,Moss Park,1699000.0,3,4,2250-2499,7
+1661,ON,Toronto,706-38 Elm Street,Bay Street Corridor,730000.0,1,1,700-799,2
+1662,ON,Toronto,1036-251 Jarvis Street,Church-Yonge Corridor,625000.0,1,1,0-499,2
+1663,ON,Toronto,62-35 Applewood Lane,Etobicoke West Mall,1120000.0,3+1,3,1600-1799,7
+1664,ON,Toronto,2505-171 East Liberty Street,Niagara,751900.0,1+1,1,600-699,3
+1665,ON,Toronto,402-800 Broadview Avenue,Playter Estates-Danforth,1176900.0,2+1,2,1000-1199,5
+1666,ON,Toronto,3502-125 Blue Jays Way,Waterfront Communities C1,949000.0,2+1,2,800-899,5
+1667,ON,Toronto,PH1001-25 Stafford Street,Niagara,4995000.0,4,3,2750-2999,7
+1668,ON,Toronto,2204-71 Simcoe Street,Waterfront Communities C1,799000.0,1+1,1,1000-1199,3
+1669,ON,Toronto,201-840 St. Clair Avenue W,Oakwood-Vaughan,914900.0,2,2,700-799,4
+1670,ON,Toronto,URG02-7 Lorraine Drive,Willowdale West,1197000.0,3+1,2,1000-1199,6
+1671,ON,Toronto,14-50 Bartlett Avenue,Dovercourt-Wallace Emerson-Junction,1595000.0,2+1,3,1600-1799,6
+1672,ON,Toronto,7405-388 Yonge Street,Bay Street Corridor,1980000.0,3,2,1200-1399,5
+1673,ON,Toronto,419-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,819000.0,2,2,900-999,4
+1674,ON,Toronto,2904-12 York Street,Waterfront Communities C1,1250000.0,3+1,2,1000-1199,6
+1675,ON,Toronto,812-55 Harbour Square,Waterfront Communities C1,1800000.0,2,2,1400-1599,4
+1676,ON,Toronto,11 Tranby Avenue,Annex,4100000.0,3+1,3,2250-2499,7
+1677,ON,Toronto,710-251 Manitoba Street,Mimico,750000.0,2,2,700-799,4
+1678,ON,Toronto,416-32 Forest Manor Road,Henry Farm,897800.0,2+1,2,800-899,5
+1679,ON,Toronto,4507-251 Jarvis Street,Church-Yonge Corridor,519900.0,–,1,0-499,1
+1680,ON,Toronto,317-400 The East Mall,Islington-City Centre West,1075900.0,3,3,1400-1599,6
+1681,ON,Toronto,323-1 Balmoral Avenue,Yonge-St. Clair,1095000.0,2,2,1000-1199,4
+1682,ON,Toronto,3-7 Brimley Road S,Cliffcrest,849000.0,2,2,1000-1199,4
+1683,ON,Toronto,602-120 Rosedale Valley Road,Rosedale-Moore Park,874900.0,2,2,1200-1399,4
+1684,ON,Toronto,108-120 Varna Drive,Yorkdale-Glen Park,989000.0,3,3,1200-1399,6
+1685,ON,Toronto,406-3220 Sheppard Avenue E,Tam O'Shanter-Sullivan,723880.0,2,2,800-899,4
+1686,ON,Toronto,2115-17 Bathurst Street,Waterfront Communities C1,1300000.0,3,2,800-899,5
+1687,ON,Toronto,UPH02-219 Fort York Boulevard,Niagara,1088888.0,2,2,1000-1199,4
+1688,ON,Toronto,2201-75 Wynford Heights Crescent,Banbury-Don Mills,1049000.0,3,2,1500-2000,5
+1689,ON,Toronto,6202-1 Bloor Street W,Bay Street Corridor,7703888.0,2+1,3,2250-2499,6
+1690,ON,Toronto,5503-1 Bloor Street W,Bay Street Corridor,4241888.0,3,2,1400-1599,5
+1691,ON,Toronto,LP7900-1 Bloor Street W,Bay Street Corridor,34700000.0,5+1,7,5000+,13
+1692,ON,Toronto,SUITE 3-662 Bathurst Street,Palmerston-Little Italy,2395000.0,3+1,3,1500-2000,7
+1693,ON,Toronto,PH40-250 Wellington Street W,University,1299000.0,2,2,1400-1599,4
+1694,ON,Toronto,4703-1 Yorkville Avenue,Annex,2440000.0,2,2,1000-1199,4
+1695,ON,Toronto,2-70 Annie Craig Drive,Mimico,999999.0,2,2,800-899,4
+1696,ON,Toronto,2401-38 Forest Manor Road,Henry Farm,725000.0,1+1,1,500-599,3
+1697,ON,Toronto,4506-20 Shore Breeze Drive,Mimico,1380000.0,2,2,800-899,4
+1698,ON,Toronto,307-373 Front Street W,Waterfront Communities C1,1098800.0,2+2,2,1000-1199,6
+1699,ON,Toronto,2613-155 Yorkville Avenue,Annex,1399000.0,2,2,1000-1199,4
+1700,ON,Toronto,PH105-88 Harbour Street,Waterfront Communities C1,3380000.0,3+1,3,1500-2000,7
+1701,ON,Toronto,910-386 Yonge Street,Bay Street Corridor,1248880.0,2,2,1200-1399,4
+1702,ON,Toronto,PH05-1 Yorkville Avenue,Annex,1950000.0,2,2,900-999,4
+1703,ON,Toronto,924-50 George Butchart Drive,Downsview-Roding-CFB,549900.0,1+1,1,600-699,3
+1704,ON,Toronto,PH01-1 Yorkville Avenue,Annex,2950000.0,2+1,3,1200-1399,6
+1705,ON,Toronto,1501-206 Bloor Street W,Annex,9680000.0,2,3,4250-4499,5
+1706,ON,Toronto,802-220 Victoria Street,Church-Yonge Corridor,668000.0,1+2,2,700-799,5
+1707,ON,Toronto,222-39 Annie Craig Drive,Mimico,999900.0,2,2,800-899,4
+1708,ON,Toronto,2920-28 Widmer Street,Waterfront Communities C1,799000.0,1,1,500-599,2
+1709,ON,Toronto,1804 ST-195 Redpath Avenue,Mount Pleasant West,745000.0,2,2,600-699,4
+1710,ON,Toronto,209-30 Allanhurst Drive,Edenbridge-Humber Valley,415000.0,2,1,1000-1199,3
+1711,ON,Toronto,902-2799 Kingston Road,Cliffcrest,1150000.0,3+1,3,1200-1399,7
+1712,ON,Toronto,PH22-55 Merchants' Wharf,Waterfront Communities C8,5980000.0,3,4,3000-3249,7
+1713,ON,Toronto,923-2995 Keele Street W,Downsview-Roding-CFB,599990.0,2,2,700-799,4
+1714,ON,Toronto,711-1200 Don Mills Road,Banbury-Don Mills,979000.0,2,2,1400-1599,4
+1715,ON,Toronto,602-118 Yorkville Avenue,Annex,9880000.0,3,3,4000-4249,6
+1716,ON,Toronto,911-825 Church Street,Rosedale-Moore Park,1535000.0,3,2,1000-1199,5
+1717,ON,Toronto,PH4-3900 Yonge Street,Bedford Park-Nortown,3898000.0,2,3,3000-3249,5
+1718,ON,Toronto,407-662 Sheppard Avenue E,Bayview Village,999998.0,2,2,1200-1399,4
+1719,ON,Toronto,1211-5 St Joseph Street,Bay Street Corridor,818000.0,1+1,1,600-699,3
+1720,ON,Toronto,506-2201 Kingston Road,Birchcliffe-Cliffside,550000.0,1,1,0-499,2
+1721,ON,Toronto,6316-388 Yonge Street,Bay Street Corridor,1390000.0,2+1,2,1200-1399,5
+1722,ON,Toronto,3201-77 Harbour Square,Waterfront Communities C1,2099800.0,2+2,2,1500-2000,6
+1723,ON,Toronto,TH4-39 Annie Craig Drive,Mimico,1519900.0,2+1,3,1200-1399,6
+1724,ON,Toronto,TH3-39 Annie Craig Drive,Mimico,1349900.0,2+1,3,1000-1199,6
+1725,ON,Toronto,1615-19 Bathurst Street,Waterfront Communities C1,729000.0,1,1,500-599,2
+1726,ON,Toronto,505-3 Marine Parade Drive W,Mimico,390000.0,1+1,1,700-799,3
+1727,ON,Toronto,318-1 Bloor Street E,Church-Yonge Corridor,1189000.0,2,2,800-899,4
+1728,ON,Toronto,TH3-51 Paul Lane Gardens,Kensington-Chinatown,2480000.0,3+1,3,2000-2249,7
+1729,ON,Toronto,10-12 Dervock Crescent,Bayview Village,1259900.0,2,2,1000-1199,4
+1730,ON,Toronto,416-50 Ordnance Street,Niagara,879900.0,2,2,700-799,4
+1731,ON,Toronto,1508-825 Church Street,Rosedale-Moore Park,799000.0,1+1,1,600-699,3
+1732,ON,Toronto,806-11 Brunel Court,Waterfront Communities C1,735000.0,1+1,1,700-799,3
+1733,ON,Toronto,901-80 Cumberland Street,Annex,1338000.0,2,3,1000-1199,5
+1734,ON,Toronto,920-1 King Street W,Bay Street Corridor,439000.0,–,1,600-699,1
+1735,ON,Toronto,13-260 Finch Avenue E,Newtonbrook East,989000.0,2+1,3,800-899,6
+1736,ON,Toronto,601-128 Hazelton Avenue,Annex,6990000.0,3,4,3000-3249,7
+1737,ON,Toronto,22-28 Marina Avenue,Long Branch,1199900.0,2,2,1200-1399,4
+1738,ON,Toronto,1006-10 Torresdale Avenue,Westminster-Branson,849000.0,2,2,1200-1399,4
+1739,ON,Toronto,1018-50 George Butchart Drive,Downsview-Roding-CFB,710000.0,2,2,700-799,4
+1740,ON,Toronto,23-28 Marina Avenue,Long Branch,1249000.0,3,3,1400-1599,6
+1741,ON,Toronto,5003-180 University Avenue,Bay Street Corridor,3188000.0,2+1,3,1500-2000,6
+1742,ON,Toronto,6905-1 Bloor Street E,Church-Yonge Corridor,2488000.0,2+1,3,1600-1799,6
+1743,ON,Toronto,308-500 Avenue Road,Casa Loma,1195000.0,2,2,1200-1399,4
+1744,ON,Toronto,PARKING-89 Dunfield Avenue,Mount Pleasant West,59000.0,–,–,0-499,0
+1745,ON,Toronto,3709-5 St Joseph Street,Bay Street Corridor,999000.0,1+1,1,600-699,3
+1746,ON,Toronto,5107-14 York Street,Waterfront Communities C1,675000.0,1+1,1,500-599,3
+1747,ON,Toronto,306-170 Chiltern Hill Road,Humewood-Cedarvale,475000.0,–,1,0-499,1
+1748,ON,Toronto,4704-88 Scott Street,Church-Yonge Corridor,1548000.0,3,2,1200-1399,5
+1749,ON,Toronto,408-492 Eglinton Avenue E,Mount Pleasant East,659000.0,1,1,500-599,2
+1750,ON,Toronto,17-2-3100 Keele Street,Downsview-Roding-CFB,549000.0,1+1,1,500-599,3
+1751,ON,Toronto,918-251 Manitoba Street,Mimico,700000.0,1+1,1,500-599,3
+1752,ON,Toronto,401-3 Marine Parade Drive,Mimico,525000.0,2+1,2,1000-1199,5
+1753,ON,Toronto,UPH3-80 John Street,Waterfront Communities C1,2498900.0,2+1,2,2250-2499,5
+1754,ON,Toronto,TH2-12 Macpherson Avenue,Annex,2645000.0,2,4,2500-2749,6
+1755,ON,Toronto,309-1 Post Road,Bridle Path-Sunnybrook-York Mills,5688000.0,3,4,4000-4249,7

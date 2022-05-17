@@ -1,0 +1,312 @@
+,Province,City,Street,Neighbourhood,Price,Bed,Bath,Size,room
+0,ON,Toronto,2 Hyde Avenue,Keelesdale-Eglinton West,2599999.0,7,4,2500-3000,11
+1,ON,Toronto,25 Edgewood Crescent,Rosedale-Moore Park,2485000.0,4,3,2000-2500,7
+2,ON,Toronto,101 Cornerbrook Drive,Parkwoods-Donalda,899000.0,3,2,0-0,5
+3,ON,Toronto,382 Lansdowne Avenue,Dufferin Grove,999000.0,3+1,2,,6
+4,ON,Toronto,112 Beverley Street,Kensington-Chinatown,1999000.0,6+2,6,2500-3000,14
+5,ON,Toronto,52 Macdonald Street,Mimico,1699000.0,4+3,5,,12
+6,ON,Toronto,1832 Dufferin Street,Corso Italia-Davenport,950000.0,3+1,3,,7
+7,ON,Toronto,91 Trumpeter Street,Rouge E11,999000.0,4+1,4,1500-2000,9
+8,ON,Toronto,180 Harvie Avenue,Corso Italia-Davenport,1488000.0,3,6,,9
+9,ON,Toronto,27 East York Avenue,Broadview North,999000.0,3,3,1500-2000,6
+10,ON,Toronto,27 East York Avenue,Broadview North,999000.0,3,3,1500-2000,6
+11,ON,Toronto,321 St Clair Avenue E,Rosedale-Moore Park,3599000.0,8+8,7,,23
+12,ON,Toronto,8 Frater Avenue,East York,1999900.0,3,4,0-0,7
+13,ON,Toronto,118 Margueretta Street,Dufferin Grove,1100000.0,2+2,2,2000-2500,6
+14,ON,Toronto,82 Durie Street,High Park-Swansea,1298000.0,3+1,2,,6
+15,ON,Toronto,143 Fulton Avenue,Playter Estates-Danforth,1299900.0,3+1,4,1500-2000,8
+16,ON,Toronto,31 Tisdale Avenue,Victoria Village,1399000.0,6+1,2,,9
+17,ON,Toronto,915 Ossington Avenue,Dovercourt-Wallace Emerson-Junction,1449000.0,5,3,,8
+18,ON,Toronto,20 Connable Drive,Casa Loma,3190000.0,3,4,2500-3000,7
+19,ON,Toronto,48 Ascot Avenue,Corso Italia-Davenport,999888.0,3,2,,5
+20,ON,Toronto,735 Indian Road,High Park North,1499000.0,3,2,,5
+21,ON,Toronto,158 Bastedo Avenue,Woodbine Corridor,799000.0,2,1,,3
+22,ON,Toronto,87 Gloucester Street,Church-Yonge Corridor,3995000.0,3,4,2500-3000,7
+23,ON,Toronto,151 Bastedo Avenue,Woodbine Corridor,999000.0,2+1,2,,5
+24,ON,Toronto,53 Symington Avenue,Dovercourt-Wallace Emerson-Junction,990000.0,3,3,,6
+25,ON,Toronto,21 Geoffrey Street,Roncesvalles,1650000.0,4+1,3,0-0,8
+26,ON,Toronto,89 Mcclure Crescent,Malvern,799000.0,4,2,,6
+27,ON,Toronto,22-17 Powerhouse Street,Dovercourt-Wallace Emerson-Junction,1199900.0,3+1,3,1500-2000,7
+28,ON,Toronto,88 Beaconsfield Avenue,Little Portugal,2998000.0,8+1,6,,15
+29,ON,Toronto,51 Kenneth Avenue,High Park North,1450000.0,4,2,1500-2000,6
+30,ON,Toronto,17 Sonnet Court,Rustic,899900.0,4,2,,6
+31,ON,Toronto,160 Cedric Avenue,Oakwood-Vaughan,1499000.0,3+1,4,,8
+32,ON,Toronto,157 Bob Yuill Drive,Humberlea-Pelmo Park W5,999000.0,3,3,,6
+33,ON,Toronto,190 Bedford Park Avenue,Lawrence Park North,1788000.0,3,3,,6
+34,ON,Toronto,558 Willard Avenue,Runnymede-Bloor West Village,2099000.0,4+2,3,2000-2500,9
+35,ON,Toronto,375 Woodfield Road,Greenwood-Coxwell,1099000.0,3+1,2,,6
+36,ON,Toronto,107 Bertmount Avenue,South Riverdale,1388000.0,3,3,,6
+37,ON,Toronto,302 Mclevin Avenue,Malvern,725000.0,3,2,,5
+38,ON,Toronto,74 Mortimer Avenue,Broadview North,899000.0,3+1,2,,6
+39,ON,Toronto,14 Earnbridge Street,Roncesvalles,1189000.0,3+1,2,2500-3000,6
+40,ON,Toronto,341 Clinton Street,Palmerston-Little Italy,1199000.0,3+1,2,,6
+41,ON,Toronto,90 Murellen Crescent,Victoria Village,999800.0,3+1,3,,7
+42,ON,Toronto,18 Perth Avenue,Dufferin Grove,1899888.0,3,3,1500-2000,6
+43,ON,Toronto,28 Tiverton Avenue,South Riverdale,1149000.0,3,2,,5
+44,ON,Toronto,1399 Lansdowne Avenue,Corso Italia-Davenport,999900.0,Apts-2 To 5 Units2851 sqft,Nan,0-0,0
+45,ON,Toronto,169 Beech Avenue,The Beaches,1599000.0,4+1,3,,8
+46,ON,Toronto,110 Duvernet Avenue,The Beaches,1299900.0,3,3,1000-1500,6
+47,ON,Toronto,14 Coxwell Avenue,Greenwood-Coxwell,1099000.0,Apts-2 To 5 Units1681 sqft,Nan,0-0,0
+48,ON,Toronto,81 Glen Davis Crescent,East End-Danforth,1199900.0,3,1,,4
+49,ON,Toronto,41 Norwood Terrace,East End-Danforth,699900.0,2+1,2,0-0,5
+50,ON,Toronto,373 St Johns Road,Runnymede-Bloor West Village,999900.0,3,2,0-0,5
+51,ON,Toronto,2476 St Clair Avenue W,Rockcliffe-Smythe,999000.0,2+1,3,,6
+52,ON,Toronto,19 Krawchuk Lane,Leaside,1090000.0,3,3,1500-2000,6
+53,ON,Toronto,81 Duncanwoods Drive,Humber Summit,998888.0,4+2,3,1500-2000,9
+54,ON,Toronto,22 Hildenboro Square,L'Amoreaux,1450000.0,3+2,2,,7
+55,ON,Toronto,25 Blackburn Street,South Riverdale,899000.0,3,1,,4
+56,ON,Toronto,17 Edgeway Gate,Agincourt North,1099000.0,3+1,3,,7
+57,ON,Toronto,58 Navaho Drive,Pleasant View,1199000.0,6+3,4,,13
+58,ON,Toronto,156 Raponi Circle,Rouge E11,999900.0,3+2,4,1500-2000,9
+59,ON,Toronto,163 Shaw Street,Palmerston-Little Italy,1499000.0,3+1,2,0-0,6
+60,ON,Toronto,90 Hallam Street,Dovercourt-Wallace Emerson-Junction,1299000.0,3+1,3,,7
+61,ON,Toronto,20 Dupont Street,Annex,3950000.0,2+1,5,,8
+62,ON,Toronto,1410 Wilson Avenue,Downsview-Roding-CFB,849900.0,3,2,1000-1500,5
+63,ON,Toronto,4 Melville Avenue,Dovercourt-Wallace Emerson-Junction,1375000.0,4,2,,6
+64,ON,Toronto,135 Donlands Avenue,Danforth Village,989900.0,3,2,1000-1500,5
+65,ON,Toronto,92 Willcocks Street,University,2200000.0,3,2,0-0,5
+66,ON,Toronto,71 Pembroke Street,Moss Park,1995000.0,4+1,3,2500-3000,8
+67,ON,Toronto,7 Robinson Street,Trinity-Bellwoods,1099999.0,3,2,0-0,5
+68,ON,Toronto,239 Gracedale Boulevard,Humber Summit,1099999.0,3+2,3,,8
+69,ON,Toronto,83 Hounslow Heath Road,Weston-Pellam Park,1199900.0,4+1,3,,8
+70,ON,Toronto,449 Oakwood Avenue,Oakwood-Vaughan,1299000.0,2+1,3,,6
+71,ON,Toronto,9 Clairtrell Road,Willowdale East,1858000.0,3,4,2000-2500,7
+72,ON,Toronto,36 Futura Drive,Glenfield-Jane Heights,999000.0,3+3,2,,8
+73,ON,Toronto,1409 King Street W,South Parkdale,1349000.0,7+3,3,,13
+74,ON,Toronto,81 Puma Drive,L'Amoreaux,968000.0,3,4,,7
+75,ON,Toronto,109 Langden Avenue,Rockcliffe-Smythe,799000.0,3,1,,4
+76,ON,Toronto,29 Moorefield Drive,Rouge E10,949900.0,3,4,1000-1500,7
+77,ON,Toronto,548 Hillsdale Avenue E,Mount Pleasant East,1499000.0,3,2,0-0,5
+78,ON,Toronto,197 Torbarrie Road,Downsview-Roding-CFB,899900.0,3,4,1500-2000,7
+79,ON,Toronto,499 Mortimer Avenue,Danforth Village-East York,1188888.0,3+1,2,,6
+80,ON,Toronto,33 Ivan Nelson Drive,Westminster-Branson,1138000.0,4+1,4,,9
+81,ON,Toronto,212 Scarborough Golf Clb Road,Woburn,899000.0,3,3,,6
+82,ON,Toronto,15 Fusilier Drive,Clairlea-Birchmount,1049500.0,3,4,1500-2000,7
+83,ON,Toronto,52 Dragoon Crescent,Agincourt North,850000.0,3+1,3,1000-1500,7
+84,ON,Toronto,246 Sherbourne Street,Moss Park,1699000.0,7,5,1500-2000,12
+85,ON,Toronto,53 Ted Wray Circle,Downsview-Roding-CFB,899999.0,4+1,4,0-0,9
+86,ON,Toronto,805 Windermere Avenue,Runnymede-Bloor West Village,1149000.0,3,2,0-0,5
+87,ON,Toronto,30 Hillhurst Boulevard,Lawrence Park South,3289000.0,3,3,2000-2500,6
+88,ON,Toronto,232 Gainsborough Road,Woodbine Corridor,1099000.0,3+1,2,,6
+89,ON,Toronto,54 Howe Avenue,Clairlea-Birchmount,769900.0,2+1,2,1000-1500,5
+90,ON,Toronto,256 Gerrard Street E,Moss Park,2599900.0,8+3,5,3500-5000,16
+91,ON,Toronto,56 Mourning Dove Crescent,Malvern,999000.0,3+1,4,,8
+92,ON,Toronto,18 Hannaford Street,East End-Danforth,1298888.0,4,2,,6
+93,ON,Toronto,115 Perth Avenue,Dovercourt-Wallace Emerson-Junction,1550000.0,3,2,0-0,5
+94,ON,Toronto,33 Pringdale Gardens Circle,Eglinton East,989900.0,4+1,3,0-0,8
+95,ON,Toronto,117 Coxwell Avenue,Greenwood-Coxwell,748000.0,2,2,,4
+96,ON,Toronto,53 Milverton Boulevard,Danforth,999900.0,3,2,,5
+97,ON,Toronto,50 Venetian Crescent,Glenfield-Jane Heights,949000.0,3+2,2,,7
+98,ON,Toronto,56 Davelayne Road,Humbermede,1049000.0,3+3,2,,8
+99,ON,Toronto,50 Venetian Crescent,Glenfield-Jane Heights,949000.0,3+2,2,,7
+100,ON,Toronto,126 Brookhaven Drive,Brookhaven-Amesbury,899999.0,3,2,0-0,5
+101,ON,Toronto,261 Ontario Street,Moss Park,999000.0,3,2,,5
+102,ON,Toronto,115 Harrison Street,Trinity-Bellwoods,1699000.0,3+1,3,0-0,7
+103,ON,Toronto,23 Clancy Drive,Don Valley Village,1098000.0,4+1,3,,8
+104,ON,Toronto,25 Pretoria Avenue,Playter Estates-Danforth,999999.0,2,2,0-0,4
+105,ON,Toronto,38 Red River Crescent,Rouge E11,699999.0,3,2,,5
+106,ON,Toronto,116 Red River Crescent,Rouge E11,699000.0,3,2,0-0,5
+107,ON,Toronto,60 Hillsdale Avenue W,Yonge-Eglinton,1695000.0,4+1,3,0-0,8
+108,ON,Toronto,68 Geary Avenue,Wychwood,2095000.0,–,–,,0
+109,ON,Toronto,226 Waverley Road,The Beaches,999000.0,3,3,,6
+110,ON,Toronto,96 Marbury Crescent,Parkwoods-Donalda,899000.0,3,2,,5
+111,ON,Toronto,109 Bellwoods Avenue,Trinity-Bellwoods,1799000.0,4+2,3,,9
+112,ON,Toronto,160 Three Valleys Drive,Parkwoods-Donalda,999000.0,2,2,,4
+113,ON,Toronto,320 Kingswood Road,The Beaches,1099000.0,3,1,0-0,4
+114,ON,Toronto,95 Kenilworth Avenue S,The Beaches,2499000.0,3+2,3,,8
+115,ON,Toronto,27 Mansur Terrace,York University Heights,1249000.0,4+1,4,2000-2500,9
+116,ON,Toronto,79 Day Avenue,Corso Italia-Davenport,999000.0,3,2,,5
+117,ON,Toronto,6 Whistle Post Street,East End-Danforth,1689000.0,4+1,4,2500-3000,9
+118,ON,Toronto,18 Gageview Court,Milliken,888999.0,3,2,1000-1500,5
+119,ON,Toronto,48 West Avenue,South Riverdale,1329900.0,4,3,,7
+120,ON,Toronto,127 Angus Drive,Don Valley Village,1269000.0,3+2,2,,7
+121,ON,Toronto,4 Newbold Ave Avenue,Woodbine Corridor,4500000.0,2+2,13,,17
+122,ON,Toronto,3-6 Wellesley Place,North St. James Town,1099000.0,2,3,,5
+123,ON,Toronto,158 Springdale Boulevard,Danforth Village-East York,1378000.0,3,2,1000-1500,5
+124,ON,Toronto,2942 Lake Shore Boulevard W,New Toronto,1499000.0,1,3,,4
+125,ON,Toronto,31 Beatrice Street,Trinity-Bellwoods,2175000.0,5+2,4,3000-3500,11
+126,ON,Toronto,26 Tideswell Boulevard,Rouge E11,899000.0,4,3,2000-2500,7
+127,ON,Toronto,250 Lippincott Street,University,1649000.0,3,3,1500-2000,6
+128,ON,Toronto,53 Garthdale Court,Bathurst Manor,1199000.0,3+1,3,3000-3500,7
+129,ON,Toronto,86 Donlands Avenue,Danforth,1129000.0,3+1,3,,7
+130,ON,Toronto,366 Mcroberts Avenue,Caledonia-Fairbank,1199000.0,3+1,2,,6
+131,ON,Toronto,1067 Davenport Road,Wychwood,897000.0,3+1,3,,7
+132,ON,Toronto,20 Sheridan Avenue,Little Portugal,1198000.0,3,2,,5
+133,ON,Toronto,468 Symington Avenue,Weston-Pellam Park,1098000.0,3,2,,5
+134,ON,Toronto,217 Ellsworth Avenue,Wychwood,1450000.0,3+1,3,,7
+135,ON,Toronto,297 Delaware Avenue,Dovercourt-Wallace Emerson-Junction,1399999.0,4,4,,8
+136,ON,Toronto,37 Dominion Road,Long Branch,3999000.0,9+4,9,5000+,22
+137,ON,Toronto,649 Beresford Avenue,Runnymede-Bloor West Village,2279000.0,3+1,5,2500-3000,9
+138,ON,Toronto,32 Trellanock Avenue,Rouge E10,899000.0,3,4,1500-2000,7
+139,ON,Toronto,130 Ivy Avenue,South Riverdale,1650000.0,3+1,3,,7
+140,ON,Toronto,8 Joseph Salesberg Lane,Niagara,1550000.0,3,2,1500-2000,5
+141,ON,Toronto,11 Lowther Avenue,Annex,6295000.0,4+1,6,3500-5000,11
+142,ON,Toronto,34 Ostend Avenue,High Park-Swansea,1099000.0,2,2,1000-1500,4
+143,ON,Toronto,259 St Helens Avenue,Dufferin Grove,1299900.0,2+1,3,1000-1500,6
+144,ON,Toronto,257 St Helens Avenue,Dufferin Grove,999900.0,3,1,1000-1500,4
+145,ON,Toronto,199 Shawnee Circle,Pleasant View,999900.0,3+2,2,1500-2000,7
+146,ON,Toronto,57 Prescott Avenue,Weston-Pellam Park,999999.0,3,3,,6
+147,ON,Toronto,5 Foxwarren Drive,Bayview Village,2280000.0,5+2,4,,11
+148,ON,Toronto,85 Earlsdale Avenue,Oakwood-Vaughan,1329000.0,3+1,2,1000-1500,6
+149,ON,Toronto,27 Fusilier Drive,Clairlea-Birchmount,999000.0,3,3,1500-2000,6
+150,ON,Toronto,15 Rusholme Park Crescent,Little Portugal,1299000.0,3+1,3,,7
+151,ON,Toronto,201 Caledonia Road,Corso Italia-Davenport,849000.0,2+1,2,,5
+152,ON,Toronto,19 Thomas Mulholland Drive,Downsview-Roding-CFB,999900.0,3,3,1500-2000,6
+153,ON,Toronto,2636 Bayview Avenue,St. Andrew-Windfields,2695000.0,4+1,4,3500-5000,9
+154,ON,Toronto,201 Hanson Street,Woodbine Corridor,799000.0,1+1,2,,4
+155,ON,Toronto,31 Daleside Crescent,Victoria Village,998000.0,3,3,,6
+156,ON,Toronto,36 Arcadian Circle,Long Branch,1998800.0,Apts-2 To 5 Units4542 sqft,Nan,0-0,0
+157,ON,Toronto,146 Sexton Crescent,Hillcrest Village,998000.0,4+2,5,,11
+158,ON,Toronto,17 Blackstone Street,Rustic,1399990.0,4,5,1500-2000,9
+159,ON,Toronto,52 Duggan Avenue,Yonge-St. Clair,1895000.0,4,3,2500-3000,7
+160,ON,Toronto,331 Royal York Road N,Mimico,1299000.0,3,3,,6
+161,ON,Toronto,100 Alcorn Avenue,Yonge-St. Clair,1749000.0,3,1,,4
+162,ON,Toronto,659 Euclid Avenue,Palmerston-Little Italy,2518000.0,4+1,3,,8
+163,ON,Toronto,9 Sorauren Avenue,Roncesvalles,1799000.0,3+2,2,2000-2500,7
+164,ON,Toronto,35 Day Avenue,Corso Italia-Davenport,1459000.0,3,2,,5
+165,ON,Toronto,2 Leita Court,Edenbridge-Humber Valley,1299900.0,4+2,3,1500-2000,9
+166,ON,Toronto,191 Gladstone Avenue,Little Portugal,998000.0,2+1,2,,5
+167,ON,Toronto,50 Foxley Street,Trinity-Bellwoods,1799000.0,Investment1950 sqft,Nan,0-0,0
+168,ON,Toronto,736 Richmond Street W,Niagara,1199000.0,3,2,1500-2000,5
+169,ON,Toronto,331 Royal York Road,Mimico,1299000.0,3,3,2500-3000,6
+170,ON,Toronto,52-75 Elder Avenue,Long Branch,1249000.0,3,2,1500-2000,5
+171,ON,Toronto,54 Fenelon Drive,Parkwoods-Donalda,919000.0,3,3,1000-1500,6
+172,ON,Toronto,856 St Clarens Avenue,Dovercourt-Wallace Emerson-Junction,1349900.0,3+1,4,2000-2500,8
+173,ON,Toronto,339 Bain Avenue,North Riverdale,1370000.0,3,3,,6
+174,ON,Toronto,298 Manning Avenue,Trinity-Bellwoods,1199000.0,3,2,,5
+175,ON,Toronto,228 Shuter Street,Moss Park,999999.0,3+1,2,,6
+176,ON,Toronto,18 Sorauren Avenue,Roncesvalles,2460000.0,4+1,5,2500-3000,10
+177,ON,Toronto,1039 Bathurst Street,Annex,2195000.0,8+4,12,,24
+178,ON,Toronto,15 Connaught Avenue,Greenwood-Coxwell,1199000.0,2,3,,5
+179,ON,Toronto,5 Winnifred Avenue,South Riverdale,999999.0,2,2,1000-1500,4
+180,ON,Toronto,87 Gloucester Street,Church-Yonge Corridor,3995000.0,3,4,2500-3000,7
+181,ON,Toronto,474 St Johns Road,Runnymede-Bloor West Village,1999900.0,6+2,3,2000-2500,11
+182,ON,Toronto,5-389 The West Way,Willowridge-Martingrove-Richview,899900.0,4,2,,6
+183,ON,Toronto,369 Milverton Boulevard,Danforth,998800.0,3+1,2,,6
+184,ON,Toronto,58 Mcnairn Avenue,Lawrence Park North,3495000.0,8,4,,12
+185,ON,Toronto,27 Lantos Court,Downsview-Roding-CFB,999888.0,3,2,,5
+186,ON,Toronto,110 St Johns Road,Junction Area,999000.0,3,2,,5
+187,ON,Toronto,3-1255 Bridletowne Circle,L'Amoreaux,899000.0,3+1,3,0-0,7
+188,ON,Toronto,99 Marjory Avenue,South Riverdale,1090000.0,3+2,3,,8
+189,ON,Toronto,851 Ellesmere Road,Dorset Park,799000.0,3+1,2,,6
+190,ON,Toronto,124 Ascot Avenue,Corso Italia-Davenport,1050000.0,3+1,3,,7
+191,ON,Toronto,216 Keele Street,High Park North,2998000.0,Apts-6 To 12 Units4052 sqft,Nan,0-0,0
+192,ON,Toronto,60 Chamberlain Avenue,Briar Hill-Belgravia,1199000.0,3+1,2,,6
+193,ON,Toronto,5 Quantrell Trail,Malvern,899000.0,3+2,3,,8
+194,ON,Toronto,15 Balmoral Avenue,Yonge-St. Clair,3450000.0,2+1,4,3000-3500,7
+195,ON,Toronto,5 Markdale Avenue,Humewood-Cedarvale,3925000.0,8+3,8,,19
+196,ON,Toronto,7 Rushley Drive,Bendale,888000.0,3+1,2,,6
+197,ON,Toronto,57 Hillsdale Avenue W,Yonge-Eglinton,1699000.0,4+2,4,1500-2000,10
+198,ON,Toronto,31 Sergio Marchi Street,Downsview-Roding-CFB,949999.0,3,4,1500-2000,7
+199,ON,Toronto,21 Fernwood Park Avenue,The Beaches,2379000.0,2+1,3,,6
+200,ON,Toronto,31 Wiggens Court,Malvern,899900.0,3,2,0-0,5
+201,ON,Toronto,112 Pricefield Road,Rosedale-Moore Park,3495000.0,3+1,4,2000-2500,8
+202,ON,Toronto,1102 Pape Avenue,Broadview North,1249900.0,3+1,3,,7
+203,ON,Toronto,39 Major Street,University,2349900.0,3+1,4,2000-2500,8
+204,ON,Toronto,177 Logan Avenue,South Riverdale,1599000.0,3,2,1500-2000,5
+205,ON,Toronto,A-2 Chauncey Avenue,Islington-City Centre West,1799000.0,3+1,4,2500-3000,8
+206,ON,Toronto,267 Finch Avenue E,Willowdale East,1468000.0,3+1,3,,7
+207,ON,Toronto,94 Argyle Street,Trinity-Bellwoods,1999000.0,3+1,4,,8
+208,ON,Toronto,15 Luscombe Lane,Church-Yonge Corridor,1890000.0,3,2,1500-2000,5
+209,ON,Toronto,51 Sundial Crescent,Victoria Village,999000.0,4,3,,7
+210,ON,Toronto,719 Lansdowne Avenue,Dovercourt-Wallace Emerson-Junction,1100000.0,3,1,,4
+211,ON,Toronto,84 Weybourne Crescent,Lawrence Park South,5295000.0,4+1,5,3500-5000,10
+212,ON,Toronto,435 Brock Avenue,Dufferin Grove,2199000.0,3+1,4,,8
+213,ON,Toronto,59 Thurston Road,Mount Pleasant East,1425000.0,3,2,,5
+214,ON,Toronto,1010 Woodbine Avenue,Danforth,1199000.0,3+1,3,,7
+215,ON,Toronto,356 Walmer Road,Casa Loma,4500000.0,8+8,8,,24
+216,ON,Toronto,104 Shaftesbury Avenue,Rosedale-Moore Park,1949000.0,3+1,2,1000-1500,6
+217,ON,Toronto,1-871 Sheppard Avenue W,Bathurst Manor,1499000.0,3+1,3,1500-2000,7
+218,ON,Toronto,202 Dairy Drive W,Clairlea-Birchmount,1099000.0,3+1,3,2000-2500,7
+219,ON,Toronto,139 Greenwood Avenue,Greenwood-Coxwell,1369000.0,4+1,3,,8
+220,ON,Toronto,86 Winchester Street,Cabbagetown-South St. James Town,2599000.0,4+2,5,,11
+221,ON,Toronto,205 Finch Avenue E,Willowdale East,1198000.0,4+1,3,1500-2000,8
+222,ON,Toronto,42 Penhurst Avenue,Stonegate-Queensway,1499000.0,4+2,3,,9
+223,ON,Toronto,29 Shirley Street,Little Portugal,1499800.0,3+2,3,,8
+224,ON,Toronto,466 Wellesley Street E,Cabbagetown-South St. James Town,2799000.0,2+2,4,,8
+225,ON,Toronto,123 Rogers Road,Oakwood-Vaughan,1188888.0,3+1,3,,7
+226,ON,Toronto,47 Bradstone Square,Malvern,799000.0,3+2,3,,8
+227,ON,Toronto,116 Dollery Court,Westminster-Branson,1199000.0,3,3,2000-2500,6
+228,ON,Toronto,281 Laird Drive,Leaside,1495000.0,2+1,2,,5
+229,ON,Toronto,10 Winnifred Avenue,South Riverdale,1200000.0,2,1,,3
+230,ON,Toronto,8 Tamola Park,Humber Summit,1509990.0,3,3,2000-2500,6
+231,ON,Toronto,96 Northcote Avenue,Little Portugal,1549999.0,3+1,3,1500-2000,7
+232,ON,Toronto,346 Jarvis Street,Church-Yonge Corridor,1549000.0,3+1,3,2000-2500,7
+233,ON,Toronto,419 Manning Avenue,Palmerston-Little Italy,2350000.0,5+3,5,,13
+234,ON,Toronto,80 Curzon Street,South Riverdale,1328000.0,2,1,,3
+235,ON,Toronto,75 Tecumseth Street,Niagara,1988000.0,3+1,3,2000-2500,7
+236,ON,Toronto,567 Pape Avenue,Blake-Jones,1788000.0,3+1,4,1500-2000,8
+237,ON,Toronto,69 Sussex Avenue,University,2900000.0,6+3,4,,13
+238,ON,Toronto,60 Churchill Avenue,Trinity-Bellwoods,2999999.0,3+1,4,,8
+239,ON,Toronto,852 Bathurst Street,Annex,2200000.0,3,3,,6
+240,ON,Toronto,6 Prospect Street,Cabbagetown-South St. James Town,1680000.0,4,3,,7
+241,ON,Toronto,197 Royal York Road,Mimico,2599000.0,Apts-2 To 5 Units5000 sqft,Nan,0-0,0
+242,ON,Toronto,304 Crawford Street,Trinity-Bellwoods,2820000.0,4,4,,8
+243,ON,Toronto,285 Lisgar Street,Little Portugal,2250000.0,4,3,,7
+244,ON,Toronto,168 Elder Street,Bathurst Manor,1499000.0,7,5,,12
+245,ON,Toronto,39 Moutray Street,Little Portugal,2699000.0,3+2,5,2500-3000,10
+246,ON,Toronto,17 Purvis Crescent,Malvern,999900.0,3+2,3,,8
+247,ON,Toronto,44 Braemar Avenue,Yonge-Eglinton,1985000.0,4,2,2000-2500,6
+248,ON,Toronto,118 Mimico Avenue,Mimico,1499000.0,4+2,3,,9
+249,ON,Toronto,47 Strader Avenue,Oakwood-Vaughan,1689000.0,4+1,4,2500-3000,9
+250,ON,Toronto,483 Oakwood Avenue,Oakwood-Vaughan,1174900.0,5+1,5,,11
+251,ON,Toronto,183 Donlands Avenue,Danforth Village-East York,1250000.0,3,3,,6
+252,ON,Toronto,457 Roncesvalles Avenue,Roncesvalles,2200000.0,2,3,,5
+253,ON,Toronto,277 Gilmour Avenue,Junction Area,1799000.0,3+2,3,0-0,8
+254,ON,Toronto,38 Sarah Jackson Crescent,Downsview-Roding-CFB,1069000.0,3,3,1500-2000,6
+255,ON,Toronto,457 Queen Street E,Moss Park,1299000.0,4,2,1500-2000,6
+256,ON,Toronto,59 Innes Avenue,Corso Italia-Davenport,1299000.0,3+1,2,1500-2000,6
+257,ON,Toronto,671 Huron Street,Annex,2988888.0,3+1,5,2000-2500,9
+258,ON,Toronto,33 Lonsdale Road,Yonge-St. Clair,3750000.0,4,5,2500-3000,9
+259,ON,Toronto,117 William Duncan Road,Downsview-Roding-CFB,1499000.0,4+1,5,,10
+260,ON,Toronto,1057 Bathurst Street,Annex,3998000.0,4+4,3,,11
+261,ON,Toronto,161 Berry Road,Stonegate-Queensway,3498000.0,Apts-6 To 12 Units8400 sqft,Nan,0-0,0
+262,ON,Toronto,966 St Clarens Avenue,Corso Italia-Davenport,989000.0,3,2,0-0,5
+263,ON,Toronto,224 Cosburn Avenue,East York,849900.0,1+1,2,,4
+264,ON,Toronto,11 Rose Avenue,Cabbagetown-South St. James Town,5395000.0,8+3,10,,21
+265,ON,Toronto,39 Tarragona Boulevard,Junction Area,1298000.0,4,3,,7
+266,ON,Toronto,159 Boultbee Avenue,Blake-Jones,1699000.0,3+1,5,1500-2000,9
+267,ON,Toronto,280 Lisgar Street,Little Portugal,1950000.0,4+2,6,,12
+268,ON,Toronto,180 Drayton Avenue,Woodbine Corridor,1318000.0,3,2,,5
+269,ON,Toronto,116 Twenty Second Street,Mimico,2688000.0,6+3,6,,15
+270,ON,Toronto,207 Cowan Avenue,South Parkdale,6995000.0,9+4,14,,27
+271,ON,Toronto,723 Dovercourt Road,Palmerston-Little Italy,1345000.0,2,2,,4
+272,ON,Toronto,106 King Street,Weston,1800000.0,3,3,,6
+273,ON,Toronto,103 Chatsworth Drive,Lawrence Park South,4000000.0,8+2,6,,16
+274,ON,Toronto,18 Mallon Avenue,South Riverdale,1699000.0,3,2,,5
+275,ON,Toronto,1086 Queen Street W,Niagara,2495999.0,Store W/apt/office2995 sqft,Nan,0-0,0
+276,ON,Toronto,107 William Duncan Road,Downsview-Roding-CFB,1399000.0,3,3,2500-3000,6
+277,ON,Toronto,1032 Davenport Road,Wychwood,1999999.0,5,3,,8
+278,ON,Toronto,78 Amelia Street,Cabbagetown-South St. James Town,2399000.0,4+1,4,3000-3500,9
+279,ON,Toronto,130 Baldwin Street,Kensington-Chinatown,2288800.0,8+2,4,,14
+280,ON,Toronto,46 Shaftesbury Avenue,Rosedale-Moore Park,4388000.0,3+1,4,2000-2500,8
+281,ON,Toronto,166 Caledonia Road,Corso Italia-Davenport,1399900.0,5+2,5,,12
+282,ON,Toronto,15 Rebecca Street,Trinity-Bellwoods,1375000.0,2,2,,4
+283,ON,Toronto,308 Merton Street,Mount Pleasant West,1649900.0,3,3,,6
+284,ON,Toronto,86 Gainsborough Road,Woodbine Corridor,1399900.0,Apts-2 To 5 Units2605 sqft,Nan,0-0,0
+285,ON,Toronto,90 Gainsborough Road,Woodbine Corridor,1499900.0,Apts-2 To 5 Units2585 sqft,Nan,0-0,0
+286,ON,Toronto,13 Oaklands Avenue,Yonge-St. Clair,2495000.0,5,1,2000-2500,6
+287,ON,Toronto,1041 Birchmount Road,Ionview,6600000.0,9+9,14,0-0,32
+288,ON,Toronto,281 George Street,Moss Park,1880000.0,6+2,4,2500-3000,12
+289,ON,Toronto,667 Manning Avenue,Annex,3800000.0,Apts-2 To 5 Units4995 sqft,Nan,0-0,0
+290,ON,Toronto,165 St Clair Avenue E,Rosedale-Moore Park,4680000.0,9+7,10,,26
+291,ON,Toronto,732 Avenue Road,Forest Hill South,3995000.0,8,4,,12
+292,ON,Toronto,1103 College Street,Little Portugal,1899000.0,2,5,2000-2500,7
+293,ON,Toronto,483 Ontario Street,Cabbagetown-South St. James Town,3228800.0,4,3,,7
+294,ON,Toronto,MAIN UN-2977 Lawrence Ave E Avenue,Bendale,1899000.0,8,4,,12
+295,ON,Toronto,163 Brunswick Avenue,University,2290000.0,7,3,,10
+296,ON,Toronto,82 Lanark Avenue,Oakwood-Vaughan,1788000.0,4+1,3,,8
+297,ON,Toronto,80 Lanark Avenue,Oakwood-Vaughan,1788000.0,4+1,3,,8
+298,ON,Toronto,SUITE 3-662 Bathurst Street,Palmerston-Little Italy,2395000.0,3+1,3,1500-2000,7
+299,ON,Toronto,93 Spadina Road,Annex,4389900.0,2,16,,18
+300,ON,Toronto,1564 Queen Street E,Greenwood-Coxwell,1799000.0,3,5,,8
+301,ON,Toronto,198 Dunn Avenue,South Parkdale,4999900.0,Apts-6 To 12 Units5046 sqft,Nan,0-0,0
+302,ON,Toronto,1221 College Street,Dufferin Grove,1649000.0,3+2,2,,7
+303,ON,Toronto,2 Via Italia,Corso Italia-Davenport,2800000.0,6,2,,8
+304,ON,Toronto,457 Richmond Street E,Moss Park,39999990.0,Land1305 sqft,Nan,0-0,0
+305,ON,Toronto,704 Dufferin Street,Little Portugal,1290000.0,4+1,4,,9
+306,ON,Toronto,214 Hallmark Avenue,Alderwood,2149000.0,6+1,3,0-0,10
+307,ON,Toronto,2176 Gerrard Street E,East End-Danforth,8500000.0,Apts-over 20 Units30000 sqft,Nan,0-0,0
+308,ON,Toronto,8 Britain Street,Moss Park,4295000.0,4,4,5000+,8
+309,ON,Toronto,3146 Dundas Street W,Junction Area,1559000.0,Commercial/retail1600 sqft,Nan,0-0,0
+310,ON,Toronto,2011 Eglinton Avenue W,Caledonia-Fairbank,3199000.0,9+3,9,,21
